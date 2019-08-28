@@ -1,0 +1,1 @@
+# bulk-scan-ccd-definitions
