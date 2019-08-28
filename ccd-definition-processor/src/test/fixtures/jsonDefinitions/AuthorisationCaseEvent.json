@@ -1,0 +1,9 @@
+[
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "DRAFT",
+    "CaseEventID": "initiateCase",
+    "UserRole": "caseworker",
+    "CRUD": "CRU"
+  }
+]
