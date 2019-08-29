@@ -57,7 +57,19 @@
     "generate-bulk-excel-ithc": "DIV_ENV=ithc CCD_DEF_COS_URL=$npm_package_config_ithc_cosUrl CCD_DEF_CCD_URL=$npm_package_config_ithc_ccdUrl yarn run generate-bulk-excel",
     "generate-bulk-excel-prod": "DIV_ENV=prod CCD_DEF_COS_URL=$npm_package_config_prod_cosUrl CCD_DEF_CCD_URL=$npm_package_config_prod_ccdUrl yarn run generate-bulk-excel",
     "generate-bulk-excel": "yarn --cwd ccd-definition-processor json2xlsx -D ../definitions/bulk-action/json -o ../definitions/bulk-action/xlsx/ccd-div-bulk-action-config-${DIV_ENV:-base}.xlsx",
-    "generate-bulk-excel-all": "yarn generate-bulk-excel-local && yarn generate-bulk-excel-demo && yarn generate-bulk-excel-aat && yarn generate-bulk-excel-ithc && yarn generate-bulk-excel-prod"
+    "generate-bulk-excel-all": "yarn generate-bulk-excel-local && yarn generate-bulk-excel-demo && yarn generate-bulk-excel-aat && yarn generate-bulk-excel-ithc && yarn generate-bulk-excel-prod",
+
+    "generate-excel-aat-bulkscan": "DIV_ENV=aat DIV_TYPE=bulkscan source ./definitions/aat/env_variables &&  yarn run generate-excelfromjson",
+    "generate-json-aat-bulkscan": "DIV_ENV=aat DIV_TYPE=bulkscan source ./definitions/aat/env_variables && yarn run generate-jsonfromexcel",
+
+    "generate-excel-aat-exception": "DIV_ENV=aat DIV_TYPE=exception source ./definitions/aat/env_variables && yarn run generate-excelfromjson",
+    "generate-json-aat-exception": "DIV_ENV=aat DIV_TYPE=exception source ./definitions/aat/env_variables && yarn run generate-jsonfromexcel",
+
+
+    "generate-excelfromjson": "yarn --cwd ccd-definition-processor json2xlsx -D ../definitions/${DIV_ENV}/${DIV_TYPE}/json -o ../definitions/${DIV_ENV}/${DIV_TYPE}/output_xlsx/ccd-config-${DIV_ENV:-base}.xlsx",
+    "generate-jsonfromexcel": "yarn --cwd ccd-definition-processor xlsx2json -D ../definitions/${DIV_ENV}/${DIV_TYPE}/json -i ../definitions/${DIV_ENV}/${DIV_TYPE}/${DIV_TYPE}.template.xlsx && pretty-quick --pattern 'definitions/**/json/**.json'"
+
+
   },
   "pre-commit": [
     "lint"
