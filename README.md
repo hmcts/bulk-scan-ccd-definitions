@@ -4,15 +4,25 @@
 
 ### 1. Modify the JSON data
 
-There are two SSCS CCD definition case types. Move into the directory of the one you need.
+There are many bulk scan ccd CCD definition case types. Move into the directory of the one you need.
 
     bulk-scan-ccd-definitions
     |- definitions
         |- aat
-            |-bulkscan
-            |- exception 
+            |-cmc
+            |-divorce
+            |-finrem
+            |-probate
+            |-sscs
 
-    
+        |- demo
+            |-cmc
+            |-divorce
+            |-finrem
+            |-probate
+            |-sscs
+
+
 Everything in this README file now assumes that you are in your chosen directory.
         
 The JSON files are in the directory data/sheets. There is a JSON file for each CCD definition spreadsheet tab.
@@ -37,6 +47,8 @@ Make changes to the definition as you would normally.
 
 it requires Environment info as an argument. it will replace placehiolder URLs with  enviironment specific URLs.
 reates json would be in /data/sheets
+
+The source excel file which is going to be parsed to JSON should be under case Type folder(same level with data folder) and it can be named anything ending *.xlsx but there should be only 1 xlsx file.
 
 ```
 
