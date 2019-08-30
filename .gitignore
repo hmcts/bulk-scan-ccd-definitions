@@ -6,3 +6,5 @@ yarn-error.log
 *.iml
 .nyc_output
 test/functional/output
+/releases/*
+created-ccd.xlsx

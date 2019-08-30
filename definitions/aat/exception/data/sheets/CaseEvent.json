@@ -1,0 +1,33 @@
+[
+  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "ID": "createException", "Name": "Create an exception record", "Description": "Create an exception record", "DisplayOrder": 1, "PostConditionState": "ScannedRecordReceived", "SecurityClassification": "Public"},
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "attachToExistingCase",
+    "Name": "Attach record to existing case",
+    "Description": "Attach record to existing case",
+    "DisplayOrder": 2,
+    "PreConditionState(s)": "ScannedRecordReceived",
+    "PostConditionState": "ScannedRecordAttachedToCase",
+    "CallBackURLAboutToSubmitEvent": "http://bulk-scan-orchestrator-aat.service.core-compute-aat.internal/callback/attach_case",
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "CanSaveDraft": "N"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "createNewCase",
+    "Name": "Create new case from exception",
+    "Description": "Create a new case from exception",
+    "DisplayOrder": 3,
+    "PreConditionState(s)": "ScannedRecordReceived",
+    "PostConditionState": "ScannedRecordCaseCreated",
+    "CallBackURLAboutToSubmitEvent": "https://url.for.service.endpoint",
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "CanSaveDraft": "N"
+  },
+  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "ID": "rejectRecord", "Name": "Reject record", "Description": "Reject record", "DisplayOrder": 4, "PreConditionState(s)": "ScannedRecordReceived", "PostConditionState": "ScannedRecordRejected", "SecurityClassification": "Public", "ShowEventNotes": "N", "CanSaveDraft": "N"},
+  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "ID": "updateManually", "Name": "Manually handle record", "Description": "Manually handle record", "DisplayOrder": 5, "PreConditionState(s)": "ScannedRecordReceived", "PostConditionState": "ScannedRecordManuallyHandled", "SecurityClassification": "Public", "ShowEventNotes": "N", "CanSaveDraft": "N"}
+]
