@@ -1,1 +1,8 @@
-[{"LiveFrom": "01/01/2018", "ID": "BULKSCAN", "Name": "Bulk Scanning", "Description": "Bulk Scanning"}]
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "BULKSCAN",
+    "Name": "Bulk Scanning",
+    "Description": "Bulk Scanning"
+  }
+]

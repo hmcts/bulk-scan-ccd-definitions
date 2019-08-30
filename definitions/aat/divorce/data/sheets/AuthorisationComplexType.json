@@ -1,0 +1,170 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "type",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "subtype",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "url",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "controlNumber",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "fileName",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "scannedDate",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "deliveryDate",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "type",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "subtype",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "url",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "controlNumber",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "fileName",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "scannedDate",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "deliveryDate",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "type",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "subtype",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "url",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "controlNumber",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "fileName",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "scannedDate",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "deliveryDate",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  }
+]

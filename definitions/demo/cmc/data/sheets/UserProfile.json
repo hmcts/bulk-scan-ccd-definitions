@@ -1,0 +1,16 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "UserIDAMId": "nitin.prabhu@hmcts.net",
+    "WorkBasketDefaultJurisdiction": "CMC",
+    "WorkBasketDefaultCaseType": "CMC_ExceptionRecord",
+    "WorkBasketDefaultState": "ScannedRecordReceived"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "UserIDAMId": "claimantcmcsc@gmail.com",
+    "WorkBasketDefaultJurisdiction": "CMC",
+    "WorkBasketDefaultCaseType": "CMC_ExceptionRecord",
+    "WorkBasketDefaultState": "ScannedRecordReceived"
+  }
+]

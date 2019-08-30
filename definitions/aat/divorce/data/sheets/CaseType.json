@@ -1,0 +1,9 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "DIVORCE_ExceptionRecord",
+    "Name": "Exception Record",
+    "JurisdictionID": "DIVORCE",
+    "SecurityClassification": "Public"
+  }
+]

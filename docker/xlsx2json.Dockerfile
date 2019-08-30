@@ -7,6 +7,9 @@ COPY --from=base . .
 COPY ./*.xlsx /tmp/ccd.xlsx
 
 
+RUN npm install -g prettier
+
 
 RUN apk add --no-cache curl jq zip unzip git
-CMD cd /opt/ccd-definition-processor && mkdir -p /data/sheets && yarn xlsx2json -D /data/sheets -i /tmp/ccd.xlsx
+CMD cd /opt/ccd-definition-processor && mkdir -p /data/sheets && yarn xlsx2json -D /data/sheets -i /tmp/ccd.xlsx &&  prettier --write '/data/sheets/**.json'
+

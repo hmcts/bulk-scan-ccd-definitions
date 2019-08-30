@@ -1,0 +1,87 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "envelopeLabel",
+    "Label": "# Envelope meta data",
+    "HintText": "From Scan Envelope header",
+    "FieldType": "Label",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "journeyClassification",
+    "Label": "Journey Classification",
+    "HintText": "Was this a supplemenatry evidence / new case or exception",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "poBox",
+    "Label": "PO Box",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "poBoxJurisdiction",
+    "Label": "Jurisdiction",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "deliveryDate",
+    "Label": "Delivery Date",
+    "FieldType": "DateTime",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "openingDate",
+    "Label": "Opening Date",
+    "FieldType": "DateTime",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "scannedDocuments",
+    "Label": "Scanned Documents",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "ScannedDocument",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "scanOCRData",
+    "Label": "Form OCR Data",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "KeyValue",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "attachToCaseReference",
+    "Label": "Attach to Case Reference",
+    "HintText": "The number of the case to attach the envelop to",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "caseHistory",
+    "Label": "Case History",
+    "FieldType": "CaseHistoryViewer",
+    "SecurityClassification": "Public"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "LiveFrom": "05/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "05/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "05/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  }
+]
