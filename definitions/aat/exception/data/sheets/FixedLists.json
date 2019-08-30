@@ -1,0 +1,6 @@
+[
+  {"LiveFrom": "01/01/2018", "ID": "ScannedDocumentType", "ListElementCode": "cherished", "ListElement": "Cherished"},
+  {"LiveFrom": "01/01/2018", "ID": "ScannedDocumentType", "ListElementCode": "other", "ListElement": "Other"},
+  {"LiveFrom": "01/01/2018", "ID": "ReferenceType", "ListElementCode": "ccdCaseReference", "ListElement": "CCD Case Reference"},
+  {"LiveFrom": "01/01/2018", "ID": "ReferenceType", "ListElementCode": "externalCaseReference", "ListElement": "Legacy Case Reference"}
+]

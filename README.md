@@ -1,76 +1,43 @@
-# div-ccd-definitions
-Divorce configuration definitions for CCD
+# SSCS CCD Definitions
 
-## Setup
+## Process for developing locally using XLSX files
 
-### Pre-requirements 
-Install nvm to manage node from https://github.com/nvm-sh/nvm
+### 1. Modify the JSON data
 
-Install requiered node version using `nvm install`
+There are two SSCS CCD definition case types. Move into the directory of the one you need.
 
-### Install
+    sscs-ccd-definitions
+    |- definitions
+        |- aat
+            |-bulkscan
+            |- exception 
 
-Run `yarn install && yarn setup` to install the dependencies for both this project and the submodule
+    
+Everything in this README file now assumes that you are in your chosen directory.
+        
+The JSON files are in the directory data/sheets. There is a JSON file for each CCD definition spreadsheet tab.
 
-## Convert JSON to Excel
 
-### For all environments
 
-`yarn generate-excel-all` to generate excel configs for all environments (Demo, AAT and Prod) 
+### Generate the spreadsheet from the current JSON
 
-The generated excel files will be in `defintions/divorce/xlsx`
+```
+./../../bin/json2xlsx.sh
+```
 
-### For a specific environment
+This will create a file called /data/created-ccd.xlsx in the /data directory.
 
-`yarn generate-excel-(local\demo\aat\prod)` 
+### Make changes to the spreadsheet
 
-For example
+Make changes to the definition as you would normally.
 
-`yarn generate-excel-aat`
+### Convert the spreadsheet back to JSON
 
-### For a bulk-action config
+```
+./../../bin/xlsx2json.sh aat
 
-`yarn generate-bulk-excel-(local\demo\aat\prod)` 
+it requires Environment info as an argument. it will replace placehiolder URLs with  enviironment specific URLs.
+reates json would be in /data/sheets
 
-For example
+```
 
-`yarn generate-bulk-excel-aat`
-
-### For all environments bulk-action's config
-
-`yarn generate-bulk-excel-all` 
-
-## Convert Excel to JSON
-
-If you prefer to make the changes directly on the excel file, and then convert back to JSON:
-
-1) Generate a fresh **base** Excel file using the `yarn generate-excel`. The generated excel file will be in `defintions/divorce/xlsx/ccd-config-base.xlsx` and will contain placeholder URLs.
-2) Make the changes to `ccd-config-base.xlsx` but ensure you don't have any environment-specific URLs (use placeholders instead).
-3) Once you're satisfied with your changes in the Excel file, convert back to JSON using `yarn generate-json`
-4) Review the JSON file changes to ensure all your changes are correct
-
-## Accessing CCD on preview/per PR
-
-A full CCD instance is created PR via Helm charts which can be accessed using the details below.
-
-If you do not require this, add `[NO-CCD]` at the start of the PR title in GitHub.
-
-* Visit `https://gateway-div-ccd-definitions-pr-<number>.service.core-compute-preview.internal` and whitelist accept the SSL certificate
-* Access the PR on `https://case-management-web-div-ccd-definitions-pr-<number>.service.core-compute-preview.internal`
-* Login with an authorised AAT user [listed here](https://github.com/hmcts/div-ccd-definitions/blob/master/definitions/divorce/json/UserProfile.json)
-
-## Applications useful urls
-
-* CCD admin `https://admin-web-div-ccd-definitions-pr-<number>.service.core-compute-preview.internal`
-* CCD data-store-api `http://data-store-api-div-ccd-definitions-pr-<number>.service.core-compute-preview.internal`
-
-To run divorce test on CCD PR environment you need to replace `core_case_data.api.url` on COS and CMS to use your PR `data-store-api` URL 
-
-## Release
-
-When we make a major change for a release:
-
-1) Increment the version number in `CaseType.json` (e.g v113.xx)
-2) Generate all excel files using `yarn generate-excel-all`
-3) Create a new release in https://github.com/hmcts/div-ccd-definitions/releases/new
-4) Upload all the generate Excel files to the release and add give it the same version number from (1)
