@@ -4,7 +4,7 @@
 
 ### 1. Modify the JSON data
 
-There are many bulk scan ccd CCD definition case types. Move into the directory of the one you need.
+There are many bulk scan CCD definition case types. Move into the directory of the one you need.
 
     bulk-scan-ccd-definitions
     |- definitions
