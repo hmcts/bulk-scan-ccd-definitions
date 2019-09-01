@@ -57,4 +57,3 @@ it will replace placeholder URLs with  environment specific URLs, created json w
 The source excel file which is going to be parsed to JSON should be under case Type folder(same level with ./data folder) and it can be named anything ending *.xlsx but there should be only 1 xlsx file.
 
 ```
-
