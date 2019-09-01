@@ -9,6 +9,7 @@ There are many bulk scan CCD definition case types. Move into the directory of t
     bulk-scan-ccd-definitions
     |- definitions
         |- aat
+            |-bulkscan
             |-cmc
             |-divorce
             |-finrem
@@ -16,16 +17,21 @@ There are many bulk scan CCD definition case types. Move into the directory of t
             |-sscs
 
         |- demo
+            |-bulkscan
             |-cmc
             |-divorce
             |-finrem
             |-probate
             |-sscs
+        |- prod
+            |-divorce
+            |-probate
+            |-sscs
 
 
-Everything in this README file now assumes that you are in your chosen directory.
+Everything in this README file now assumes that you are in your chosen case type directory.
         
-The JSON files are in the directory data/sheets. There is a JSON file for each CCD definition spreadsheet tab.
+The JSON files are in the directory ./data/sheets. There is a JSON file for each CCD definition spreadsheet tab.
 
 
 ### Generate the spreadsheet from the current JSON
@@ -45,10 +51,10 @@ Make changes to the definition as you would normally.
 ```
 ../../../bin/xlsx2json.sh aat
 
-it requires Environment info as an argument. it will replace placehiolder URLs with  enviironment specific URLs.
-reates json would be in /data/sheets
+it requires Environment info as an argument. aat, demo or prod can be argument.
+it will replace placeholder URLs with  environment specific URLs, created json will be in ./data/sheets
 
-The source excel file which is going to be parsed to JSON should be under case Type folder(same level with data folder) and it can be named anything ending *.xlsx but there should be only 1 xlsx file.
+The source excel file which is going to be parsed to JSON should be under case Type folder(same level with ./data folder) and it can be named anything ending *.xlsx but there should be only 1 xlsx file.
 
 ```
 
