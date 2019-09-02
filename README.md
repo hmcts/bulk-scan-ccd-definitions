@@ -1,10 +1,11 @@
-# bulk scan ccd definitions
+# Bulk scan ccd definitions
 
 ## Process for developing locally using XLSX files
 
 ### 1. Modify the JSON data
 
-There are many bulk scan CCD definition case types. Move into the directory of the one you need.
+There are bulkscan,cmc,divorce,finrem,probate,sscs CCD definition case types. 
+Move into the directory of case type the one you need.
 
     bulk-scan-ccd-definitions
     |- definitions
