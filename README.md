@@ -40,7 +40,7 @@ The JSON files are in the directory ./data/sheets. There is a JSON file for each
 ../../../bin/json2xlsx.sh
 ```
 
-This will create a file called created-ccd.xlsx in the ./data directory.
+This will create a file called {ENV}-{CASETYPE}-created-ccd.xlsx in the ./data directory.
 
 ### Make changes to the spreadsheet
 
