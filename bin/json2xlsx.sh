@@ -11,9 +11,6 @@ DEFINITION_VERSION="dev"
 
 THEPATH=`pwd`
 ENVPATH=$(dirname $(dirname $THEPATH))
-echo "*******************************"
-echo $ENVPATH
-
 CASETYPE=`basename "$THEPATH"`
 FILENAME="$1-$CASETYPE-created-ccd"
 
