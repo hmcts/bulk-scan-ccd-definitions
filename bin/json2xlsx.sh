@@ -10,20 +10,13 @@ fi
 DEFINITION_VERSION="dev"
 
 THEPATH=`pwd`
-
-ENVPATH=`dirname "$THEPATH"`
-
-echo "$ENVPATH/env"
+ENVPATH=$(dirname $(dirname $THEPATH))
+echo "*******************************"
+echo $ENVPATH
 
 CASETYPE=`basename "$THEPATH"`
-
-
-
-
 FILENAME="$1-$CASETYPE-created-ccd"
 
-echo  $FILENAME
-echo  $ENVPATH/env
 
 # Create the importer image with a version number
 docker build --no-cache --build-arg FILE_NAME=$FILENAME --build-arg  ENV_VAR=$1 \
