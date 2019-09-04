@@ -8,3 +8,4 @@ yarn-error.log
 test/functional/output
 /releases/*
 created-ccd.xlsx
+*created-ccd.xlsx
