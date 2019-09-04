@@ -1,4 +1,4 @@
-# BULK SCAN CCD Definitions
+# Bulk Scan CCD Definitions
 
 
 ### 1. Modify the JSON data
@@ -26,7 +26,7 @@ ENV= can be aat, demo or prod
 ```
 
 This will create a file called {ENV}-{CASE TYPE}-created-ccd.xlsx in the /data directory.
-it requires Environment info as an argument.it will replace placehiolder URLs with  enviironment specific URLs.
+It requires environment info as an argument. It will replace placeholder URLs with  environment specific URLs.
 
 
 ### Make changes to the spreadsheet
@@ -38,8 +38,8 @@ Make changes to the definition as you would normally.
 ```
 ../../bin/xlsx2json.sh
 
-creates json files under /data/sheets
-The source excel file which is going to be parsed to JSON should be under case Type folder(same level with ./data folder) and it can be named anything ending *.xlsx but there should be only 1 xlsx file.
+Creates json files under /data/sheets
+The source excel file which is going to be parsed to JSON should be under case type folder (same level with ./data folder) and it can be named anything ending *.xlsx but there should be only 1 xlsx file.
 
 ```
 
