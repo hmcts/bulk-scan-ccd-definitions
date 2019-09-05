@@ -5,7 +5,6 @@
 
 Move into the directory of case type the one you need.
 
-    bulk-scan-ccd-definitions
     |- definitions
         |-sscs
 
