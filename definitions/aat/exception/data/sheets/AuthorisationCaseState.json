@@ -1,7 +1,0 @@
-[
-  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "CaseStateID": "ScannedRecordReceived", "UserRole": "caseworker-bulkscan", "CRUD": "CRUD"},
-  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "CaseStateID": "ScannedRecordAttachedToCase", "UserRole": "caseworker-bulkscan", "CRUD": "CRUD"},
-  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "CaseStateID": "ScannedRecordCaseCreated", "UserRole": "caseworker-bulkscan", "CRUD": "CRUD"},
-  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "CaseStateID": "ScannedRecordRejected", "UserRole": "caseworker-bulkscan", "CRUD": "CRUD"},
-  {"LiveFrom": "01/01/2018", "CaseTypeID": "BULKSCAN_ExceptionRecord", "CaseStateID": "ScannedRecordManuallyHandled", "UserRole": "caseworker-bulkscan", "CRUD": "CRUD"}
-]
