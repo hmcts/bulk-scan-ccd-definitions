@@ -1,0 +1,58 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "UserRole": "caseworker-cmc-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "UserRole": "caseworker-cmc-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "UserRole": "caseworker-cmc-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "UserRole": "caseworker-cmc-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "UserRole": "caseworker-cmc",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "UserRole": "caseworker-cmc",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "UserRole": "caseworker-cmc",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "UserRole": "caseworker-cmc",
+    "CRUD": "CRUD"
+  }
+]
