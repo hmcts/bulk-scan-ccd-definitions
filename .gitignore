@@ -7,4 +7,4 @@ yarn-error.log
 .nyc_output
 test/functional/output
 /releases/*
-created-ccd.xlsx
+*created-ccd.xlsx
