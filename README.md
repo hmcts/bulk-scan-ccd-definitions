@@ -6,6 +6,11 @@
 Move into the directory of case type the one you need.
 
     |- definitions
+        |-bulkscan
+        |-cmc
+        |-divorce
+        |-finrem
+        |-probate
         |-sscs
 
     
