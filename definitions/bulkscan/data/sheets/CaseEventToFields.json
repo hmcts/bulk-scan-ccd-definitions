@@ -1,0 +1,134 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "legacyId",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "firstName",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageDisplayOrder": 2
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "lastName",
+    "PageFieldDisplayOrder": 3,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageDisplayOrder": 3
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "dateOfBirth",
+    "PageFieldDisplayOrder": 4,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageDisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "contactNumber",
+    "PageFieldDisplayOrder": 5,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 2,
+    "PageLabel": "Contact Details",
+    "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "email",
+    "PageFieldDisplayOrder": 6,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 2,
+    "PageLabel": "Contact Details",
+    "PageDisplayOrder": 2
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "address",
+    "PageFieldDisplayOrder": 7,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 2,
+    "PageLabel": "Contact Details",
+    "PageDisplayOrder": 3
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 8,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 2,
+    "PageLabel": "Contact Details",
+    "PageDisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "createCase",
+    "CaseFieldID": "evidenceHandled",
+    "PageFieldDisplayOrder": 9,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 2,
+    "PageLabel": "Contact Details",
+    "PageDisplayOrder": 5
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "attachScannedDocs",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Documentation",
+    "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2019",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "attachScannedDocs",
+    "CaseFieldID": "evidenceHandled",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Documentation",
+    "PageDisplayOrder": 2
+  },
+  {
+    "LiveFrom": "01/01/2019",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "handleEvidence",
+    "CaseFieldID": "evidenceHandled",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Documentation",
+    "PageDisplayOrder": 1
+  }
+]
