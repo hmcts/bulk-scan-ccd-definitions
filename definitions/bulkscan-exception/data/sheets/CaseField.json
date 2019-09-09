@@ -123,7 +123,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "ID": "hasWarnings",
+    "ID": "displayWarnings",
     "Label": "Has warnings",
     "HintText": "Indicates if there are any warnings to display",
     "FieldType": "YesOrNo",
