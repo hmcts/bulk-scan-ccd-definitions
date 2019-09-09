@@ -89,7 +89,7 @@
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "ID": "caseReference",
     "Label": "Case Reference",
-    "HintText": "Reference number of the new case created from exception record or existing case to which evidence is attached",
+    "HintText": "Reference number of the new case created from exception record",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
   },
