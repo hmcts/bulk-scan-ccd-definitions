@@ -23,8 +23,15 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "Label": "New Case Reference",
+    "DisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
-    "DisplayOrder": 4
+    "DisplayOrder": 5
   }
 ]
