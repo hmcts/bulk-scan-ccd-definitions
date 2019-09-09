@@ -283,7 +283,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "formType",
-    "UserRole": "aseworker-sscs-bulkscan",
+    "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
