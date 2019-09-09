@@ -36,6 +36,14 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "formType",
+    "Label": "Form Type",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "ID": "deliveryDate",
     "Label": "Delivery Date",
     "FieldType": "DateTime",
@@ -101,6 +109,24 @@
     "Label": "Case Reference",
     "HintText": "The number of the case to attach the envelope to",
     "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "ocrDataValidationWarnings",
+    "Label": "OCR data validation warnings",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "TextArea",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "hasWarnings",
+    "Label": "Has warnings",
+    "HintText": "Indicates if there are any warnings to display",
+    "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
   }
 ]

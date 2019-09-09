@@ -18,7 +18,7 @@
     "DisplayOrder": 2,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordAttachedToCase",
-    "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/attach_case",
+    "CallBackURLAboutToSubmitEvent": " ${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/attach_case",
     "SecurityClassification": "Public",
     "ShowEventNotes": "N",
     "CanSaveDraft": "N"
