@@ -96,6 +96,17 @@
     "TabID": "ocr",
     "TabLabel": "Form OCR",
     "TabDisplayOrder": 4,
+    "CaseFieldID": "formType",
+    "TabFieldDisplayOrder": 1,
+    "FieldShowCondition": " "
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "ocr",
+    "TabLabel": "Form OCR",
+    "TabDisplayOrder": 4,
     "CaseFieldID": "scanOCRData",
     "TabFieldDisplayOrder": 1,
     "FieldShowCondition": " "
