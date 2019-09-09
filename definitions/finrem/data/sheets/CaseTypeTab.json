@@ -108,7 +108,7 @@
     "TabLabel": "Form OCR",
     "TabDisplayOrder": 4,
     "CaseFieldID": "scanOCRData",
-    "TabFieldDisplayOrder": 1,
+    "TabFieldDisplayOrder": 2,
     "FieldShowCondition": " "
   }
 ]
