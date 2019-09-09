@@ -108,5 +108,13 @@
     "Label": "# Journey Classification Label",
     "FieldType": "Label",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "ID": "formType",
+    "Label": "Form Type",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]

@@ -271,5 +271,26 @@
     "CaseFieldID": "labelJourneyClassification",
     "UserRole": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "UserRole": "caseworker-sscs",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "UserRole": "aseworker-sscs-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "UserRole": "caseworker-sscs-clerk",
+    "CRUD": "CRUD"
   }
 ]
