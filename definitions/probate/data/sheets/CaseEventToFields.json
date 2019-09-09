@@ -90,6 +90,17 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "createException",
+    "CaseFieldID": "formType",
+    "PageFieldDisplayOrder": 9,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "attachToCaseReference",
     "PageFieldDisplayOrder": 1,
