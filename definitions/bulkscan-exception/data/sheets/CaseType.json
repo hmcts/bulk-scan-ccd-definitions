@@ -1,9 +1,8 @@
 [
   {
     "LiveFrom": "01/01/2018",
-    "ID": "Bulk_Scanned",
-    "Name": "Bulk Scanning Case",
-    "Description": "Bulk Scanning Case",
+    "ID": "BULKSCAN_ExceptionRecord",
+    "Name": "Bulk Scanning Exception Record",
     "JurisdictionID": "BULKSCAN",
     "SecurityClassification": "PUBLIC"
   }
