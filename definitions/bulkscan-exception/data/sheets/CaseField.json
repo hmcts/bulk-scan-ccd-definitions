@@ -87,6 +87,15 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "caseReference",
+    "Label": "Case Reference",
+    "HintText": "Reference number of the new case created from exception record or existing case to which evidence is attached",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "ID": "caseHistory",
     "Label": "Case History",
     "FieldType": "CaseHistoryViewer",
