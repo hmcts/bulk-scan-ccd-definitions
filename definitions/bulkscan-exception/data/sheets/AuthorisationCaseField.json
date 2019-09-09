@@ -100,7 +100,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "CaseFieldID": "hasWarnings",
+    "CaseFieldID": "displayWarnings",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
   }
