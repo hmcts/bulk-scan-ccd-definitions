@@ -53,6 +53,16 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "Channel": "CaseWorker",
+    "TabID": "corespondance",
+    "TabLabel": "Corespondance",
+    "TabDisplayOrder": 2,
+    "CaseFieldID": "formType",
+    "TabFieldDisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "Channel": "CaseWorker",
     "TabID": "contactDetails",
     "TabLabel": "Contact Details",
     "TabDisplayOrder": 3,
