@@ -79,6 +79,15 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "caseReference",
+    "Label": "Case Reference",
+    "HintText": "Reference number of the new case created from exception record",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
     "ID": "caseHistory",
     "Label": "Case History",
     "FieldType": "CaseHistoryViewer",
