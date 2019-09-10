@@ -1,11 +1,33 @@
 [
   {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "warnings",
+    "TabLabel": "Warnings",
+    "TabDisplayOrder": 1,
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "TabFieldDisplayOrder": 1,
+    "TabShowCondition": "displayWarnings=\"Yes\""
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "warnings",
+    "TabLabel": "Warnings",
+    "TabDisplayOrder": 1,
+    "CaseFieldID": "displayWarnings",
+    "TabFieldDisplayOrder": 2,
+    "FieldShowCondition": "displayWarnings=\"{NeverShowThisField}\""
+  },
+  {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "CMC_ExceptionRecord",
     "Channel": "CaseWorker",
     "TabID": "eventHistory",
     "TabLabel": "Event History",
-    "TabDisplayOrder": 1,
+    "TabDisplayOrder": 2,
     "CaseFieldID": "caseHistory",
     "TabFieldDisplayOrder": 1
   },
@@ -15,7 +37,7 @@
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
-    "TabDisplayOrder": 2,
+    "TabDisplayOrder": 3,
     "CaseFieldID": "envelopeLabel",
     "TabFieldDisplayOrder": 1
   },
@@ -25,7 +47,7 @@
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
-    "TabDisplayOrder": 1,
+    "TabDisplayOrder": 3,
     "CaseFieldID": "journeyClassification",
     "TabFieldDisplayOrder": 2
   },
@@ -35,7 +57,7 @@
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
-    "TabDisplayOrder": 1,
+    "TabDisplayOrder": 3,
     "CaseFieldID": "poBox",
     "TabFieldDisplayOrder": 3
   },
@@ -45,7 +67,7 @@
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
-    "TabDisplayOrder": 1,
+    "TabDisplayOrder": 3,
     "CaseFieldID": "poBoxJurisdiction",
     "TabFieldDisplayOrder": 4
   },
@@ -55,7 +77,7 @@
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
-    "TabDisplayOrder": 1,
+    "TabDisplayOrder": 3,
     "CaseFieldID": "deliveryDate",
     "TabFieldDisplayOrder": 5
   },
@@ -65,7 +87,7 @@
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
-    "TabDisplayOrder": 1,
+    "TabDisplayOrder": 3,
     "CaseFieldID": "openingDate",
     "TabFieldDisplayOrder": 6
   },
@@ -75,7 +97,7 @@
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
-    "TabDisplayOrder": 1,
+    "TabDisplayOrder": 3,
     "CaseFieldID": "attachToCaseReference",
     "TabFieldDisplayOrder": 7
   },
@@ -85,7 +107,7 @@
     "Channel": "CaseWorker",
     "TabID": "documentation",
     "TabLabel": "Documents",
-    "TabDisplayOrder": 3,
+    "TabDisplayOrder": 4,
     "CaseFieldID": "scannedDocuments",
     "TabFieldDisplayOrder": 1
   },
@@ -95,7 +117,7 @@
     "Channel": "CaseWorker",
     "TabID": "ocr",
     "TabLabel": "Form OCR",
-    "TabDisplayOrder": 4,
+    "TabDisplayOrder": 5,
     "CaseFieldID": "formType",
     "TabFieldDisplayOrder": 1,
     "FieldShowCondition": " "
@@ -106,7 +128,7 @@
     "Channel": "CaseWorker",
     "TabID": "ocr",
     "TabLabel": "Form OCR",
-    "TabDisplayOrder": 4,
+    "TabDisplayOrder": 5,
     "CaseFieldID": "scanOCRData",
     "TabFieldDisplayOrder": 2,
     "FieldShowCondition": " "

@@ -31,28 +31,56 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseStateID": "ScannedRecordReceived",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseStateID": "ScannedRecordAttachedToCase",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseStateID": "ScannedRecordRejected",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseStateID": "ScannedRecordManuallyHandled",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "UserRole": "caseworker-cmc-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "UserRole": "caseworker-cmc-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "UserRole": "caseworker-cmc-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "UserRole": "caseworker-cmc-bulkscan",
     "CRUD": "CRUD"
   }
 ]

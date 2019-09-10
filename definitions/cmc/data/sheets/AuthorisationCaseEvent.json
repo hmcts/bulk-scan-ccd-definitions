@@ -24,21 +24,42 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseEventID": "createException",
+    "UserRole": "caseworker-cmc-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseEventID": "attachToExistingCase",
+    "UserRole": "caseworker-cmc-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseEventID": "rejectRecord",
+    "UserRole": "caseworker-cmc-bulkscan",
     "CRUD": "CRUD"
   }
 ]
