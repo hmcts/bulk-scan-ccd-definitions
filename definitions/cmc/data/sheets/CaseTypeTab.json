@@ -96,8 +96,19 @@
     "TabID": "ocr",
     "TabLabel": "Form OCR",
     "TabDisplayOrder": 4,
-    "CaseFieldID": "scanOCRData",
+    "CaseFieldID": "formType",
     "TabFieldDisplayOrder": 1,
+    "FieldShowCondition": " "
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "ocr",
+    "TabLabel": "Form OCR",
+    "TabDisplayOrder": 4,
+    "CaseFieldID": "scanOCRData",
+    "TabFieldDisplayOrder": 2,
     "FieldShowCondition": " "
   }
 ]
