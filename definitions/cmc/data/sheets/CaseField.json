@@ -100,5 +100,13 @@
     "HintText": "The number of the case to attach the envelop to",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "formType",
+    "Label": "Form Type",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]

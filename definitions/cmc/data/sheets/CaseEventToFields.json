@@ -79,6 +79,17 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseEventID": "createException",
+    "CaseFieldID": "formType",
+    "PageFieldDisplayOrder": 8,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondence",
+    "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 2,
