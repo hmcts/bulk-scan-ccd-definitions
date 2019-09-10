@@ -22,17 +22,5 @@
     "ID": "ScannedDocumentType",
     "ListElementCode": "coversheet",
     "ListElement": "Coversheet"
-  },
-  {
-    "LiveFrom": "04/01/2018",
-    "ID": "ReferenceType",
-    "ListElementCode": "ccdCaseReference",
-    "ListElement": "CCD Case Reference"
-  },
-  {
-    "LiveFrom": "05/01/2018",
-    "ID": "ReferenceType",
-    "ListElementCode": "externalCaseReference",
-    "ListElement": "Legacy Case Reference"
   }
 ]

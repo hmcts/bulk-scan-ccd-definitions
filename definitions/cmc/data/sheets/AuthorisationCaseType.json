@@ -8,7 +8,13 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
-    "UserRole": "caseworker-cmc",
+    "UserRole": "caseworker-cmc-courtAdmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "UserRole": "caseworker-cmc-bulkscan",
     "CRUD": "CRUD"
   }
 ]

@@ -75,17 +75,9 @@
   {
     "LiveFrom": "01/01/2018",
     "ID": "ScannedDocument",
-    "ListElementCode": "exceptionRecordReference",
-    "FieldType": "Text",
-    "ElementLabel": "Exception record reference",
-    "SecurityClassification": "PUBLIC"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "ID": "ScannedDocument",
     "ListElementCode": "deliveryDate",
     "FieldType": "DateTime",
-    "ElementLabel": "Delivery date",
+    "ElementLabel": "Delivery Date",
     "SecurityClassification": "PUBLIC"
   }
 ]
