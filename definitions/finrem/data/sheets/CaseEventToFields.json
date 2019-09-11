@@ -91,7 +91,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseEventID": "createException",
-    "CaseFieldID": "formType",
+    "CaseFieldID": "fromType",
     "PageFieldDisplayOrder": 9,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,

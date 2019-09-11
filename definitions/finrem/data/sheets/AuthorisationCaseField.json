@@ -65,6 +65,20 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
+    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "formType",
     "UserRole": "caseworker-divorce-financialremedy-courtadmin",
     "CRUD": "CRUD"
@@ -135,13 +149,6 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseFieldID": "formType",
-    "UserRole": "caseworker-divorce-systemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "caseHistory",
     "UserRole": "caseworker-divorce-financialremedy-courtadmin",
     "CRUD": "CRUD"
@@ -150,6 +157,27 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "formType",
     "UserRole": "caseworker-divorce-systemupdate",
     "CRUD": "CRUD"
   },
@@ -220,6 +248,20 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
     "UserRole": "caseworker-divorce-bulkscan",
     "CRUD": "CRUD"
   },
