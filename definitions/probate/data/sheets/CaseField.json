@@ -87,8 +87,26 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
+    "ID": "ocrDataValidationWarnings",
+    "Label": "OCR data validation warnings",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "TextArea",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "ID": "displayWarnings",
+    "Label": "Display warnings",
+    "HintText": "Indicates if Warnings tab should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
     "ID": "formType",
-    "Label": "Form Type",
+    "Label": "FormType",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
   }
