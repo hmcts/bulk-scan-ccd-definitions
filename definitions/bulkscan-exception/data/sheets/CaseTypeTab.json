@@ -108,7 +108,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "attachToCaseReference",
+    "CaseFieldID": "caseReference",
     "TabFieldDisplayOrder": 8
   },
   {
@@ -118,7 +118,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "caseReference",
+    "CaseFieldID": "attachToCaseReference",
     "TabFieldDisplayOrder": 9
   },
   {
