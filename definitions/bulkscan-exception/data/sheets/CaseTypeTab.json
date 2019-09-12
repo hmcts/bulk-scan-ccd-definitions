@@ -8,7 +8,7 @@
     "TabDisplayOrder": 1,
     "CaseFieldID": "ocrDataValidationWarnings",
     "TabFieldDisplayOrder": 1,
-    "TabShowCondition": "hasWarnings=\"Yes\""
+    "TabShowCondition": "displayWarnings=\"Yes\""
   },
   {
     "LiveFrom": "01/01/2018",
@@ -17,9 +17,9 @@
     "TabID": "warnings",
     "TabLabel": "Warnings",
     "TabDisplayOrder": 1,
-    "CaseFieldID": "hasWarnings",
+    "CaseFieldID": "displayWarnings",
     "TabFieldDisplayOrder": 2,
-    "FieldShowCondition": "hasWarnings=\"{NeverShowThisField}\""
+    "FieldShowCondition": "displayWarnings=\"{NeverShowThisField}\""
   },
   {
     "LiveFrom": "01/01/2018",
@@ -108,8 +108,18 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "attachToCaseReference",
+    "CaseFieldID": "caseReference",
     "TabFieldDisplayOrder": 8
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "envelope",
+    "TabLabel": "Envelope",
+    "TabDisplayOrder": 3,
+    "CaseFieldID": "attachToCaseReference",
+    "TabFieldDisplayOrder": 9
   },
   {
     "LiveFrom": "01/01/2018",

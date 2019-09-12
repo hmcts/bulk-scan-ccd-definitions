@@ -90,6 +90,17 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseEventID": "createException",
+    "CaseFieldID": "formType",
+    "PageFieldDisplayOrder": 9,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondence",
+    "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "attachToCaseReference",
     "PageFieldDisplayOrder": 1,
@@ -147,10 +158,10 @@
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseEventID": "updateManually",
     "CaseFieldID": "scanOCRData",
-    "PageFieldDisplayOrder": 2,
+    "PageFieldDisplayOrder": 1,
     "DisplayContext": "READONLY",
     "PageID": 1,
     "PageLabel": "Corespondence",
-    "PageDisplayOrder": 1
+    "PageDisplayOrder": 2
   }
 ]

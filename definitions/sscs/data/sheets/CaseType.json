@@ -2,7 +2,7 @@
   {
     "LiveFrom": "01/01/2018",
     "ID": "SSCS_ExceptionRecord",
-    "Name": "SSCS Bulkscanning v1.0.15_AAT",
+    "Name": "SSCS Bulkscanning",
     "Description": "Bulkscanning Exception",
     "JurisdictionID": "SSCS",
     "SecurityClassification": "PUBLIC"
