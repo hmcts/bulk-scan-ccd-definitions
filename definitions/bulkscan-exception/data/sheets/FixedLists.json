@@ -13,6 +13,18 @@
   },
   {
     "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "coversheet",
+    "ListElement": "Coversheet"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "form",
+    "ListElement": "Form"
+  },
+  {
+    "LiveFrom": "01/01/2018",
     "ID": "ReferenceType",
     "ListElementCode": "ccdCaseReference",
     "ListElement": "CCD Case Reference"
