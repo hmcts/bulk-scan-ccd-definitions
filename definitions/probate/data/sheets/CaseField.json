@@ -72,7 +72,16 @@
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "ID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
-    "HintText": "Reference number of the new case created from exception record or existing case to which evidence is attached",
+    "HintText": "The CCD reference number of the case the exception record is attached to",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "ID": "caseReference",
+    "Label": "Case Reference",
+    "HintText": "Reference number of the new case created from exception record",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
   },
