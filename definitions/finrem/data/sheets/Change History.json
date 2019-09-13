@@ -61,5 +61,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "05/09/2019",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.1,
+    "Description of Changes": "Add Formtype to Ocr tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "12/09/2019",
+    "Created By": "Mustafa Dayican"
   }
 ]
