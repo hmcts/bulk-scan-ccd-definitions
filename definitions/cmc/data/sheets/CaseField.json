@@ -44,6 +44,14 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "formType",
+    "Label": "Form Type",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
     "ID": "openingDate",
     "Label": "Opening Date",
     "FieldType": "DateTime",
@@ -70,12 +78,22 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "attachToCaseReference",
+    "Label": "Case Reference",
+    "HintText": "The number of the case to attach the envelop to",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
     "ID": "caseHistory",
     "Label": "Case History",
     "FieldType": "CaseHistoryViewer",
     "SecurityClassification": "PUBLIC"
   },
   {
+    "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "ID": "searchCaseReferenceType",
     "Label": "Case Reference Type",
@@ -85,6 +103,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
+    "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "ID": "searchCaseReference",
     "Label": "Case Reference",
@@ -95,10 +114,19 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
-    "ID": "attachToCaseReference",
-    "Label": "Case Reference",
-    "HintText": "The number of the case to attach the envelop to",
-    "FieldType": "Text",
+    "ID": "ocrDataValidationWarnings",
+    "Label": "OCR data validation warnings",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "TextArea",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "displayWarnings",
+    "Label": "Display warnings",
+    "HintText": "Indicates if Warnings tab should be displayed",
+    "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
   }
 ]
