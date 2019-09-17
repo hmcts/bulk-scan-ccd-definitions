@@ -1,0 +1,104 @@
+[
+  {
+    "Version Number": "0.1.0",
+    "Description of Changes": "Initial definition file for Bulk Scanning Phase 1",
+    "Uses CCD Template": "N/A",
+    "Date": 43371,
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Version Number": "0.2.0",
+    "Description of Changes": "Set URL for bulk scan",
+    "Date": 43584,
+    "Created By": "Rafal Kondratowicz"
+  },
+  {
+    "Version Number": "0.2.1",
+    "Description of Changes": "Remove duplicate entry in CaseEventToFields",
+    "Date": 43584,
+    "Created By": "Rafal Kondratowicz"
+  },
+  {
+    "Version Number": "0.2.2",
+    "Description of Changes": "Fix auth roles",
+    "Date": 43586,
+    "Created By": "Rafal Kondratowicz"
+  },
+  {
+    "Version Number": "0.2.3",
+    "Description of Changes": "Fix auth roles in Authorisation Case event tab",
+    "Date": 43587,
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.4",
+    "Description of Changes": "Added scan ocr data field in CaseField and AuthorisationCaseField tabs",
+    "Date": 43592,
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Description of Changes": "Added case history viewer changes",
+    "Date": 43592,
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Description of Changes": "Update ScannedDate in ScannedDocument Complex type to DateTime",
+    "Date": 43592,
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Description of Changes": "Update delivery date and scanned date type to Date Time",
+    "Date": 43592,
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Version Number": "0.2.5",
+    "Description of Changes": "Update CaseEvent",
+    "Date": 43593,
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Version Number": "0.2.6",
+    "Description of Changes": "Added new role to Authorisation tabs",
+    "Date": 43615,
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.7",
+    "Description of Changes": "Added POBox field to WorkBasketResults tab",
+    "Date": 43622,
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.8",
+    "Description of Changes": "Update ScannedDocument complex type to include deliveryDate field. Removed exceptionRecordReference field from scannedDcoument complex type.",
+    "Date": 43627,
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.9",
+    "Description of Changes": "Added AuthorisationComplexType tab",
+    "Date": 43635,
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.10",
+    "Description of Changes": "Add JourneyClassification to SearchInputFields and WorkBasketResultFields",
+    "Date": 43678,
+    "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "0.2.11",
+    "Description of Changes": "Add Warnings tab",
+    "Uses CCD Template": "N/A",
+    "Date": 43713,
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.2.12",
+    "Description of Changes": "Add formType field. Replace caseworker-cmc-courtAdmin role with caseworker-cmc",
+    "Uses CCD Template": "N/A",
+    "Date": 43724,
+    "Created By": "Aliveni Choppa"
+  }
+]
