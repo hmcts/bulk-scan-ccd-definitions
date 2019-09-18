@@ -18,4 +18,4 @@ ENV ENV_VAR ${ENV_VAR}
 COPY ./data /data
 
 
-CMD source /env/$ENV_VAR"-env-variables.sh" && cd /opt/ccd-definition-processor && yarn json2xlsx -D /data/sheets -o /data/${FILE_NAME}.xlsx
+CMD source /env/$ENV_VAR"-env-variables.sh" && cp /env/ccd-template.xlsx  /opt/ccd-definition-processor/data/ccd-template.xlsx  && cd /opt/ccd-definition-processor && yarn json2xlsx -D /data/sheets -o /data/${FILE_NAME}.xlsx
