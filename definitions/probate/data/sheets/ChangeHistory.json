@@ -71,6 +71,13 @@
     "Description of Changes": "Add Formtype field to OCR tab",
     "Uses CCD Template": "N/A",
     "Date": 43720,
-    "Created By": "Mustafa Dayican "
+    "Created By": "Mustafa Dayican"
+  },
+  {
+    "Dev Version Number": 0.12,
+    "Description of Changes": "Add caseReference field to see the new case id created from the Exception Record",
+    "Uses CCD Template": "N/A",
+    "Date": 43720,
+    "Created By": "Aliveni Choppa"
   }
 ]
