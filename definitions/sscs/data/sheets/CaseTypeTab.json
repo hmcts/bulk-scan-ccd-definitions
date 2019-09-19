@@ -128,7 +128,7 @@
     "TabID": "ocr",
     "TabLabel": "Form OCR",
     "TabDisplayOrder": 5,
-    "CaseFieldID": "scanOCRData",
+    "CaseFieldID": "formType",
     "TabFieldDisplayOrder": 1,
     "FieldShowCondition": " "
   },
@@ -139,8 +139,8 @@
     "TabID": "ocr",
     "TabLabel": "Form OCR",
     "TabDisplayOrder": 5,
-    "CaseFieldID": "formType",
-    "TabFieldDisplayOrder": 1,
+    "CaseFieldID": "scanOCRData",
+    "TabFieldDisplayOrder": 2,
     "FieldShowCondition": " "
   }
 ]

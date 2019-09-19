@@ -131,7 +131,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "ID": "formType",
-    "Label": "Forn Type",
+    "Label": "Form Type",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
   }
