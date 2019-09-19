@@ -57,7 +57,8 @@ The source excel file which is going to be parsed to JSON should be under case t
 5. Upload the service Exception Record CCD definition in confluence (service-demo folder).
 6. If there are code changes involved, deploy the code changes in demo environment and request QA to test the changes.
 7. Raise a PR for ccd-definitions changes to merge in the master branch.
-8. Upload the CCD definition in AAT and PROD (raise a JIRA ticket for CCD team to upload the CCD defintiion in PROD).
-9. Upload the CCD definition spreadsheets in confluence (service-AAT and service-PROD folders).
-10. Raise PR/s for code changes to merge the changes in the master branch.          
+8. Update bulkscan CCD definition in bulk-scan-shared-infrastructure repository.
+9. Upload the CCD definition in AAT and PROD (raise a JIRA ticket for CCD team to upload the CCD defintiion in PROD).
+10. Upload the CCD definition spreadsheets in confluence (service-AAT and service-PROD folders).
+11. Raise PR/s for code changes to merge the changes in the master branch.          
 
