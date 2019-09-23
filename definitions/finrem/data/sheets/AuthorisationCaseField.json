@@ -86,13 +86,6 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseFieldID": "envelopeId",
-    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-divorce-systemupdate",
     "CRUD": "CRUD"
@@ -283,13 +276,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "formType",
-    "UserRole": "caseworker-divorce-bulkscan",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseFieldID": "envelopeId",
     "UserRole": "caseworker-divorce-bulkscan",
     "CRUD": "CRUD"
   }
