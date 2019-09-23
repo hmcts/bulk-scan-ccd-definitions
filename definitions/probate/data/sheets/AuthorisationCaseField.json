@@ -191,13 +191,6 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "envelopeId",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "CRUD"
@@ -283,13 +276,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "formType",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "envelopeId",
     "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "CRUD"
   },
@@ -409,13 +395,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "formType",
-    "UserRole": "caseworker-probate-bulkscan",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "envelopeId",
     "UserRole": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   }
