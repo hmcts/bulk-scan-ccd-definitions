@@ -109,5 +109,14 @@
     "Label": "Form Type",
     "FieldType": "Text",
     "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "ID": "envelopeId",
+    "Label": "Envelope ID",
+    "HintText": "ID of the envelope the exception record was created from",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]
