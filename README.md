@@ -19,7 +19,7 @@ Everything in this README file now assumes that you are in your chosen case type
 The JSON files are in the directory data/sheets. There is a JSON file for each CCD definition spreadsheet tab.
 
 
-### Generate the spreadsheet from the current JSON
+### Generate the spreadsheet from the current JSON files
 
 ```
 ../../bin/json2xlsx.sh {ENV}
