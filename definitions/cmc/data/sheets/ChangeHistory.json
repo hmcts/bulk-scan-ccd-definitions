@@ -100,5 +100,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "16/09/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.13",
+    "Description of Changes": "Add envelopeId field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "23/09/2019",
+    "Created By": "Leszek Gonczar"
   }
 ]
