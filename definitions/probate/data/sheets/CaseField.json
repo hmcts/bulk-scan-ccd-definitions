@@ -127,5 +127,14 @@
     "HintText": "ID of the envelope the exception record was created from",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "ID": "awaitingDCNProcessing",
+    "Label": "Awaiting Payments processing?",
+    "HintText": "Indicates if the Payments processing is pending",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]
