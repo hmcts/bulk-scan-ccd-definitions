@@ -75,5 +75,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "23/09/2019",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.12",
+    "Description of Changes": "Add awaitingDcnProcessing field to ExceptionRecord",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "27/09/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]
