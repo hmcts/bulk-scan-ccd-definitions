@@ -118,5 +118,14 @@
     "HintText": "ID of the envelope the exception record was created from",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "awaitingDCNProcessing",
+    "Label": "Awaiting Payment DCNs processing",
+    "HintText": "Indicates if the payment document control numbers are processed",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]

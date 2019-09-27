@@ -278,5 +278,12 @@
     "CaseFieldID": "formType",
     "UserRole": "caseworker-divorce-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "awaitingDCNProcessing",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
   }
 ]
