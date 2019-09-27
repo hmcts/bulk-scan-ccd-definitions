@@ -1,0 +1,135 @@
+[
+  {
+    "Version Number": 0.01,
+    "Description of Changes": "Initial definition file for Bulk Scanning Phase 1",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "10/09/2018",
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Version Number": 0.02,
+    "Description of Changes": "Set jurisdiction to BULKSCAN",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "03/10/2018",
+    "Created By": "Luigi Bitonti"
+  },
+  {
+    "Version Number": 0.03,
+    "Description of Changes": "Added attachScannedDocs case event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/10/2018",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.04,
+    "Description of Changes": "Removed scanDocument1 field from case",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/10/2018",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.05,
+    "Description of Changes": "Renamed scanDocument2 field to scannedDocuments",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/10/2018",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.06,
+    "Description of Changes": "Renamed ServiceDocument complex type to ScannedDocument",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/10/2018",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.07,
+    "Description of Changes": "Changed the field set in ScannedDocument complex type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/10/2018",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.08,
+    "Description of Changes": "Added evidenceHandled field and handleEvidence event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "15/10/2018",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.09,
+    "Description of Changes": "Changed scannedDate field in ScannedDocument complex type to DateTime type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "31/10/2018",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": 0.10,
+    "Description of Changes": "Refactored to add case fields and rename events",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/11/2018",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": 0.11,
+    "Description of Changes": "Updated CaseEventToFields list for handleEvidence event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "26/11/2018",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": 0.12,
+    "Description of Changes": "Updated Document complex type tab to include subtype",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/01/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": 0.13,
+    "Description of Changes": "Added custom event history tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "20/03/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": 0.14,
+    "Description of Changes": "Created SearchAlias tab and added legacyId case field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "13/05/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.15,
+    "Description of Changes": "Included legacyId field in createCase event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "21/05/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": 0.16,
+    "Description of Changes": "Added deliveryDate field to ScannedDocument in complex types tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "14/06/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": 0.17,
+    "Description of Changes": "Added new fields to the case to test phase 2 changes",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "20/06/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": 0.18,
+    "Description of Changes": "Update CaseEventToFields tab. Fields dateOfBirth, contactNumber, email and address are optional now.",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "14/08/2019",
+    "Created By": "Nitin Prabhu"
+  },
+  {
+    "Version Number": 0.19,
+    "Description of Changes": "Add coversheet and form to ScannedDocumentType",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "13/09/2019",
+    "Created By": "Leszek Gonczar"
+  }
+]
