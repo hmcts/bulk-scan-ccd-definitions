@@ -1,0 +1,149 @@
+[
+  {
+    "Version Number": "0.01",
+    "Description of Changes": "Initial definition file for Exception Record",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "11/10/2018",
+    "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "0.02",
+    "Description of Changes": "Review fields and types for new exception event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "26/10/2018",
+    "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "0.03",
+    "Description of Changes": "Delivery and Opening dates are of DateTime type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "26/10/2018",
+    "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "0.04",
+    "Description of Changes": "Changed scannedDate field in ScannedDocument complex type to DateTime type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "31/10/2018",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.05",
+    "Description of Changes": "Refactored to add case fields and rename events",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/11/2018",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.06",
+    "Description of Changes": "Renamed exception record case type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "07/12/2018",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.07",
+    "Description of Changes": "Updated Document complex type tab to include subtype",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/01/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.08",
+    "Description of Changes": "Added custom event history tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "20/03/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.09",
+    "Description of Changes": "Added searchCaseReference and searchCaseReferenceType fields",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "21/05/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.10",
+    "Description of Changes": "Changed the Label and HintText of attachToCaseReference field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "21/05/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.11",
+    "Description of Changes": "Ranamed caseReference ReferenceType to ccdCaseReference",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "28/05/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.12",
+    "Description of Changes": "Changed externalCaseReference fixed list element's display name",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "06/06/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.13",
+    "Description of Changes": "Added deliveryDate field to ScannedDocument in ComplexTypes tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "14/06/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.14",
+    "Description of Changes": "Add AuthorisationComplexType tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "18/06/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.15",
+    "Description of Changes": "Add JourneyClassification to SearchInputFields and WorkBasketResultFields",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "01/08/2019",
+    "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "0.16",
+    "Description of Changes": "Add Warnings tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "02/09/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.17",
+    "Description of Changes": "Rename hasWarnings field to displayWarnings",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/09/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.18",
+    "Description of Changes": "Add formType field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/09/2019",
+    "Created By": "Mustafa Dayican"
+  },
+  {
+    "Version Number": "0.19",
+    "Description of Changes": "Add new caseReference field in Workbasket and Search results",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/09/2019",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.20",
+    "Description of Changes": "Add envelopeId field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/09/2019",
+    "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.21",
+    "Description of Changes": "Add coversheet and form to ScannedDocumentType",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/09/2019",
+    "Created By": "Leszek Gonczar"
+  }
+]
