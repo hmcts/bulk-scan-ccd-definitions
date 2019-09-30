@@ -134,7 +134,7 @@
     "ID": "awaitingDCNProcessing",
     "Label": "Awaiting Payment DCNs processing",
     "HintText": "Indicates if the payment document control numbers are processed",
-    "FieldType": "Text",
+    "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
   }
 ]
