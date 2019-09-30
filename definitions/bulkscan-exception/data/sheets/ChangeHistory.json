@@ -145,5 +145,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "16/09/2019",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.22",
+    "Description of Changes": "Add formType field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "26/09/2019",
+    "Created By": "Andrey Pereverzin"
   }
 ]

@@ -91,7 +91,7 @@
     "Created By": "Leszek Gonczar"
   },
   {
-    "Version Number": 0.14,
+    "Version Number": "0.14",
     "Description of Changes": "Add formType field",
     "Uses CCD Template": "N/A",
     "LiveFrom": "26/09/2019",
