@@ -282,7 +282,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
-    "CaseFieldID": "awaitingDCNProcessing",
+    "CaseFieldID": "awaitingPaymentDcnsProcessing",
     "UserRole": "caseworker-divorce-systemupdate",
     "CRUD": "CRUD"
   }
