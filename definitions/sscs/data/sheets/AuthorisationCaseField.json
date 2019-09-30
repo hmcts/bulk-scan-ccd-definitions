@@ -345,7 +345,7 @@
   {
     "LiveFrom": "27/09/2019",
     "CaseTypeID": "SSCS_ExceptionRecord",
-    "CaseFieldID": "awaitingDCNProcessing",
+    "CaseFieldID": "awaitingPaymentDcnsProcessing",
     "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   }
