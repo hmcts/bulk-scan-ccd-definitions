@@ -110,5 +110,26 @@
     "CaseEventID": "updateManually",
     "UserRole": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/09/2019",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "UserRole": "caseworker-probate-issuer",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/09/2019",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "UserRole": "caseworker-probate-caseadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/09/2019",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
