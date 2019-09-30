@@ -1,81 +1,81 @@
 [
   {
-    "Version Number": 0.01,
+    "Version Number": "0.01",
     "Description of Changes": "Create a exception spread sheet",
     "Uses CCD Template": "N/A",
     "LiveFrom": "21/01/2019",
     "Created By": "Ganesh Raja"
   },
   {
-    "Version Number": 0.02,
+    "Version Number": "0.02",
     "Description of Changes": "Added custom event history tab",
     "Uses CCD Template": "N/A",
     "LiveFrom": "21/03/2019",
     "Created By": "Aliveni Choppa"
   },
   {
-    "Version Number": 0.03,
+    "Version Number": "0.03",
     "Description of Changes": "Added exception record id to WorkBasket results",
     "Uses CCD Template": "N/A",
     "LiveFrom": "03/04/2019",
     "Created By": "Aliveni Choppa"
   },
   {
-    "Version Number": 0.04,
+    "Version Number": "0.04",
     "Description of Changes": "Added new document types",
     "LiveFrom": "17/04/2019",
     "Created By": "Rafal Kondratowicz"
   },
   {
-    "Version Number": 0.05,
+    "Version Number": "0.05",
     "Description of Changes": "CaseEvent tab cleanup (probate content was added to the top right side of the sheet)",
     "LiveFrom": "09/05/2019",
     "Created By": "Aliveni Choppa"
   },
   {
-    "Version Number": 0.06,
+    "Version Number": "0.06",
     "Description of Changes": "Added new role to Authorisation tabs",
     "Uses CCD Template": "N/A",
     "LiveFrom": "30/05/2019",
     "Created By": "Aliveni Choppa"
   },
   {
-    "Version Number": 0.07,
+    "Version Number": "0.07",
     "Description of Changes": "Added PO Box field to WorkBasketResults tab",
     "Uses CCD Template": "N/A",
     "LiveFrom": "06/06/2019",
     "Created By": "Aliveni Choppa"
   },
   {
-    "Version Number": 0.08,
+    "Version Number": "0.08",
     "Description of Changes": "Updated ScannedDocument complex type to include deliveryDate field",
     "Uses CCD Template": "N/A",
     "LiveFrom": "11/06/2019",
     "Created By": "Aliveni Choppa"
   },
   {
-    "Version Number": 0.09,
+    "Version Number": "0.09",
     "Description of Changes": "Added AuthorisationComplexType tab",
     "Uses CCD Template": "N/A",
     "LiveFrom": "19/06/2019",
     "Created By": "Aliveni Choppa"
   },
   {
-    "Version Number": 0.1,
+    "Version Number": "0.10",
     "Description of Changes": "Add JourneyClassification to SearchInputFields and WorkBasketResultFields",
     "Uses CCD Template": "N/A",
     "LiveFrom": "01/08/2019",
     "Created By": "Donatas Martinkus"
   },
   {
-    "Version Number": 0.11,
+    "Version Number": "0.11",
     "Description of Changes": "Add Warnings tab",
     "Uses CCD Template": "N/A",
     "LiveFrom": "05/09/2019",
     "Created By": "Leszek Gonczar"
   },
   {
-    "Version Number": 0.12,
+    "Version Number": "0.12",
     "Description of Changes": "Add formtype field",
     "Uses CCD Template": "N/A",
     "LiveFrom": "12/09/2019",
