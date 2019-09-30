@@ -78,7 +78,7 @@
   },
   {
     "Version Number": "0.12",
-    "Description of Changes": "Add awaitingDcnProcessing field to ExceptionRecord",
+    "Description of Changes": "Add awaitingPaymentDcnsProcessing field to ExceptionRecord",
     "Uses CCD Template": "N/A",
     "LiveFrom": "27/09/2019",
     "Created By": "Aliveni Choppa"
