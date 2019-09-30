@@ -401,7 +401,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "awaitingDCNProcessing",
+    "CaseFieldID": "awaitingPaymentDcnsProcessing",
     "UserRole": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
   }
