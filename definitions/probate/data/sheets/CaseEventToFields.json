@@ -121,6 +121,28 @@
     "PageColumnNumber": 1
   },
   {
+    "LiveFrom": "30/09/2019",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "30/09/2019",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageColumnNumber": 1
+  },
+  {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "rejectRecord",
