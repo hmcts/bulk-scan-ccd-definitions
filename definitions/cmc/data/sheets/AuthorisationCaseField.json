@@ -324,7 +324,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseFieldID": "awaitingPaymentDcnsProcessing",
+    "CaseFieldID": "awaitingPaymentDCNProcessing",
     "UserRole": "caseworker-cmc-systemupdate",
     "CRUD": "CRUD"
   }
