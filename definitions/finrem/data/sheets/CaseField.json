@@ -122,8 +122,8 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
-    "ID": "awaitingPaymentDcnsProcessing",
-    "Label": "Awaiting Payment DCNs processing",
+    "ID": "awaitingPaymentDCNProcessing",
+    "Label": "Awaiting Payment DCN processing",
     "HintText": "Indicates if the payment document control numbers are being processed",
     "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
