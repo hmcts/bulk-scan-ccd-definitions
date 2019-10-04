@@ -151,7 +151,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "ID": "containsPayments",
-    "Label": "Contains Payments?",
+    "Label": "Contains Payments",
     "HintText": "Indicates if the Exception record contains payments",
     "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
