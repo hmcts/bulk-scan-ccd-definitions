@@ -105,6 +105,16 @@
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "Channel": "CaseWorker",
+    "TabID": "envelope",
+    "TabLabel": "Envelope",
+    "TabDisplayOrder": 3,
+    "CaseFieldID": "containsPayments",
+    "TabFieldDisplayOrder": 8
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "Channel": "CaseWorker",
     "TabID": "documentation",
     "TabLabel": "Documentation",
     "TabDisplayOrder": 4,
