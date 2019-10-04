@@ -143,5 +143,14 @@
     "HintText": "ID of the envelope the exception record was created from",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "ID": "awaitingPaymentDCNProcessing",
+    "Label": "Awaiting Payment DCN processing",
+    "HintText": "Indicates if the payment document control numbers are being processed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
   }
 ]
