@@ -79,6 +79,17 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "containsPayments",
+    "PageFieldDisplayOrder": 3,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseEventID": "updateManually",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 1,

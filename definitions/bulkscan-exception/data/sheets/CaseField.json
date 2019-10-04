@@ -155,5 +155,14 @@
     "HintText": "Indicates if the payment document control numbers are being processed",
     "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "containsPayments",
+    "Label": "Contains Payments?",
+    "HintText": "Indicates if the Exception record contains payments",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
   }
 ]
