@@ -95,7 +95,7 @@
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseFieldID": "containsPayments",
     "UserRole": "caseworker-divorce-courtadmin_beta",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "01/01/2018",
