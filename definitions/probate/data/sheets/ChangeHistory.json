@@ -99,6 +99,13 @@
   },
   {
     "Version Number": "0.15",
+    "Description of Changes": "Add createNewCase event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "30/09/2019",
+    "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "0.16",
     "Description of Changes": "Add awaitingPaymentDCNProcessing field to ExceptionRecord",
     "Uses CCD Template": "N/A",
     "LiveFrom": "27/09/2019",
