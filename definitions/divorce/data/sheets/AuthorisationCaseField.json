@@ -298,7 +298,7 @@
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseFieldID": "containsPayments",
     "UserRole": "caseworker-divorce-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "01/01/2018",
