@@ -5,5 +5,12 @@
     "CaseFieldID": "formType",
     "Label": "Form Type",
     "DisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2019",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "Label": "Contains Payments",
+    "DisplayOrder": 2
   }
 ]

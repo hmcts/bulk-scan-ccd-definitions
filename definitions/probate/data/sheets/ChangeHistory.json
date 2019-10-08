@@ -110,5 +110,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "27/09/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.17",
+    "Description of Changes": "Add containsPayments field to ExceptionRecord",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "07/10/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]
