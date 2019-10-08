@@ -98,6 +98,13 @@
     "CRUD": "CRUD"
   },
   {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "UserRole": "caseworker-sscs",
+    "CRUD": "CRUD"
+  },
+  {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
@@ -213,6 +220,13 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-sscs-clerk",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
     "UserRole": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
@@ -346,6 +360,13 @@
     "LiveFrom": "27/09/2019",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "awaitingPaymentDCNProcessing",
+    "UserRole": "caseworker-sscs-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
     "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   }
