@@ -88,6 +88,17 @@
     "PageDisplayOrder": 1
   },
   {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "CaseEventID": "createException",
+    "CaseFieldID": "containsPayments",
+    "PageFieldDisplayOrder": 9,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondence",
+    "PageDisplayOrder": 1
+  },
+  {
     "LiveFrom": "02/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
