@@ -124,5 +124,12 @@
     "CaseFieldID": "awaitingPaymentDCNProcessing",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
