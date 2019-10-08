@@ -228,7 +228,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "containsPayments",
     "UserRole": "caseworker-sscs-clerk",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "01/01/2018",
@@ -368,6 +368,6 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "containsPayments",
     "UserRole": "caseworker-sscs-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   }
 ]
