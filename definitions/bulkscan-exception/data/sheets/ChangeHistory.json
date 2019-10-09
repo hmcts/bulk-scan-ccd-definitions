@@ -166,5 +166,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "04/10/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.25",
+    "Description of Changes": "Add callback url for create new case event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "30/09/2019",
+    "Created By": "Donatas Martinkus"
   }
 ]
