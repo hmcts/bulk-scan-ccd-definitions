@@ -169,6 +169,13 @@
   },
   {
     "Version Number": "0.25",
+    "Description of Changes": "Add callback url for create new case event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "30/09/2019",
+    "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "0.26",
     "Description of Changes": "Add completeAwaitingPaymentDCNProcessing event",
     "Uses CCD Template": "N/A",
     "LiveFrom": "08/10/2019",
