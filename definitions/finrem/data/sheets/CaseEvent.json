@@ -43,5 +43,18 @@
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordManuallyHandled",
     "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "ID": "completeAwaitingPaymentDCNProcessing",
+    "Name": "Complete DCN processing",
+    "Description": "Complete the processing of payment document control numbers",
+    "DisplayOrder": 6,
+    "PreConditionState(s)": "*",
+    "PostConditionState": "*",
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "CanSaveDraft": "N"
   }
 ]
