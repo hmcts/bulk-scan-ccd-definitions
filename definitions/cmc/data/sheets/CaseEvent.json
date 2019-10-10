@@ -43,5 +43,18 @@
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordManuallyHandled",
     "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "completeAwaitingPaymentDCNProcessing",
+    "Name": "Complete DCN processing",
+    "Description": "Complete the processing of payment document control numbers",
+    "DisplayOrder": 5,
+    "PreConditionState(s)": "*",
+    "PostConditionState": "*",
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "CanSaveDraft": "N"
   }
 ]

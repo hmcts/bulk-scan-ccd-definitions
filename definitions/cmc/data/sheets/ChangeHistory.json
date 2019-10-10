@@ -121,5 +121,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "04/10/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.16",
+    "Description of Changes": "Add completeAwaitingPaymentDCNProcessing event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/10/2019",
+    "Created By": "Leszek Gonczar"
   }
 ]
