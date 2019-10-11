@@ -98,6 +98,13 @@
     "CRUD": "CRUD"
   },
   {
+    "LiveFrom": "27/09/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "awaitingPaymentDCNProcessing",
+    "UserRole": "caseworker-sscs",
+    "CRUD": "CRUD"
+  },
+  {
     "LiveFrom": "07/10/2019",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "containsPayments",
@@ -353,13 +360,6 @@
     "LiveFrom": "22/08/2019",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "formType",
-    "UserRole": "caseworker-sscs-bulkscan",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "27/09/2019",
-    "CaseTypeID": "SSCS_ExceptionRecord",
-    "CaseFieldID": "awaitingPaymentDCNProcessing",
     "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
