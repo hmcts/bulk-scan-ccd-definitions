@@ -164,5 +164,13 @@
     "HintText": "Indicates if the Exception record contains payments",
     "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "paymentHistory",
+    "Label": "Payment history",
+    "FieldType": "CasePaymentHistoryViewer",
+    "SecurityClassification": "PUBLIC"
   }
 ]

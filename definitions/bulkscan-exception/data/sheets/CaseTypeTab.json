@@ -151,5 +151,15 @@
     "CaseFieldID": "scanOCRData",
     "TabFieldDisplayOrder": 1,
     "FieldShowCondition": " "
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "payments",
+    "TabLabel": "Payments",
+    "TabDisplayOrder": 6,
+    "CaseFieldID": "paymentHistory",
+    "TabFieldDisplayOrder": 1
   }
 ]

@@ -180,5 +180,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "08/10/2019",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.27",
+    "Description of Changes": "Add 'paymentHistory' field and 'payments' tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "13/10/2019",
+    "Created By": "Rafal Kondratowicz"
   }
 ]
