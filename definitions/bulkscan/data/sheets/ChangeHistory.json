@@ -134,7 +134,7 @@
   },
   {
     "Version Number": "0.20",
-    "Description of Changes": "Add exceptionRecordReference field",
+    "Description of Changes": "Add bulkScanCaseReference field",
     "Uses CCD Template": "N/A",
     "LiveFrom": "16/10/2019",
     "Created By": "Andrey Pereverzin"
