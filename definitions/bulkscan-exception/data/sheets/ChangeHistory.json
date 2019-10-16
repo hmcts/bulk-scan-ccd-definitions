@@ -194,5 +194,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "15/10/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.29",
+    "Description of changes": "Update permissions for payments field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "15/10/2019",
+    "Created By": "Rafal Kondratowicz"
   }
 ]
