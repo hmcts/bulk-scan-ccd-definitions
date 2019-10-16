@@ -137,6 +137,6 @@
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseFieldID": "paymentHistory",
     "UserRole": "caseworker-bulkscan",
-    "CRUD": "CRU"
+    "CRUD": "R"
   }
 ]
