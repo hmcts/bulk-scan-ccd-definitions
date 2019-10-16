@@ -124,5 +124,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "09/10/2019",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.19",
+    "Description of Changes": "Remove containsPayments field from createCase event ",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "15/10/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]
