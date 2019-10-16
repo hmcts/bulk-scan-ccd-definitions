@@ -79,8 +79,8 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseFieldID": "exceptionRecordReference",
+    "CaseFieldID": "bulkScanCaseReference",
     "UserRole": "caseworker-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "CR"
   }
 ]
