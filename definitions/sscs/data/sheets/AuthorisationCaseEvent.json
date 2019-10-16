@@ -37,13 +37,6 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
-    "CaseEventID": "completeAwaitingPaymentDCNProcessing",
-    "UserRole": "caseworker-sscs",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "createException",
     "UserRole": "caseworker-sscs-clerk",
     "CRUD": "CRUD"

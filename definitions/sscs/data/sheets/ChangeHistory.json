@@ -138,5 +138,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "15/10/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "1.0.23",
+    "Description of Changes": "Remove authorization for completeAwaitingPaymentDCNProcessing event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/10/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]
