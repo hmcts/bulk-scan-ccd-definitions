@@ -131,5 +131,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "13/09/2019",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.20",
+    "Description of Changes": "Add bulkScanCaseReference field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/10/2019",
+    "Created By": "Andrey Pereverzin"
   }
 ]
