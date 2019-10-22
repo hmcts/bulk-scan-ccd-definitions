@@ -437,6 +437,20 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "paymentHistory",
+    "UserRole": "caseworker-probate-issuer",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "paymentHistory",
+    "UserRole": "caseworker-probate-caseadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "paymentHistory",
     "UserRole": "caseworker-probate-bulkscan",
     "CRUD": "R"
   }
