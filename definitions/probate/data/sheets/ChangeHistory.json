@@ -138,5 +138,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "16/10/2019",
     "Created By": "Rafal Kondratowicz"
+  },
+  {
+    "Version Number": "0.21",
+    "Description of Changes": "Update roles required for viewing payments",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/10/2019",
+    "Created By": "Rafal Kondratowicz"
   }
 ]
