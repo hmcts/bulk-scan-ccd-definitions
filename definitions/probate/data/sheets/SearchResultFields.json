@@ -23,15 +23,22 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "Label": "Envelope Case Reference",
+    "DisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
-    "DisplayOrder": 4
+    "DisplayOrder": 5
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "formType",
     "Label": "Form Type",
-    "DisplayOrder": 5
+    "DisplayOrder": 6
   }
 ]

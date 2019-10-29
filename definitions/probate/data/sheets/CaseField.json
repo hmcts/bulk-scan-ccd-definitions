@@ -153,5 +153,14 @@
     "Label": "Payment history",
     "FieldType": "CasePaymentHistoryViewer",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "ID": "envelopeCaseReference",
+    "Label": "Envelope Case Reference",
+    "HintText": "The case reference number received in the envelope",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]
