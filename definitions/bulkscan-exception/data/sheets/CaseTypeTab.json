@@ -118,7 +118,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "attachToCaseReference",
+    "CaseFieldID": "envelopeCaseReference",
     "TabFieldDisplayOrder": 9
   },
   {
@@ -128,8 +128,18 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "containsPayments",
+    "CaseFieldID": "attachToCaseReference",
     "TabFieldDisplayOrder": 10
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "envelope",
+    "TabLabel": "Envelope",
+    "TabDisplayOrder": 3,
+    "CaseFieldID": "containsPayments",
+    "TabFieldDisplayOrder": 11
   },
   {
     "LiveFrom": "01/01/2018",

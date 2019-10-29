@@ -138,5 +138,12 @@
     "CaseFieldID": "paymentHistory",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
