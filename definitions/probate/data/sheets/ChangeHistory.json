@@ -145,5 +145,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "16/10/2019",
     "Created By": "Rafal Kondratowicz"
+  },
+  {
+    "Version Number": "0.22",
+    "Description of Changes": "Add envelope case reference received for supplementary evidence",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "25/10/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]
