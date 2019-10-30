@@ -136,14 +136,5 @@
     "HintText": "Indicates if the Exception record contains payments",
     "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "DIVORCE_ExceptionRecord",
-    "ID": "envelopeCaseReference",
-    "Label": "Envelope Case Reference",
-    "HintText": "The case reference number received in the envelope",
-    "FieldType": "Text",
-    "SecurityClassification": "PUBLIC"
   }
 ]
