@@ -23,22 +23,29 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "Label": "Envelope Case Reference",
+    "DisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
-    "DisplayOrder": 4
+    "DisplayOrder": 5
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseFieldID": "poBox",
     "Label": "PO Box",
-    "DisplayOrder": 5
+    "DisplayOrder": 6
   },
   {
     "LiveFrom": "01/08/2019",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseFieldID": "journeyClassification",
     "Label": "Journey Classification",
-    "DisplayOrder": 6
+    "DisplayOrder": 7
   }
 ]
