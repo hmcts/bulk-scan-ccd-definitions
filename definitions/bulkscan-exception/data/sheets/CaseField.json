@@ -181,5 +181,14 @@
     "HintText": "The case reference number received in the envelope",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "envelopeLegacyCaseReference",
+    "Label": "Envelope Legacy Case Reference ",
+    "HintText": "The legacy case reference number received in the envelope",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]
