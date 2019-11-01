@@ -9,7 +9,7 @@
     "PageID": 1,
     "PageLabel": "Corespondance",
     "PageColumnNumber": 1,
-    "FieldShowCondition": "envelopeLegacyCaseReference!=\"\" OR envelopeLegacyCaseReference!=\"null\""
+    "FieldShowCondition": "envelopeLegacyCaseReference=\"\" OR envelopeLegacyCaseReference=\"null\""
   },
   {
     "LiveFrom": "01/01/2018",
@@ -21,7 +21,7 @@
     "PageID": 1,
     "PageLabel": "Corespondance",
     "PageColumnNumber": 1,
-    "FieldShowCondition": "envelopeCaseReference!=\"\" OR envelopeCaseReference!=\"null\""
+    "FieldShowCondition": "envelopeCaseReference=\"\" OR envelopeCaseReference=\"null\""
   },
   {
     "LiveFrom": "01/01/2018",
