@@ -45,7 +45,7 @@
     "PageID": 1,
     "PageLabel": "Corespondance",
     "PageColumnNumber": 1,
-    "FieldShowCondition": "envelopeCaseReference=\"{NeverShowThisFieldOnUI}\""
+    "FieldShowCondition": "envelopeLegacyCaseReference=\"{NeverShowThisFieldOnUI}\""
   },
   {
     "LiveFrom": "01/01/2018",
