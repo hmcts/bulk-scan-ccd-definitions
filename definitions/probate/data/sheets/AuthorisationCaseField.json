@@ -114,6 +114,27 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-probate-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-probate-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "UserRole": "caseworker-probate-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-probate-issuer",
     "CRUD": "CRUD"
@@ -219,6 +240,27 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-probate-issuer",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-probate-issuer",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "UserRole": "caseworker-probate-issuer",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "CRUD"
@@ -318,6 +360,27 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "envelopeCaseReference",
+    "UserRole": "caseworker-probate-caseadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-probate-caseadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-probate-caseadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
     "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "R"
   },
@@ -479,6 +542,27 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "envelopeCaseReference",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
     "UserRole": "caseworker-probate-bulkscan",
     "CRUD": "R"
   }
