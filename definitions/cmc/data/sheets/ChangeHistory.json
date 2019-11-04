@@ -142,5 +142,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "30/10/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.19",
+    "Description of Changes": "Add new fields to show/hide case reference and legacy case reference received in the envelope. Remove envelopCaseReference from workbasket results, search results and case type tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "04/11/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]
