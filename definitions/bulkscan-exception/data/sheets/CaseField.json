@@ -190,5 +190,23 @@
     "HintText": "The legacy case reference number received in the envelope",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "showEnvelopeCaseReference",
+    "Label": "Display Envelope Case Reference",
+    "HintText": "Display envelope case reference only when value is provided",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "showEnvelopeLegacyCaseReference",
+    "Label": "Display Envelope Legacy Case Reference",
+    "HintText": "Display envelope legacy case reference only when value is provided",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]
