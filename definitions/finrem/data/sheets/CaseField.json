@@ -160,8 +160,8 @@
     "CaseTypeID": "FINREM_ExceptionRecord",
     "ID": "showEnvelopeCaseReference",
     "Label": "Display Envelope Case Reference",
-    "HintText": "Display envelope case reference only when value is provided",
-    "FieldType": "Text",
+    "HintText": "Indicates if the envelope case reference field should be displayed",
+    "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
   },
   {
@@ -169,8 +169,8 @@
     "CaseTypeID": "FINREM_ExceptionRecord",
     "ID": "showEnvelopeLegacyCaseReference",
     "Label": "Display Envelope Legacy Case Reference",
-    "HintText": "Display envelope legacy case reference only when value is provided",
-    "FieldType": "Text",
+    "HintText": "Indicates if the envelope legacy case reference field should be displayed",
+    "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
   }
 ]
