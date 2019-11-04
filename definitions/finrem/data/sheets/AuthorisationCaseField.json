@@ -100,6 +100,27 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-divorce-systemupdate",
     "CRUD": "CRUD"
@@ -219,6 +240,27 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-divorce-bulkscan",
     "CRUD": "CRUD"
@@ -318,6 +360,27 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "envelopeCaseReference",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
     "UserRole": "caseworker-divorce-bulkscan",
     "CRUD": "R"
   },
