@@ -155,7 +155,7 @@
   },
   {
     "Version Number": "1.0.25",
-    "Description of Changes": "Add new fields to show/hide case reference and legacy case reference received in the envelope. Remove envelopCaseReference from workbasket results, search results and case type tab",
+    "Description of Changes": "Add new fields to show/hide case reference and legacy case reference received in the envelope. Remove envelopeCaseReference from workbasket results, search results and case type tab",
     "Uses CCD Template": "N/A",
     "LiveFrom": "04/11/2019",
     "Created By": "Aliveni Choppa"
