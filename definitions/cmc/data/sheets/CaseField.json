@@ -164,5 +164,32 @@
     "HintText": "The case reference number received in the envelope",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "envelopeLegacyCaseReference",
+    "Label": "Envelope Legacy Case Reference ",
+    "HintText": "The legacy case reference number received in the envelope",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "showEnvelopeCaseReference",
+    "Label": "Display Envelope Case Reference",
+    "HintText": "Indicates if the envelope case reference field should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "showEnvelopeLegacyCaseReference",
+    "Label": "Display Envelope Legacy Case Reference",
+    "HintText": "Indicates if the envelope legacy case reference field should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
   }
 ]
