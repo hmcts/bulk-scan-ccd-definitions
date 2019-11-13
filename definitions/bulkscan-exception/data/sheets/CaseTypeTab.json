@@ -58,7 +58,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "surname",
+    "CaseFieldID": "poBox",
     "TabFieldDisplayOrder": 3
   },
   {
@@ -68,7 +68,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "poBox",
+    "CaseFieldID": "poBoxJurisdiction",
     "TabFieldDisplayOrder": 4
   },
   {
@@ -78,7 +78,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "poBoxJurisdiction",
+    "CaseFieldID": "formType",
     "TabFieldDisplayOrder": 5
   },
   {
@@ -88,7 +88,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "formType",
+    "CaseFieldID": "deliveryDate",
     "TabFieldDisplayOrder": 6
   },
   {
@@ -98,7 +98,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "deliveryDate",
+    "CaseFieldID": "openingDate",
     "TabFieldDisplayOrder": 7
   },
   {
@@ -108,7 +108,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "openingDate",
+    "CaseFieldID": "caseReference",
     "TabFieldDisplayOrder": 8
   },
   {
@@ -118,7 +118,7 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "caseReference",
+    "CaseFieldID": "attachToCaseReference",
     "TabFieldDisplayOrder": 9
   },
   {
@@ -128,18 +128,8 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "attachToCaseReference",
-    "TabFieldDisplayOrder": 10
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "Channel": "CaseWorker",
-    "TabID": "envelope",
-    "TabLabel": "Envelope",
-    "TabDisplayOrder": 3,
     "CaseFieldID": "containsPayments",
-    "TabFieldDisplayOrder": 11
+    "TabFieldDisplayOrder": 10
   },
   {
     "LiveFrom": "01/01/2018",

@@ -166,12 +166,5 @@
     "CaseFieldID": "showEnvelopeLegacyCaseReference",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "CaseFieldID": "surname",
-    "UserRole": "caseworker-bulkscan",
-    "CRUD": "CRUD"
   }
 ]
