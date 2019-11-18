@@ -159,5 +159,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "04/11/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.24",
+    "Description of Changes": "Fixed the final state for createNewCase event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "17/11/2019",
+    "Created By": "Leszek Gonczar"
   }
 ]
