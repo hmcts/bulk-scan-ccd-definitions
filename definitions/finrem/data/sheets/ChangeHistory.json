@@ -117,5 +117,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "04/11/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.18",
+    "Description of Changes": "Add createNewCase event and the required fields",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "28/11/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]

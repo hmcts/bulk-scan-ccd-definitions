@@ -172,5 +172,22 @@
     "HintText": "Indicates if the envelope legacy case reference field should be displayed",
     "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "ID": "caseReference",
+    "Label": "Case Reference",
+    "HintText": "Reference number of the new case created from exception record",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "ID": "paymentHistory",
+    "Label": "Payment history",
+    "FieldType": "CasePaymentHistoryViewer",
+    "SecurityClassification": "PUBLIC"
   }
 ]
