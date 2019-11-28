@@ -149,5 +149,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "04/11/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.2.20",
+    "Description of Changes": "Add createNewCase event and the required fields. Authorisation for createNewCase event, caseReference and paymentsHistory fields and filter by new case reference will be added when service starts using phase 2.",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "28/11/2019",
+    "Created By": "Aliveni Choppa"
   }
 ]

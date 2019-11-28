@@ -21,7 +21,7 @@
     "ID": "ScannedRecordRejected",
     "Name": "Rejected",
     "Description": "The scanned record has been rejected",
-    "DisplayOrder": 4
+    "DisplayOrder": 3
   },
   {
     "LiveFrom": "01/01/2018",
@@ -29,6 +29,14 @@
     "ID": "ScannedRecordManuallyHandled",
     "Name": "Manually handled",
     "Description": "The scanned record has been handled byCW manually",
+    "DisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "CMC_ExceptionRecord",
+    "ID": "ScannedRecordCaseCreated",
+    "Name": "Case created",
+    "Description": "A new case is created from scanned record",
     "DisplayOrder": 5
   }
 ]
