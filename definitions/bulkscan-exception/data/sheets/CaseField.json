@@ -208,5 +208,14 @@
     "HintText": "Indicates if the envelope legacy case reference field should be displayed",
     "FieldType": "YesOrNo",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "surname",
+    "Label": "Surname",
+    "HintText": "Surname",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]
