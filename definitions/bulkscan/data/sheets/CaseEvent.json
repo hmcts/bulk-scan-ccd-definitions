@@ -34,5 +34,18 @@
     "SecurityClassification": "Public",
     "ShowEventNotes": "N",
     "ShowSummary_1": "N"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "ID": "updateCase",
+    "Name": "Update existing case with OCR data",
+    "Description": "Update existing case with OCR data",
+    "DisplayOrder": 4,
+    "PreConditionState(s)": "*",
+    "PostConditionState": "*",
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "ShowSummary_1": "N"
   }
 ]
