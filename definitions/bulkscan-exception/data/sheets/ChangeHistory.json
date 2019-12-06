@@ -222,5 +222,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "13/11/2019",
     "Created By": "Andrey Pereverzin"
+  },
+  {
+    "Version Number": "0.33",
+    "Description of Changes": "Added updateCase event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "06/12/2019",
+    "Created By": "Andrey Pereverzin"
   }
 ]

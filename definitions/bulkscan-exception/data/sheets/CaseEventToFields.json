@@ -127,6 +127,28 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "updateCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "updateCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Corespondance",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseEventID": "updateManually",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 1,

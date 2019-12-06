@@ -30,6 +30,13 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "updateCase",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseEventID": "updateManually",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
