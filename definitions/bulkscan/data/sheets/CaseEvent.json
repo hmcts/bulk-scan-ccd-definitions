@@ -39,7 +39,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "ID": "updateCase",
-    "Name": "Update existing case with OCR data",
+    "Name": "Update existing case",
     "Description": "Update existing case with OCR data",
     "DisplayOrder": 4,
     "PreConditionState(s)": "*",
