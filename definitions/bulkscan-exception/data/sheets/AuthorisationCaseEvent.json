@@ -30,7 +30,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },

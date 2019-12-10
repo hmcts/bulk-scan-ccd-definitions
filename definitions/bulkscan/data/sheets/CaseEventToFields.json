@@ -112,7 +112,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "legacyId",
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "OPTIONAL",
@@ -123,7 +123,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "formType",
     "PageFieldDisplayOrder": 2,
     "DisplayContext": "OPTIONAL",
@@ -134,7 +134,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "firstName",
     "PageFieldDisplayOrder": 3,
     "DisplayContext": "MANDATORY",
@@ -145,7 +145,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "lastName",
     "PageFieldDisplayOrder": 4,
     "DisplayContext": "MANDATORY",
@@ -156,7 +156,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "dateOfBirth",
     "PageFieldDisplayOrder": 5,
     "DisplayContext": "OPTIONAL",
@@ -167,7 +167,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "contactNumber",
     "PageFieldDisplayOrder": 6,
     "DisplayContext": "OPTIONAL",
@@ -178,7 +178,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "email",
     "PageFieldDisplayOrder": 7,
     "DisplayContext": "OPTIONAL",
@@ -189,7 +189,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "address",
     "PageFieldDisplayOrder": 8,
     "DisplayContext": "OPTIONAL",
@@ -200,7 +200,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 9,
     "DisplayContext": "OPTIONAL",
@@ -211,7 +211,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "CaseFieldID": "evidenceHandled",
     "PageFieldDisplayOrder": 10,
     "DisplayContext": "OPTIONAL",

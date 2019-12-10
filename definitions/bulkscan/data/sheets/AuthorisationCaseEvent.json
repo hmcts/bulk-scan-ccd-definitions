@@ -23,7 +23,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseEventID": "updateCase",
+    "CaseEventID": "attachScannedDocsWithOcr",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
   }

@@ -141,9 +141,9 @@
   },
   {
     "Version Number": "0.21",
-    "Description of Changes": "Added updateCase event",
+    "Description of Changes": "Added attachScannedDocsWithOcr event",
     "Uses CCD Template": "N/A",
-    "LiveFrom": "06/12/2019",
+    "LiveFrom": "10/12/2019",
     "Created By": "Andrey Pereverzin"
   }
 ]
