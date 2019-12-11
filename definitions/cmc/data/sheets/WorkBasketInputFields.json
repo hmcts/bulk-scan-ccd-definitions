@@ -11,6 +11,6 @@
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseFieldID": "surname",
     "Label": "Surname",
-    "DisplayOrder": 1
+    "DisplayOrder": 2
   }
 ]
