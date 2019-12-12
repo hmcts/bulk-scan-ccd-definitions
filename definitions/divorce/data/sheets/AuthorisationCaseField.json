@@ -432,5 +432,26 @@
     "CaseFieldID": "caseReference",
     "UserRole": "caseworker-divorce-systemupdate",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "CRUD": "CRUD"
   }
 ]
