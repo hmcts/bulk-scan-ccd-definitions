@@ -167,7 +167,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "ID": "envelopeLegacyCaseReference",
-    "Label": "Envelope Legacy Case Reference ",
+    "Label": "Envelope Legacy Case Reference",
     "HintText": "The legacy case reference number received in the envelope",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
@@ -188,6 +188,15 @@
     "Label": "Display Envelope Legacy Case Reference",
     "HintText": "Indicates if the envelope legacy case reference field should be displayed",
     "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "DIVORCE_ExceptionRecord",
+    "ID": "surname",
+    "Label": "Surname",
+    "HintText": "Surname",
+    "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
   }
 ]
