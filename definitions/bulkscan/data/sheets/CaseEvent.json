@@ -39,7 +39,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "ID": "attachScannedDocsWithOcr",
-    "Name": "Attach scanned docs with OCR data",
+    "Name": "Attach docs with OCR data",
     "Description": "Attach scanned docs with OCR data",
     "DisplayOrder": 4,
     "PreConditionState(s)": "*",
