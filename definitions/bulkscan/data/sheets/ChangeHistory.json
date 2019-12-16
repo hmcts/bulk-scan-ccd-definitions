@@ -138,5 +138,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "16/10/2019",
     "Created By": "Andrey Pereverzin"
+  },
+  {
+    "Version Number": "0.21",
+    "Description of Changes": "Add attachScannedDocsWithOcr event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "12/12/2019",
+    "Created By": "Rafal Kondratowicz"
   }
 ]

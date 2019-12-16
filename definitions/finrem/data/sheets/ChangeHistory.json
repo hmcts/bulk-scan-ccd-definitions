@@ -120,9 +120,16 @@
   },
   {
     "Version Number": "0.18",
+    "Description of Changes": "Add surname field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "12/12/2019",
+    "Created By": "Mustafa Dayican"
+  },
+  {
+    "Version Number": "0.19",
     "Description of Changes": "Add createNewCase event and the required fields. Authorisation and search filter on formType need to be added as part of on-boarding the service to phase2.",
     "Uses CCD Template": "N/A",
-    "LiveFrom": "28/11/2019",
+    "LiveFrom": "16/12/2019",
     "Created By": "Aliveni Choppa"
   }
 ]

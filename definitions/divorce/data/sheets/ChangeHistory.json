@@ -136,5 +136,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "25/11/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.21",
+    "Description of Changes": "Add surname field",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "12/12/2019",
+    "Created By": "Mustafa Dayican"
   }
 ]
