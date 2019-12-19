@@ -139,7 +139,7 @@
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondance",
+    "PageLabel": "Correspondence",
     "PageColumnNumber": 1,
     "FieldShowCondition": "showEnvelopeCaseReference=\"Yes\""
   },
@@ -151,7 +151,7 @@
     "PageFieldDisplayOrder": 2,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondance",
+    "PageLabel": "Correspondence",
     "PageColumnNumber": 1,
     "FieldShowCondition": "showEnvelopeLegacyCaseReference=\"Yes\""
   },
@@ -163,7 +163,7 @@
     "PageFieldDisplayOrder": 3,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondance",
+    "PageLabel": "Correspondence",
     "PageColumnNumber": 1,
     "FieldShowCondition": "envelopeCaseReference=\"{NeverShowThisFieldOnUI}\""
   },
@@ -175,7 +175,7 @@
     "PageFieldDisplayOrder": 4,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondance",
+    "PageLabel": "Correspondence",
     "PageColumnNumber": 1,
     "FieldShowCondition": "envelopeLegacyCaseReference=\"{NeverShowThisFieldOnUI}\""
   },
