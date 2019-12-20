@@ -7,7 +7,7 @@
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -18,7 +18,7 @@
     "PageFieldDisplayOrder": 2,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -29,7 +29,7 @@
     "PageFieldDisplayOrder": 3,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -40,7 +40,7 @@
     "PageFieldDisplayOrder": 4,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -51,7 +51,7 @@
     "PageFieldDisplayOrder": 5,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -62,7 +62,7 @@
     "PageFieldDisplayOrder": 6,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -73,7 +73,7 @@
     "PageFieldDisplayOrder": 7,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -84,7 +84,7 @@
     "PageFieldDisplayOrder": 8,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -95,7 +95,7 @@
     "PageFieldDisplayOrder": 9,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -198,7 +198,7 @@
     "PageFieldDisplayOrder": 5,
     "DisplayContext": "MANDATORY",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -209,7 +209,7 @@
     "PageFieldDisplayOrder": 6,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -220,7 +220,7 @@
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -231,7 +231,7 @@
     "PageFieldDisplayOrder": 2,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -242,7 +242,7 @@
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -253,7 +253,7 @@
     "PageFieldDisplayOrder": 2,
     "DisplayContext": "READONLY",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   }
 ]
