@@ -158,7 +158,7 @@
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "Channel": "CaseWorker",
     "TabID": "payments",
-    "TabLabel": "Payments",
+    "TabLabel": "Payment History",
     "TabDisplayOrder": 6,
     "CaseFieldID": "paymentHistory",
     "TabFieldDisplayOrder": 1
