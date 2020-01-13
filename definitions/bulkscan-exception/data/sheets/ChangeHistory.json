@@ -243,5 +243,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "19/12/2019",
     "Created By": "Mustafa Dayican"
+  },
+  {
+    "Version Number": "0.36",
+    "Description of Changes": "Change 'Payments' tab label to 'Payment History'",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "30/12/2019",
+    "Created By": "Leszek Gonczar"
   }
 ]
