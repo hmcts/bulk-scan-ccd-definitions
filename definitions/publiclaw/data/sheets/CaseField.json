@@ -1,0 +1,185 @@
+[
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "envelopeLabel",
+    "Label": "# Envelope meta data",
+    "HintText": "From Scan Envelope header",
+    "FieldType": "Label",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "journeyClassification",
+    "Label": "Journey Classification",
+    "HintText": "Was this a supplementary evidence / new case or exception",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "poBox",
+    "Label": "PO Box",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "poBoxJurisdiction",
+    "Label": "Jurisdiction",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "deliveryDate",
+    "Label": "Delivery Date",
+    "FieldType": "DateTime",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "openingDate",
+    "Label": "Opening Date",
+    "FieldType": "DateTime",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "scannedDocuments",
+    "Label": "Scanned Documents",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "ScannedDocument",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "scanOCRData",
+    "Label": "Form OCR Data",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "KeyValue",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "attachToCaseReference",
+    "Label": "Attach to Case Reference",
+    "HintText": "The number of the case to attach the envelop to",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "caseHistory",
+    "Label": "Case History",
+    "FieldType": "CaseHistoryViewer",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "ocrDataValidationWarnings",
+    "Label": "OCR data validation warnings",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "TextArea",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "displayWarnings",
+    "Label": "Display warnings",
+    "HintText": "Indicates if Warnings tab should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "formType",
+    "Label": "Form Type",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "envelopeId",
+    "Label": "Envelope ID",
+    "HintText": "ID of the envelope the exception record was created from",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "awaitingPaymentDCNProcessing",
+    "Label": "Awaiting Payment DCN processing",
+    "HintText": "Indicates if the payment document control numbers are being processed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "containsPayments",
+    "Label": "Contains Payments",
+    "HintText": "Indicates if the Exception record contains payments",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "envelopeCaseReference",
+    "Label": "Envelope Case Reference",
+    "HintText": "The case reference number received in the envelope",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "envelopeLegacyCaseReference",
+    "Label": "Envelope Legacy Case Reference",
+    "HintText": "The legacy case reference number received in the envelope",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "showEnvelopeCaseReference",
+    "Label": "Display Envelope Case Reference",
+    "HintText": "Indicates if the envelope case reference field should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "showEnvelopeLegacyCaseReference",
+    "Label": "Display Envelope Legacy Case Reference",
+    "HintText": "Indicates if the envelope legacy case reference field should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "surname",
+    "Label": "Surname",
+    "HintText": "Surname",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  }
+]
