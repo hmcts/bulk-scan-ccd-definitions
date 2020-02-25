@@ -1,0 +1,65 @@
+[
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "createException",
+    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "attachToExistingCase",
+    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "rejectRecord",
+    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "updateManually",
+    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "completeAwaitingPaymentDCNProcessing",
+    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "createException",
+    "UserRole": "caseworker-publiclaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "attachToExistingCase",
+    "UserRole": "caseworker-publiclaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "rejectRecord",
+    "UserRole": "caseworker-publiclaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseEventID": "updateManually",
+    "UserRole": "caseworker-publiclaw-bulkscan",
+    "CRUD": "CRUD"
+  }
+]
