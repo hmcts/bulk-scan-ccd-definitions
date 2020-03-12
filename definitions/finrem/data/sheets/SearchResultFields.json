@@ -16,8 +16,22 @@
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "Label": "New Case Reference",
+    "DisplayOrder": 3
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
-    "DisplayOrder": 3
+    "DisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "Label": "Form Type",
+    "DisplayOrder": 5
   }
 ]
