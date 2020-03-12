@@ -264,7 +264,7 @@
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   },
   {
@@ -275,7 +275,7 @@
     "PageFieldDisplayOrder": 2,
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
-    "PageLabel": "Corespondence",
+    "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
   }
 ]
