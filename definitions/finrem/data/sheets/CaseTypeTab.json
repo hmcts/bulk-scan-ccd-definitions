@@ -98,18 +98,28 @@
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
-    "CaseFieldID": "attachToCaseReference",
+    "CaseFieldID": "caseReference",
     "TabFieldDisplayOrder": 7
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "envelope",
+    "TabLabel": "Envelope",
+    "TabDisplayOrder": 3,
+    "CaseFieldID": "attachToCaseReference",
+    "TabFieldDisplayOrder": 8
+  },
+  {
+    "LiveFrom": "01/01/2017",
     "CaseTypeID": "FINREM_ExceptionRecord",
     "Channel": "CaseWorker",
     "TabID": "envelope",
     "TabLabel": "Envelope",
     "TabDisplayOrder": 3,
     "CaseFieldID": "containsPayments",
-    "TabFieldDisplayOrder": 8
+    "TabFieldDisplayOrder": 9
   },
   {
     "LiveFrom": "01/01/2017",
@@ -142,5 +152,15 @@
     "CaseFieldID": "scanOCRData",
     "TabFieldDisplayOrder": 2,
     "FieldShowCondition": " "
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "Channel": "CaseWorker",
+    "TabID": "payments",
+    "TabLabel": "Payments History",
+    "TabDisplayOrder": 6,
+    "CaseFieldID": "paymentHistory",
+    "TabFieldDisplayOrder": 1
   }
 ]

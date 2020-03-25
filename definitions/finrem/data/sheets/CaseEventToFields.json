@@ -255,5 +255,27 @@
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageDisplayOrder": 1
   }
 ]
