@@ -24,7 +24,7 @@
     "CanSaveDraft": "N"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "30/03/2020",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "ID": "extendCaveatCase",
     "Name": "Extend caveat case",
