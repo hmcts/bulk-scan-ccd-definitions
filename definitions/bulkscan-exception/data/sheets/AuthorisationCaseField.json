@@ -173,5 +173,12 @@
     "CaseFieldID": "surname",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/03/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseFieldID": "reclassificationMessage",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
   }
 ]

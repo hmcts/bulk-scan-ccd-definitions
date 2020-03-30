@@ -33,5 +33,12 @@
     "CaseStateID": "ScannedRecordManuallyHandled",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/03/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseStateID": "ScannedRecordJourneyReclassified",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
