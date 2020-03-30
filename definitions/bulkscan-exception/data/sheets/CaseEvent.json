@@ -84,8 +84,8 @@
     "Name": "Complete DCN processing",
     "Description": "Complete the processing of payment document control numbers",
     "DisplayOrder": 6,
-    "PreConditionState(s)": "ScannedRecordReceived",
-    "PostConditionState": "ScannedRecordReceived",
+    "PreConditionState(s)": "*",
+    "PostConditionState": "*",
     "SecurityClassification": "Public",
     "ShowEventNotes": "N",
     "CanSaveDraft": "N"
