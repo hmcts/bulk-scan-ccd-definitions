@@ -44,7 +44,7 @@
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "ID": "ScannedRecordJourneyReclassified",
     "Name": "Journey Reclassified",
-    "Description": "The scanned record has been successfully reclassified",
+    "Description": "The exception record has been successfully reclassified",
     "DisplayOrder": 6
   }
 ]
