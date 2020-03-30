@@ -98,6 +98,7 @@
     "Description": "Reclassify Journey",
     "DisplayOrder": 7,
     "PreConditionState(s)": "ScannedRecordReceived",
+    "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/reclassify-exception-record",
     "PostConditionState": "ScannedRecordJourneyReclassified",
     "SecurityClassification": "Public",
     "ShowEventNotes": "N",
