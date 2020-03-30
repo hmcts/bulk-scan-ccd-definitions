@@ -145,5 +145,16 @@
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "reclassifyRecord",
+    "CaseFieldID": "reclassificationMessage",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Journey Reclassification",
+    "PageColumnNumber": 1
   }
 ]
