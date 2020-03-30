@@ -149,7 +149,7 @@
   {
     "LiveFrom": "30/03/2020",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "CaseEventID": "reclassifyRecord",
+    "CaseEventID": "reclassify",
     "CaseFieldID": "reclassificationMessage",
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "READONLY",

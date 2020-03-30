@@ -44,7 +44,7 @@
   {
     "LiveFrom": "30/03/2020",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "CaseEventID": "reclassifyRecord",
+    "CaseEventID": "reclassify",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
   }

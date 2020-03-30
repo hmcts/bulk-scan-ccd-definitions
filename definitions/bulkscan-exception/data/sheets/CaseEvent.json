@@ -79,7 +79,7 @@
   {
     "LiveFrom": "30/03/2020",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "ID": "reclassifyRecord",
+    "ID": "reclassify",
     "Name": "Reclassify Journey",
     "Description": "Reclassify Journey",
     "DisplayOrder": 7,
