@@ -38,5 +38,13 @@
     "Name": "Manually handled",
     "Description": "The scanned record has been handled byCW manually",
     "DisplayOrder": 5
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "ID": "ScannedRecordJourneyReclassified",
+    "Name": "Journey Reclassified",
+    "Description": "The exception record has been successfully reclassified",
+    "DisplayOrder": 6
   }
 ]

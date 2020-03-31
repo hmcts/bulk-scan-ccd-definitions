@@ -593,5 +593,12 @@
     "CaseFieldID": "surname",
     "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "reclassificationMessage",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "CRUD"
   }
 ]

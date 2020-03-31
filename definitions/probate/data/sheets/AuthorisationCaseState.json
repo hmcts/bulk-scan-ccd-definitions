@@ -138,5 +138,12 @@
     "CaseStateID": "ScannedRecordManuallyHandled",
     "UserRole": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseStateID": "ScannedRecordJourneyReclassified",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
