@@ -26,9 +26,9 @@
   {
     "LiveFrom": "30/03/2020",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
-    "ID": "extendCaveatCase",
-    "Name": "Extend caveat case",
-    "Description": "Extend caveat case",
+    "ID": "extendBulkScanCase",
+    "Name": "Extend bulk scan case",
+    "Description": "Extend bulk scan case",
     "DisplayOrder": 2,
     "PreConditionState(s)": "ScannedRecordJourneyReclassified",
     "PostConditionState": "ScannedRecordAttachedToCase",
