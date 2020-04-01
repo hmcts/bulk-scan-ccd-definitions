@@ -138,5 +138,47 @@
     "CaseEventID": "createNewCase",
     "UserRole": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "reclassifyRecord",
+    "UserRole": "caseworker-probate-issuer",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "reclassifyRecord",
+    "UserRole": "caseworker-probate-caseadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "reclassifyRecord",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "UserRole": "caseworker-probate-issuer",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "UserRole": "caseworker-probate-caseadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "31/03/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "UserRole": "caseworker-probate-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
