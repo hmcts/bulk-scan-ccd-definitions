@@ -599,20 +599,20 @@
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "reclassificationMessage",
     "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "31/03/2020",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "reclassificationMessage",
     "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "31/03/2020",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "reclassificationMessage",
     "UserRole": "caseworker-probate-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   }
 ]
