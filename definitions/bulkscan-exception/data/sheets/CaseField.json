@@ -217,5 +217,14 @@
     "HintText": "Surname",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "30/03/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "ID": "reclassificationMessage",
+    "Label": "This will reclassify exception record to **SUPPLEMENTARY_EVIDENCE_WITH_OCR**\r\n\r\n> Note : This action cannot be undone and you will need to contact service desk if the records needs to be reclassified back to it's original classification.",
+    "HintText": "Reclassify to supplementary evidence with OCR",
+    "FieldType": "Label",
+    "SecurityClassification": "PUBLIC"
   }
 ]

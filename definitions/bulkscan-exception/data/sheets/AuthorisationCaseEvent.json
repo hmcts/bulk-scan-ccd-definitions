@@ -40,5 +40,19 @@
     "CaseEventID": "completeAwaitingPaymentDCNProcessing",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/03/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "reclassifyRecord",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/03/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "extendBulkScanCase",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
   }
 ]

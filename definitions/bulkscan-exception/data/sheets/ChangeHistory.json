@@ -250,5 +250,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "30/12/2019",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.37",
+    "Description of Changes": "Add reclassification journey",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "30/03/2020",
+    "Created By": "Mustafa Dayican"
   }
 ]
