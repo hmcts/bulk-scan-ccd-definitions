@@ -194,5 +194,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "31/03/2020",
     "Created By": "Mustafa Dayican"
+  },
+  {
+    "Version Number": "0.29",
+    "Description of Changes": "Connect extendCaveatCase event with appropriate fields",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "03/04/2020",
+    "Created By": "Leszek Gonczar"
   }
 ]

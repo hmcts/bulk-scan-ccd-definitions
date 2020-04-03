@@ -213,6 +213,76 @@
     "PageColumnNumber": 1
   },
   {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "CaseFieldID": "envelopeCaseReference",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1,
+    "FieldShowCondition": "showEnvelopeCaseReference=\"Yes\""
+  },
+  {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1,
+    "FieldShowCondition": "showEnvelopeLegacyCaseReference=\"Yes\""
+  },
+  {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "PageFieldDisplayOrder": 3,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1,
+    "FieldShowCondition": "envelopeCaseReference=\"{NeverShowThisFieldOnUI}\""
+  },
+  {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "PageFieldDisplayOrder": 4,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1,
+    "FieldShowCondition": "envelopeLegacyCaseReference=\"{NeverShowThisFieldOnUI}\""
+  },
+  {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "CaseFieldID": "attachToCaseReference",
+    "PageFieldDisplayOrder": 5,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 6,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
     "LiveFrom": "30/09/2019",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "createNewCase",
