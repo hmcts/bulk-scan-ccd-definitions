@@ -201,5 +201,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "03/04/2020",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.30",
+    "Description of Changes": "Configure ScannedRecordJourneyReclassified state for caseworker-probate-systemupdate role",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "06/04/2020",
+    "Created By": "Leszek Gonczar"
   }
 ]
