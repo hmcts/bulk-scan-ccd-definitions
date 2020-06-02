@@ -33,7 +33,7 @@
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordReceived",
     "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_SSCS_URL}/exception-record",
-    "RetriesTimeoutURLAboutToSubmitEvent": 10,
+    "RetriesTimeoutURLAboutToSubmitEvent": 30,
     "SecurityClassification": "Public",
     "ShowEventNotes": "N",
     "CanSaveDraft": "N"
