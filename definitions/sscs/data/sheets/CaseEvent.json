@@ -32,8 +32,8 @@
     "DisplayOrder": 3,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordReceived",
-    "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_SSCS_URL}/exception-record",
-    "RetriesTimeoutURLAboutToSubmitEvent": 10,
+    "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/create-new-case",
+    "RetriesTimeoutURLAboutToSubmitEvent": 30,
     "SecurityClassification": "Public",
     "ShowEventNotes": "N",
     "CanSaveDraft": "N"

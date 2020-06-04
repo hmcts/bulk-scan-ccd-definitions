@@ -187,5 +187,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "07/01/2020",
     "Created By": "Mustafa Dayican"
+  },
+  {
+    "Version Number": "1.0.30",
+    "Description of Changes": "Update create case callback url and callback timeout",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "14/05/2020",
+    "Created By": "Aliveni Choppa"
   }
 ]
