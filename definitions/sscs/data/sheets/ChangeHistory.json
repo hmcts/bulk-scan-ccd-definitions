@@ -194,5 +194,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "14/05/2020",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "1.0.31",
+    "Description of Changes": "Fix create case event post condition",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "16/06/2020",
+    "Created By": "Aliveni Choppa"
   }
 ]
