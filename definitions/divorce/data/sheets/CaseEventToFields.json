@@ -194,7 +194,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "DIVORCE_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "CaseFieldID": "attachToCaseReference",
+    "CaseFieldID": "searchCaseReference",
     "PageFieldDisplayOrder": 5,
     "DisplayContext": "MANDATORY",
     "PageID": 1,
