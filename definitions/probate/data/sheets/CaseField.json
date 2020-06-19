@@ -207,5 +207,14 @@
     "HintText": "Reclassify to supplementary evidence with OCR",
     "FieldType": "Label",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "ID": "searchCaseReference",
+    "Label": "Case Reference",
+    "HintText": "The case reference to attach the envelope to",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
   }
 ]
