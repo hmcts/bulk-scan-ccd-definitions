@@ -65,6 +65,13 @@
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
+    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "caseHistory",
     "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
@@ -206,6 +213,13 @@
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
+    "UserRole": "caseworker-publiclaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
     "UserRole": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
