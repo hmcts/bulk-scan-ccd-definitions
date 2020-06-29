@@ -183,7 +183,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "29/06/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "ID": "searchCaseReference",
     "Label": "Case Reference",
