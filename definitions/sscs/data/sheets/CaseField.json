@@ -208,7 +208,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "29/06/2020",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "ID": "searchCaseReference",
     "Label": "Case Reference",

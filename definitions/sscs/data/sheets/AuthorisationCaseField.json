@@ -70,7 +70,7 @@
     "CRUD": "CRUD"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "29/06/2020",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "searchCaseReference",
     "UserRole": "caseworker-sscs",
@@ -217,7 +217,7 @@
     "CRUD": "CRUD"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "29/06/2020",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "searchCaseReference",
     "UserRole": "caseworker-sscs-clerk",
@@ -378,7 +378,7 @@
     "CRUD": "CRUD"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "29/06/2020",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "searchCaseReference",
     "UserRole": "caseworker-sscs-bulkscan",
