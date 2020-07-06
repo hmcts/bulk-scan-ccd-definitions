@@ -208,5 +208,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "06/04/2020",
     "Created By": "Leszek Gonczar"
+  },
+  {
+    "Version Number": "0.31",
+    "Description of Changes": "Add searchCaseReference field to attachToExistingCase event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "18/06/2020",
+    "Created By": "Aliveni Choppa"
   }
 ]
