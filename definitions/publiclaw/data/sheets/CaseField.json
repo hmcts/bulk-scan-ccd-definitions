@@ -181,5 +181,14 @@
     "HintText": "Surname",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "29/06/2020",
+    "CaseTypeID": "PUBLICLAW_ExceptionRecord",
+    "ID": "searchCaseReference",
+    "Label": "Case Reference",
+    "HintText": "The number of the case to attach the envelop to",
+    "FieldType": "Text",
+    "SecurityClassification": "Public"
   }
 ]

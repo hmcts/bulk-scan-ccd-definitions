@@ -194,7 +194,7 @@
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "CaseFieldID": "attachToCaseReference",
+    "CaseFieldID": "searchCaseReference",
     "PageFieldDisplayOrder": 5,
     "DisplayContext": "MANDATORY",
     "PageID": 1,
