@@ -1,6 +1,6 @@
 [
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "envelopeLabel",
     "Label": "# Envelope meta data",
@@ -9,7 +9,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "journeyClassification",
     "Label": "Journey Classification",
@@ -18,7 +18,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "poBox",
     "Label": "POBox",
@@ -26,7 +26,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "poBoxJurisdiction",
     "Label": "Jurisdiction",
@@ -34,7 +34,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "formType",
     "Label": "Form Type",
@@ -42,7 +42,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "deliveryDate",
     "Label": "Delivery Date",
@@ -50,7 +50,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "openingDate",
     "Label": "Opening Date",
@@ -58,7 +58,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "scannedDocuments",
     "Label": "Scanned Documents",
@@ -67,7 +67,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "scanOCRData",
     "Label": "Form OCR Data",
@@ -76,7 +76,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "attachToCaseReference",
     "Label": "Attached to Case Reference",
@@ -85,7 +85,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "caseReference",
     "Label": "Case Reference",
@@ -94,7 +94,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "caseHistory",
     "Label": "Case History",
@@ -102,7 +102,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "searchCaseReferenceType",
     "Label": "Case Reference Type",
@@ -112,7 +112,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "searchCaseReference",
     "Label": "Case Reference",
@@ -121,7 +121,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "ocrDataValidationWarnings",
     "Label": "OCR data validation warnings",
@@ -130,7 +130,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "displayWarnings",
     "Label": "Has warnings",
@@ -139,7 +139,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "envelopeId",
     "Label": "Envelope ID",
@@ -148,7 +148,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "awaitingPaymentDCNProcessing",
     "Label": "Awaiting Payment DCN processing",
@@ -157,7 +157,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "containsPayments",
     "Label": "Contains Payments",
@@ -166,7 +166,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "paymentHistory",
     "Label": "Payment history",
@@ -174,7 +174,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "envelopeCaseReference",
     "Label": "Envelope Case Reference",
@@ -183,7 +183,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "envelopeLegacyCaseReference",
     "Label": "Envelope Legacy Case Reference ",
@@ -192,7 +192,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "showEnvelopeCaseReference",
     "Label": "Display Envelope Case Reference",
@@ -201,7 +201,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "showEnvelopeLegacyCaseReference",
     "Label": "Display Envelope Legacy Case Reference",
@@ -210,7 +210,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "surname",
     "Label": "Surname",
@@ -219,7 +219,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "30/03/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "reclassificationMessage",
     "Label": "This will reclassify exception record to **SUPPLEMENTARY_EVIDENCE_WITH_OCR**\r\n\r\n> Note : This action cannot be undone and you will need to contact service desk if the records needs to be reclassified back to it's original classification.",

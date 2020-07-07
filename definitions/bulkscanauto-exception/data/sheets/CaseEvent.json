@@ -1,6 +1,6 @@
 [
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "createException",
     "Name": "Create an exception record",
@@ -10,7 +10,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "attachToExistingCase",
     "Name": "Attach record to existing case",
@@ -24,7 +24,7 @@
     "CanSaveDraft": "N"
   },
   {
-    "LiveFrom": "30/03/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "extendBulkScanCase",
     "Name": "Extend bulk scan case",
@@ -38,7 +38,7 @@
     "CanSaveDraft": "N"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "createNewCase",
     "Name": "Create new case from exception",
@@ -52,7 +52,7 @@
     "CanSaveDraft": "N"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "rejectRecord",
     "Name": "Reject record",
@@ -65,7 +65,7 @@
     "CanSaveDraft": "N"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "updateManually",
     "Name": "Manually handle record",
@@ -78,7 +78,7 @@
     "CanSaveDraft": "N"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "completeAwaitingPaymentDCNProcessing",
     "Name": "Complete DCN processing",
@@ -91,7 +91,7 @@
     "CanSaveDraft": "N"
   },
   {
-    "LiveFrom": "30/03/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "ID": "reclassifyRecord",
     "Name": "Reclassify Journey",

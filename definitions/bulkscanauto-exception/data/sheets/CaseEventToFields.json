@@ -1,6 +1,6 @@
 [
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "envelopeCaseReference",
@@ -12,7 +12,7 @@
     "FieldShowCondition": "showEnvelopeCaseReference=\"Yes\""
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "envelopeLegacyCaseReference",
@@ -24,7 +24,7 @@
     "FieldShowCondition": "showEnvelopeLegacyCaseReference=\"Yes\""
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "showEnvelopeCaseReference",
@@ -36,7 +36,7 @@
     "FieldShowCondition": "envelopeCaseReference=\"{NeverShowThisFieldOnUI}\""
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "showEnvelopeLegacyCaseReference",
@@ -48,7 +48,7 @@
     "FieldShowCondition": "envelopeLegacyCaseReference=\"{NeverShowThisFieldOnUI}\""
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "searchCaseReferenceType",
@@ -59,7 +59,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "searchCaseReference",
@@ -70,7 +70,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "scannedDocuments",
@@ -81,7 +81,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "03/04/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "envelopeCaseReference",
@@ -93,7 +93,7 @@
     "FieldShowCondition": "showEnvelopeCaseReference=\"Yes\""
   },
   {
-    "LiveFrom": "03/04/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "envelopeLegacyCaseReference",
@@ -105,7 +105,7 @@
     "FieldShowCondition": "showEnvelopeLegacyCaseReference=\"Yes\""
   },
   {
-    "LiveFrom": "03/04/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "showEnvelopeCaseReference",
@@ -117,7 +117,7 @@
     "FieldShowCondition": "envelopeCaseReference=\"{NeverShowThisFieldOnUI}\""
   },
   {
-    "LiveFrom": "03/04/2020",
+    "LiveFrom": "06/07/20200",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "showEnvelopeLegacyCaseReference",
@@ -129,7 +129,7 @@
     "FieldShowCondition": "envelopeLegacyCaseReference=\"{NeverShowThisFieldOnUI}\""
   },
   {
-    "LiveFrom": "03/04/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "searchCaseReferenceType",
@@ -140,7 +140,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "03/04/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "searchCaseReference",
@@ -151,7 +151,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "03/04/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "scannedDocuments",
@@ -162,7 +162,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "rejectRecord",
     "CaseFieldID": "scanOCRData",
@@ -173,7 +173,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "rejectRecord",
     "CaseFieldID": "scannedDocuments",
@@ -184,7 +184,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "createNewCase",
     "CaseFieldID": "scannedDocuments",
@@ -195,7 +195,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "createNewCase",
     "CaseFieldID": "scanOCRData",
@@ -206,7 +206,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "updateManually",
     "CaseFieldID": "scannedDocuments",
@@ -217,7 +217,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "updateManually",
     "CaseFieldID": "scanOCRData",
@@ -228,7 +228,7 @@
     "PageColumnNumber": 1
   },
   {
-    "LiveFrom": "30/03/2020",
+    "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "reclassifyRecord",
     "CaseFieldID": "reclassificationMessage",
