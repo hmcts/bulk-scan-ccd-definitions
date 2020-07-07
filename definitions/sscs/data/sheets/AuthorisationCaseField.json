@@ -70,6 +70,13 @@
     "CRUD": "CRUD"
   },
   {
+    "LiveFrom": "29/06/2020",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
+    "UserRole": "caseworker-sscs",
+    "CRUD": "CRUD"
+  },
+  {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "ocrDataValidationWarnings",
@@ -210,6 +217,13 @@
     "CRUD": "CRUD"
   },
   {
+    "LiveFrom": "29/06/2020",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
+    "UserRole": "caseworker-sscs-clerk",
+    "CRUD": "CRUD"
+  },
+  {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "state",
@@ -360,6 +374,13 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
+    "UserRole": "caseworker-sscs-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "29/06/2020",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
     "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
