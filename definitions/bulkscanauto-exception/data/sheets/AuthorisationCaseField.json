@@ -1,0 +1,184 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "envelopeLabel",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "poBoxJurisdiction",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "openingDate",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "scanOCRData",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "searchCaseReferenceType",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "envelopeId",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "awaitingPaymentDCNProcessing",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "paymentHistory",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "30/03/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "reclassificationMessage",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  }
+]

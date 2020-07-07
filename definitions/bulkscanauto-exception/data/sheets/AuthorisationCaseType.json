@@ -1,0 +1,8 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  }
+]

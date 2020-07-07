@@ -1,0 +1,44 @@
+[
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "[CASE_REFERENCE]",
+    "Label": "Exception Reference",
+    "DisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "[CREATED_DATE]",
+    "Label": "Exception Created Date",
+    "DisplayOrder": 2
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "Label": "Delivery Date",
+    "DisplayOrder": 3
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "Label": "New Case Reference",
+    "DisplayOrder": 4
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "Label": "Attach to Case Reference",
+    "DisplayOrder": 5
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "Label": "Form Type",
+    "DisplayOrder": 6
+  }
+]
