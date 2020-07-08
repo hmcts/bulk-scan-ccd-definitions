@@ -82,5 +82,19 @@
     "CaseFieldID": "bulkScanCaseReference",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CR"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "envelopeTestIds",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CR"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "envelopeTestIdsActions",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CR"
   }
 ]

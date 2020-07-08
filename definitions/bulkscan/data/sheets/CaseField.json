@@ -95,5 +95,23 @@
     "Label": "Exception Record Reference",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "ID": "envelopeTestIds",
+    "Label": "Envelope IDs",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "ID": "envelopeTestIdsActions",
+    "Label": "Envelope IDs and actions",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "EnvelopeAction",
+    "SecurityClassification": "PUBLIC"
   }
 ]
