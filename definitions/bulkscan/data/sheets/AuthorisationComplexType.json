@@ -122,7 +122,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseFieldID": "EnvelopeAction",
+    "CaseFieldID": "envelopeTestIdsActions",
     "ListElementCode": "envelopeId",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
@@ -130,7 +130,7 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
-    "CaseFieldID": "EnvelopeAction",
+    "CaseFieldID": "envelopeTestIdsActions",
     "ListElementCode": "action",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
