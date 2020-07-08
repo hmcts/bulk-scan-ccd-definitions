@@ -88,13 +88,13 @@
     "CaseTypeID": "Bulk_Scanned",
     "CaseFieldID": "envelopeTestIds",
     "UserRole": "caseworker-bulkscan",
-    "CRUD": "CRU"
+    "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "CaseFieldID": "envelopeTestIdsActions",
     "UserRole": "caseworker-bulkscan",
-    "CRUD": "CRU"
+    "CRUD": "CRUD"
   }
 ]
