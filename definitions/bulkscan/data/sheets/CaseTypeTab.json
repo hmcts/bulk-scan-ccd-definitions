@@ -108,5 +108,25 @@
     "TabDisplayOrder": 4,
     "CaseFieldID": "scannedDocuments",
     "TabFieldDisplayOrder": 2
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "Channel": "CaseWorker",
+    "TabID": "envelopeIds",
+    "TabLabel": "Envelope Ids",
+    "TabDisplayOrder": 5,
+    "CaseFieldID": "envelopeTestIds",
+    "TabFieldDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "Channel": "CaseWorker",
+    "TabID": "envelopeIds",
+    "TabLabel": "Envelope Ids",
+    "TabDisplayOrder": 5,
+    "CaseFieldID": "envelopeTestIdsActions",
+    "TabFieldDisplayOrder": 2
   }
 ]

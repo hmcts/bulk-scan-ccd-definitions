@@ -141,5 +141,27 @@
     "PageID": 1,
     "PageLabel": "Documentation",
     "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2019",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "editCase",
+    "CaseFieldID": "envelopeTestIds",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Documentation",
+    "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "01/01/2019",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "editCase",
+    "CaseFieldID": "envelopeTestIdsActions",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Documentation",
+    "PageDisplayOrder": 2
   }
 ]
