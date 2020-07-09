@@ -215,5 +215,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "18/06/2020",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.32",
+    "Description of Changes": "Map target case reference to searchCaseReference field for extendCaveatCase event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "09/07/2020",
+    "Created By": "Aliveni Choppa"
   }
 ]

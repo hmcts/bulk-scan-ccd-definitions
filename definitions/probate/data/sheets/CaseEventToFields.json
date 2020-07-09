@@ -264,7 +264,7 @@
     "LiveFrom": "03/04/2020",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "extendCaveatCase",
-    "CaseFieldID": "attachToCaseReference",
+    "CaseFieldID": "searchCaseReference",
     "PageFieldDisplayOrder": 5,
     "DisplayContext": "MANDATORY",
     "PageID": 1,
