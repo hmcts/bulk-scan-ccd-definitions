@@ -208,5 +208,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "29/06/2020",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "1.0.33",
+    "Description of Changes": "Enable search by formtype",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "10/07/2020",
+    "Created By": "Mustafa Dayican"
   }
 ]

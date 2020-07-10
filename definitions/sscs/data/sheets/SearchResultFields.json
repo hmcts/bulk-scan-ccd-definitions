@@ -33,5 +33,12 @@
     "CaseFieldID": "journeyClassification",
     "Label": "Journey Classification",
     "DisplayOrder": 7
+  },
+  {
+    "LiveFrom": "10/07/2020",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "Label": "Form Type",
+    "DisplayOrder": 8
   }
 ]
