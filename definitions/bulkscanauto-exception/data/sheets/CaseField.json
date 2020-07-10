@@ -1,0 +1,230 @@
+[
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "envelopeLabel",
+    "Label": "# Envelope meta data",
+    "HintText": "From Scan Envelope header",
+    "FieldType": "Label",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "journeyClassification",
+    "Label": "Journey Classification",
+    "HintText": "Was this a supplemenatry evidence / new case or exception",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "poBox",
+    "Label": "POBox",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "poBoxJurisdiction",
+    "Label": "Jurisdiction",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "formType",
+    "Label": "Form Type",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "deliveryDate",
+    "Label": "Delivery Date",
+    "FieldType": "DateTime",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "openingDate",
+    "Label": "Opening Date",
+    "FieldType": "DateTime",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "scannedDocuments",
+    "Label": "Scanned Documents",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "ScannedDocument",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "scanOCRData",
+    "Label": "Form OCR Data",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "KeyValue",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "attachToCaseReference",
+    "Label": "Attached to Case Reference",
+    "HintText": "The CCD reference number of the case the exception record is attached to",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "caseReference",
+    "Label": "Case Reference",
+    "HintText": "Reference number of the new case created from exception record",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "caseHistory",
+    "Label": "Case History",
+    "FieldType": "CaseHistoryViewer",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "searchCaseReferenceType",
+    "Label": "Case Reference Type",
+    "HintText": "Select the type of reference on which case needs to be searched",
+    "FieldType": "FixedList",
+    "FieldTypeParameter": "ReferenceType",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "searchCaseReference",
+    "Label": "Case Reference",
+    "HintText": "The number of the case to attach the envelope to",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "ocrDataValidationWarnings",
+    "Label": "OCR data validation warnings",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "TextArea",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "displayWarnings",
+    "Label": "Has warnings",
+    "HintText": "Indicates if there are any warnings to display",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "envelopeId",
+    "Label": "Envelope ID",
+    "HintText": "ID of the envelope the exception record was created from",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "awaitingPaymentDCNProcessing",
+    "Label": "Awaiting Payment DCN processing",
+    "HintText": "Indicates if the payment document control numbers are being processed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "containsPayments",
+    "Label": "Contains Payments",
+    "HintText": "Indicates if the Exception record contains payments",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "paymentHistory",
+    "Label": "Payment history",
+    "FieldType": "CasePaymentHistoryViewer",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "envelopeCaseReference",
+    "Label": "Envelope Case Reference",
+    "HintText": "The case reference number received in the envelope",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "envelopeLegacyCaseReference",
+    "Label": "Envelope Legacy Case Reference ",
+    "HintText": "The legacy case reference number received in the envelope",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "showEnvelopeCaseReference",
+    "Label": "Display Envelope Case Reference",
+    "HintText": "Indicates if the envelope case reference field should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "showEnvelopeLegacyCaseReference",
+    "Label": "Display Envelope Legacy Case Reference",
+    "HintText": "Indicates if the envelope legacy case reference field should be displayed",
+    "FieldType": "YesOrNo",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "surname",
+    "Label": "Surname",
+    "HintText": "Surname",
+    "FieldType": "Text",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "ID": "reclassificationMessage",
+    "Label": "This will reclassify exception record to **SUPPLEMENTARY_EVIDENCE_WITH_OCR**\r\n\r\n> Note : This action cannot be undone and you will need to contact service desk if the records needs to be reclassified back to it's original classification.",
+    "HintText": "Reclassify to supplementary evidence with OCR",
+    "FieldType": "Label",
+    "SecurityClassification": "PUBLIC"
+  }
+]

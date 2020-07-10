@@ -1,0 +1,38 @@
+[
+  {
+    "LiveFrom": "06/07/2020",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "cherished",
+    "ListElement": "Cherished"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "other",
+    "ListElement": "Other"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "coversheet",
+    "ListElement": "Coversheet"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "form",
+    "ListElement": "Form"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "ID": "ReferenceType",
+    "ListElementCode": "ccdCaseReference",
+    "ListElement": "CCD Case Reference"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "ID": "ReferenceType",
+    "ListElementCode": "externalCaseReference",
+    "ListElement": "Legacy Case Reference"
+  }
+]

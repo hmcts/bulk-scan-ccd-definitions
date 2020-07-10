@@ -1,0 +1,44 @@
+[
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseStateID": "ScannedRecordCaseCreated",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "06/07/20200",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseStateID": "ScannedRecordJourneyReclassified",
+    "UserRole": "caseworker-bulkscan",
+    "CRUD": "CRUD"
+  }
+]

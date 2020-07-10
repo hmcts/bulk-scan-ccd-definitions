@@ -1,0 +1,23 @@
+[
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "Label": "Form Type",
+    "DisplayOrder": 1
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "Label": "Contains Payments",
+    "DisplayOrder": 2
+  },
+  {
+    "LiveFrom": "06/07/2020",
+    "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "Label": "Surname",
+    "DisplayOrder": 3
+  }
+]
