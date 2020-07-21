@@ -3,34 +3,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-cmc-systemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-cmc-systemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-cmc-systemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseEventID": "completeAwaitingPaymentDCNProcessing",
-    "UserRole": "caseworker-cmc-systemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseEventID": "createException",
     "UserRole": "caseworker-cmc-bulkscan",
     "CRUD": "CRUD"
   },
@@ -46,27 +18,6 @@
     "CaseTypeID": "CMC_ExceptionRecord",
     "CaseEventID": "rejectRecord",
     "UserRole": "caseworker-cmc-bulkscan",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseEventID": "createException",
-    "UserRole": "caseworker-cmc",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-cmc",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "CMC_ExceptionRecord",
-    "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-cmc",
     "CRUD": "CRUD"
   }
 ]
