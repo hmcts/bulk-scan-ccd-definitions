@@ -143,139 +143,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "journeyClassification",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "poBox",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "poBoxJurisdiction",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "deliveryDate",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "openingDate",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "scannedDocuments",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "scanOCRData",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "attachToCaseReference",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "searchCaseReference",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "caseReference",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "ocrDataValidationWarnings",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "displayWarnings",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "formType",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "containsPayments",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "R"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "envelopeCaseReference",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "R"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "envelopeLegacyCaseReference",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "R"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "showEnvelopeCaseReference",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "R"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "showEnvelopeLegacyCaseReference",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "R"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "CRUD"
   },
@@ -410,13 +277,6 @@
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "caseHistory",
     "UserRole": "caseworker-probate-systemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "caseHistory",
-    "UserRole": "caseworker-probate-issuer",
     "CRUD": "CRUD"
   },
   {
@@ -549,13 +409,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "paymentHistory",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "R"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "paymentHistory",
     "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "R"
   },
@@ -607,34 +460,6 @@
     "CaseFieldID": "surname",
     "UserRole": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "surname",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "surname",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "31/03/2020",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "reclassificationMessage",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "R"
-  },
-  {
-    "LiveFrom": "31/03/2020",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseFieldID": "reclassificationMessage",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "R"
   },
   {
     "LiveFrom": "31/03/2020",

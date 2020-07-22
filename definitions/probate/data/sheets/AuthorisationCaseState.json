@@ -3,41 +3,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseStateID": "ScannedRecordReceived",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordAttachedToCase",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordCaseCreated",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordRejected",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordManuallyHandled",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordReceived",
     "UserRole": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
   },
@@ -80,41 +45,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseStateID": "ScannedRecordReceived",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordAttachedToCase",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordCaseCreated",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordRejected",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordManuallyHandled",
-    "UserRole": "caseworker-probate-caseadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordReceived",
     "UserRole": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   },
@@ -144,20 +74,6 @@
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseStateID": "ScannedRecordManuallyHandled",
     "UserRole": "caseworker-probate-bulkscan",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "31/03/2020",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordJourneyReclassified",
-    "UserRole": "caseworker-probate-issuer",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "31/03/2020",
-    "CaseTypeID": "PROBATE_ExceptionRecord",
-    "CaseStateID": "ScannedRecordJourneyReclassified",
-    "UserRole": "caseworker-probate-caseadmin",
     "CRUD": "CRUD"
   },
   {
