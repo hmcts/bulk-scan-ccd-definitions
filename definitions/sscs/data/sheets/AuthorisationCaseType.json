@@ -2,6 +2,12 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
     "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   }

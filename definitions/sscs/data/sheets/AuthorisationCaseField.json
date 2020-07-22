@@ -3,6 +3,167 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "poBoxJurisdiction",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "openingDate",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "scanOCRData",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "29/06/2020",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "22/08/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "22/08/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "envelopeId",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/09/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "awaitingPaymentDCNProcessing",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "state",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "envelopeLabel",
     "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
@@ -108,6 +269,13 @@
     "LiveFrom": "22/08/2019",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "labelJourneyClassification",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "22/08/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "labelJourneyClassification",
     "UserRole": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
@@ -158,6 +326,13 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "surname",
     "UserRole": "caseworker-sscs-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/10/2019",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "UserRole": "caseworker-sscs-systemupdate",
     "CRUD": "CRUD"
   }
 ]
