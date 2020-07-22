@@ -145,5 +145,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "18/06/2020",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.22",
+    "Description of Changes": "Remove service specific roles",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "22/07/2020",
+    "Created By": "Aliveni Choppa"
   }
 ]

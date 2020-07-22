@@ -3,34 +3,6 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseEventID": "updateManually",
-    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseEventID": "createException",
     "UserRole": "caseworker-divorce-systemupdate",
     "CRUD": "CRUD"
   },
@@ -95,13 +67,6 @@
     "CaseTypeID": "FINREM_ExceptionRecord",
     "CaseEventID": "createNewCase",
     "UserRole": "caseworker-divorce-systemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "FINREM_ExceptionRecord",
-    "CaseEventID": "createNewCase",
-    "UserRole": "caseworker-divorce-financialremedy-courtadmin",
     "CRUD": "CRUD"
   },
   {
