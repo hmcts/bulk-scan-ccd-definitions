@@ -152,5 +152,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "19/12/2019",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.23",
+    "Description of Changes": "Add 'BulkScanEnvelope' complex type for Automatic case creation and update",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "27/07/2020",
+    "Created By": "Aliveni Choppa"
   }
 ]
