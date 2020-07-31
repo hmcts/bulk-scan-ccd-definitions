@@ -95,5 +95,14 @@
     "Label": "Exception Record Reference",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "27/07/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "ID": "bulkScanEnvelopes",
+    "Label": "Bulk Scan Envelopes",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "BulkScanEnvelope",
+    "SecurityClassification": "PUBLIC"
   }
 ]
