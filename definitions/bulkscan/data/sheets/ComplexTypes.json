@@ -145,7 +145,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2020",
+    "LiveFrom": "27/07/2020",
     "ID": "BulkScanEnvelope",
     "ListElementCode": "id",
     "FieldType": "Text",
@@ -153,7 +153,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2020",
+    "LiveFrom": "27/07/2020",
     "ID": "BulkScanEnvelope",
     "ListElementCode": "action",
     "FieldType": "Text",

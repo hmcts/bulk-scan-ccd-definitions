@@ -97,7 +97,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "01/01/2018",
+    "LiveFrom": "27/07/2020",
     "CaseTypeID": "Bulk_Scanned",
     "ID": "bulkScanEnvelopes",
     "Label": "Bulk Scan Envelopes",
