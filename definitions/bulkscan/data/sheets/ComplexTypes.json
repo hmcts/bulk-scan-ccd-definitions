@@ -143,5 +143,21 @@
     "FieldType": "Text",
     "ElementLabel": "Country",
     "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "27/07/2020",
+    "ID": "BulkScanEnvelope",
+    "ListElementCode": "id",
+    "FieldType": "Text",
+    "ElementLabel": "ID",
+    "SecurityClassification": "PUBLIC"
+  },
+  {
+    "LiveFrom": "27/07/2020",
+    "ID": "BulkScanEnvelope",
+    "ListElementCode": "action",
+    "FieldType": "Text",
+    "ElementLabel": "Action",
+    "SecurityClassification": "PUBLIC"
   }
 ]

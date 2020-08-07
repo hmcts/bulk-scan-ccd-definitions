@@ -225,6 +225,13 @@
   },
   {
     "Version Number": "0.33",
+    "Description of Changes": "Add OCR data to extendCaveatCase event fields",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "07/08/2020",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.34",
     "Description of Changes": "Remove probate CCD roles",
     "Uses CCD Template": "N/A",
     "LiveFrom": "22/07/2020",
