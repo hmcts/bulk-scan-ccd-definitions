@@ -283,6 +283,17 @@
     "PageColumnNumber": 1
   },
   {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseEventID": "extendCaveatCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 7,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
     "LiveFrom": "30/09/2019",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "createNewCase",

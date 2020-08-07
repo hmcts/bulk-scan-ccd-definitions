@@ -162,6 +162,17 @@
     "PageColumnNumber": 1
   },
   {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "extendBulkScanCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 8,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseEventID": "rejectRecord",
