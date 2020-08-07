@@ -288,7 +288,7 @@
     "CaseEventID": "extendCaveatCase",
     "CaseFieldID": "scanOCRData",
     "PageFieldDisplayOrder": 7,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "MANDATORY",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1

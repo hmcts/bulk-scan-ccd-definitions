@@ -167,7 +167,7 @@
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "scanOCRData",
     "PageFieldDisplayOrder": 8,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "MANDATORY",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
