@@ -236,5 +236,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "22/07/2020",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.35",
+    "Description of Changes": "Removed probate CCD roles from AuthorisationCaseField sheet ",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "11/08/2020",
+    "Created By": "Aliveni Choppa"
   }
 ]
