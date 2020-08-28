@@ -70,6 +70,17 @@
     "PageColumnNumber": 1
   },
   {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "attachToExistingCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 7,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
     "LiveFrom": "03/04/2020",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
@@ -135,6 +146,94 @@
     "CaseFieldID": "searchCaseReference",
     "PageFieldDisplayOrder": 6,
     "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "extendBulkScanCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 7,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "03/04/2020",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "extendBulkScanCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 8,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "rejectRecord",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "rejectRecord",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "OPTIONAL",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "updateManually",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "READONLY",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "BULKSCAN_ExceptionRecord",
+    "CaseEventID": "updateManually",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "READONLY",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
