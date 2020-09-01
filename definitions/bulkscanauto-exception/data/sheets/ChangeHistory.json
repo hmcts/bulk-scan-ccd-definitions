@@ -12,5 +12,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "07/08/2020",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "1.0",
+    "Description of Changes": "Populate CaseEventToComplexFields tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "28/08/2020",
+    "Created By": "Donatas Martinkus"
   }
 ]
