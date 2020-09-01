@@ -177,7 +177,7 @@
     "ListElementCode": "value",
     "EventElementLabel": "Value",
     "PageFieldDisplayOrder": 10,
-    "DisplayContext": "MANDATORY"
+    "DisplayContext": "OPTIONAL"
   },
   {
     "LiveFrom": "01/01/2018",
@@ -377,7 +377,7 @@
     "ListElementCode": "value",
     "EventElementLabel": "Value",
     "PageFieldDisplayOrder": 10,
-    "DisplayContext": "MANDATORY"
+    "DisplayContext": "OPTIONAL"
   },
   {
     "LiveFrom": "01/01/2018",
