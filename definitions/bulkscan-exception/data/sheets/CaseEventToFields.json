@@ -75,7 +75,7 @@
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 7,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -156,7 +156,7 @@
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 7,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -167,7 +167,7 @@
     "CaseEventID": "extendBulkScanCase",
     "CaseFieldID": "scanOCRData",
     "PageFieldDisplayOrder": 8,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -178,7 +178,7 @@
     "CaseEventID": "rejectRecord",
     "CaseFieldID": "scanOCRData",
     "PageFieldDisplayOrder": 1,
-    "DisplayContext": "READONLY",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -189,7 +189,7 @@
     "CaseEventID": "rejectRecord",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 2,
-    "DisplayContext": "READONLY",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -200,7 +200,7 @@
     "CaseEventID": "createNewCase",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 1,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -211,7 +211,7 @@
     "CaseEventID": "createNewCase",
     "CaseFieldID": "scanOCRData",
     "PageFieldDisplayOrder": 2,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -222,7 +222,7 @@
     "CaseEventID": "updateManually",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 1,
-    "DisplayContext": "READONLY",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
@@ -233,7 +233,7 @@
     "CaseEventID": "updateManually",
     "CaseFieldID": "scanOCRData",
     "PageFieldDisplayOrder": 2,
-    "DisplayContext": "READONLY",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1
