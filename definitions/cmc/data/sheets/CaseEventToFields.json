@@ -71,7 +71,7 @@
     "CaseEventID": "createException",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 7,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
@@ -207,7 +207,7 @@
     "CaseEventID": "attachToExistingCase",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 7,
-    "DisplayContext": "OPTIONAL",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
@@ -218,7 +218,7 @@
     "CaseEventID": "rejectRecord",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 1,
-    "DisplayContext": "READONLY",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
@@ -229,7 +229,7 @@
     "CaseEventID": "updateManually",
     "CaseFieldID": "scannedDocuments",
     "PageFieldDisplayOrder": 1,
-    "DisplayContext": "READONLY",
+    "DisplayContext": "COMPLEX",
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
