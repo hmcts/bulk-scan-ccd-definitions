@@ -54,5 +54,12 @@
     "CaseFieldID": "formType",
     "Label": "Form Type",
     "DisplayOrder": 8
+  },
+  {
+    "LiveFrom": "15/10/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "Label": " Surname",
+    "DisplayOrder": 9
   }
 ]
