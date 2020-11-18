@@ -4,13 +4,13 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "surname",
     "Label": "Surname",
-    "DisplayOrder": 2
+    "DisplayOrder": 1
   },
   {
     "LiveFrom": "10/07/2020",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "formType",
     "Label": "Form Type",
-    "DisplayOrder": 3
+    "DisplayOrder": 2
   }
 ]
