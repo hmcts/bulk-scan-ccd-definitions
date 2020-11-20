@@ -14,10 +14,10 @@
     "DisplayOrder": 2
   },
   {
-    "LiveFrom": "15/10/2020",
+    "LiveFrom": "20/11/2020",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "surname",
-    "Label": " Surname",
+    "Label": " Deceased Surname",
     "DisplayOrder": 3
   }
 ]

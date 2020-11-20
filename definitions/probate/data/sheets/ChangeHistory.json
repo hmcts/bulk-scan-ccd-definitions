@@ -253,9 +253,9 @@
   },
   {
     "Version Number": "1.1",
-    "Description of Changes": "Add Search by surname",
+    "Description of Changes": "Add Search by deceased surname",
     "Uses CCD Template": "N/A",
-    "LiveFrom": "15/10/2020",
+    "LiveFrom": "20/11/2020",
     "Created By": "Mustafa Dayican"
   }
 ]

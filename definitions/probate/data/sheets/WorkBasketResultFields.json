@@ -59,7 +59,7 @@
     "LiveFrom": "15/10/2020",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "surname",
-    "Label": " Surname",
+    "Label": " Deceased Surname",
     "DisplayOrder": 9
   }
 ]
