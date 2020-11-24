@@ -222,5 +222,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "28/08/2020",
     "Created By": "Donatas Martinkus"
+  },
+   {
+    "Version Number": "1.1.1",
+    "Description of Changes": "Remove 'Contains payment' from SearchInputFields and WorkBasketInputFields",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "18/11/2020",
+    "Created By": "Sanchita Chowdhury"
   }
 ]
