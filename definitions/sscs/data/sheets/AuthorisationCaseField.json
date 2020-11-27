@@ -495,5 +495,12 @@
     "CaseFieldID": "surname",
     "UserRole": "caseworker-sscs",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "07/08/2020",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "envelopeId",
+    "UserRole": "caseworker-sscs-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
