@@ -26,5 +26,12 @@
     "CaseEventID": "attachScannedDocsWithOcr",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseEventID": "attachScannedDocsWithOcr",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
   }
 ]

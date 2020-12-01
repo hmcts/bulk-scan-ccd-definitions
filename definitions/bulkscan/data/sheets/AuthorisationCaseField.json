@@ -89,5 +89,96 @@
     "CaseFieldID": "bulkScanEnvelopes",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRU"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "firstName",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "lastName",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "dateOfBirth",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "email",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "address",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "contactNumber",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "scannedDocuments",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "evidenceHandled",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "legacyId",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "formType",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "bulkScanCaseReference",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CR"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "CaseFieldID": "bulkScanEnvelopes",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRU"
   }
 ]

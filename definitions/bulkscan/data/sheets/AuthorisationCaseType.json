@@ -4,5 +4,11 @@
     "CaseTypeID": "Bulk_Scanned",
     "UserRole": "caseworker-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "27/11/2020",
+    "CaseTypeID": "Bulk_Scanned",
+    "UserRole": "caseworker-bulkscan-systemupdate",
+    "CRUD": "CRUD"
   }
 ]
