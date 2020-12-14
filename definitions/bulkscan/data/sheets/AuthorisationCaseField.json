@@ -88,6 +88,6 @@
     "CaseTypeID": "Bulk_Scanned",
     "CaseFieldID": "bulkScanEnvelopes",
     "UserRole": "caseworker-bulkscan",
-    "CRUD": "CRU"
+    "CRUD": "CRUD"
   }
 ]
