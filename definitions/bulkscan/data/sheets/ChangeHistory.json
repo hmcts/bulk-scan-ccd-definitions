@@ -159,5 +159,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "27/07/2020",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.24",
+    "Description of Changes": "Add delete right 'BulkScanEnvelope' as ccd does not allow to update",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "01/12/2020",
+    "Created By": "Mustafa Dayican"
   }
 ]
