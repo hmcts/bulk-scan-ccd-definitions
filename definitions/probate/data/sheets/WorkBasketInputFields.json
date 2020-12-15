@@ -12,5 +12,12 @@
     "CaseFieldID": "containsPayments",
     "Label": "Contains Payments",
     "DisplayOrder": 2
+  },
+  {
+    "LiveFrom": "20/11/2020",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "Label": " Deceased Surname",
+    "DisplayOrder": 3
   }
 ]
