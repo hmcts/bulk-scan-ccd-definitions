@@ -52,7 +52,7 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseFieldID": "formType",
-    "Label": "Form type (e.g. PA11)",
+    "Label": "Form Type",
     "DisplayOrder": 8
   },
   {
