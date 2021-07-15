@@ -13,7 +13,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "ID": "journeyClassification",
     "Label": "Journey Classification",
-    "HintText": "Was this a supplemenatry evidence / new case or exception",
+    "HintText": "Was this a supplementary evidence / new case or exception",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
   },
