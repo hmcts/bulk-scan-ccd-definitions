@@ -26,13 +26,13 @@
   {
     "LiveFrom": "01/01/2021",
     "ID": "poBoxes",
-    "ListElementCode": "englandAndWales",
+    "ListElementCode": "12626",
     "ListElement": "England & Wales"
   },
   {
     "LiveFrom": "01/01/2021",
     "ID": "poBoxes",
-    "ListElementCode": "scotland",
+    "ListElementCode": "12628",
     "ListElement": "Scotland"
   }
 ]
