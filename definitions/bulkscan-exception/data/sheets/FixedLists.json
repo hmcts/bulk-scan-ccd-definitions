@@ -34,5 +34,17 @@
     "ID": "ReferenceType",
     "ListElementCode": "externalCaseReference",
     "ListElement": "Legacy Case Reference"
+  },
+  {
+    "LiveFrom": "01/01/2021",
+    "ID": "poBoxes",
+    "ListElementCode": "BULKSCANPO",
+    "ListElement": "England & Wales"
+  },
+  {
+    "LiveFrom": "01/01/2021",
+    "ID": "poBoxes",
+    "ListElementCode": "BULKSCANPO1",
+    "ListElement": "Scotland"
   }
 ]

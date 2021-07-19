@@ -13,7 +13,7 @@
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "ID": "journeyClassification",
     "Label": "Journey Classification",
-    "HintText": "Was this a supplemenatry evidence / new case or exception",
+    "HintText": "Was this a supplementary evidence / new case or exception",
     "FieldType": "Text",
     "SecurityClassification": "PUBLIC"
   },
@@ -22,7 +22,8 @@
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "ID": "poBox",
     "Label": "POBox",
-    "FieldType": "Text",
+    "FieldType": "FixedList",
+    "FieldTypeParameter": "poBoxes",
     "SecurityClassification": "PUBLIC"
   },
   {
