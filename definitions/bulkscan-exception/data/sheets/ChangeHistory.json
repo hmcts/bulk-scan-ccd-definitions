@@ -278,5 +278,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "28/08/2020",
     "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "1.1",
+    "Description of Changes": "Changed type of PoBox to FixedList",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "19/07/2021",
+    "Created By": "Andrey Pereverzin"
   }
 ]
