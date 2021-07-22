@@ -12,5 +12,12 @@
     "CaseFieldID": "formType",
     "Label": "Form Type",
     "DisplayOrder": 2
+  },
+  {
+    "LiveFrom": "10/07/2020",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "Label": "PO Box",
+    "DisplayOrder": 3
   }
 ]
