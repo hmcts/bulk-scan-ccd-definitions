@@ -22,7 +22,8 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "ID": "poBox",
     "Label": "POBox",
-    "FieldType": "Text",
+    "FieldType": "FixedList",
+    "FieldTypeParameter": "poBoxes",
     "SecurityClassification": "PUBLIC"
   },
   {

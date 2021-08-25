@@ -22,5 +22,17 @@
     "ID": "ScannedDocumentType",
     "ListElementCode": "form",
     "ListElement": "Form"
+  },
+  {
+    "LiveFrom": "01/01/2021",
+    "ID": "poBoxes",
+    "ListElementCode": "12626",
+    "ListElement": "England & Wales"
+  },
+  {
+    "LiveFrom": "01/01/2021",
+    "ID": "poBoxes",
+    "ListElementCode": "13150",
+    "ListElement": "Scotland"
   }
 ]

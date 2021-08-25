@@ -229,5 +229,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "18/11/2020",
     "Created By": "Sanchita Chowdhury"
+   },
+  {
+    "Version Number": "1.1",
+    "Description of Changes": "Changed type of POBox to FixedList. Added POBox toWorkbasket",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "20/07/2021",
+    "Created By": "Andrey Pereverzin"
   }
 ]
