@@ -19,5 +19,12 @@
     "CaseFieldID": "surname",
     "Label": "Deceased Surname",
     "DisplayOrder": 3
+  },
+  {
+    "LiveFrom": "30/04/2021",
+    "CaseTypeID": "PROBATE_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "Label": "Journey Classification (e.g. supplementary_evidence)",
+    "DisplayOrder": 4
   }
 ]
