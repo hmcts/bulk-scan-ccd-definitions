@@ -1,0 +1,17 @@
+[
+  {
+    "ShowEventNotes": "Y",
+    "PreConditionState(s)": "ScannedRecordReceived",
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "PostConditionState": "ScannedRecordAttachedToCase",
+    "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/attach_case",
+    "Description": "Attach record to existing case",
+    "DisplayOrder": 1,
+    "EndButtonLabel": "Save and continue",
+    "ShowSummary": "N",
+    "ID": "attachToExistingCase",
+    "SecurityClassification": "Public",
+    "Name": "Attach record to existing case"
+  }
+]

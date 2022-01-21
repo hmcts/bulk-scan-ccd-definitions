@@ -1,0 +1,17 @@
+[
+  {
+    "ShowEventNotes": "Y",
+    "PreConditionState(s)": "ScannedRecordReceived",
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "PostConditionState": "ScannedRecordCaseCreated",
+    "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/create-new-case",
+    "Description": "Create new case from exception",
+    "DisplayOrder": 4,
+    "EndButtonLabel": "Save and continue",
+    "ShowSummary": "N",
+    "ID": "createNewCase",
+    "SecurityClassification": "Public",
+    "Name": "Create new case from exception"
+  }
+]

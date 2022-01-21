@@ -1,0 +1,10 @@
+[
+  {
+    "JurisdictionID": "DIVORCE",
+    "SecurityClassification": "Public",
+    "ID": "NFD_ExceptionRecord",
+    "Description": "Exception record for new law case",
+    "Name": "New law case exception record",
+    "LiveFrom": "01/01/2017"
+  }
+]

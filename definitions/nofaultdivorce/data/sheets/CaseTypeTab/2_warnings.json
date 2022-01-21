@@ -1,0 +1,25 @@
+[
+  {
+    "TabDisplayOrder": 1,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 1,
+    "TabLabel": "warnings",
+    "TabID": "warnings"
+  },
+  {
+    "TabDisplayOrder": 1,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 2,
+    "TabLabel": "warnings",
+    "FieldShowCondition": "displayWarnings=\"ALWAYS_HIDE\"",
+    "TabID": "warnings"
+  }
+]

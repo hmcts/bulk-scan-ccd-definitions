@@ -1,0 +1,16 @@
+[
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "DisplayOrder": 1,
+    "Label": "Form type"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "DisplayOrder": 2,
+    "Label": "Contains payments"
+  }
+]

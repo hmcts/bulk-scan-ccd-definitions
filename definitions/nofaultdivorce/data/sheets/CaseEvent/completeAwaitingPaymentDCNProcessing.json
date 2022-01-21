@@ -1,0 +1,16 @@
+[
+  {
+    "ShowEventNotes": "Y",
+    "PreConditionState(s)": "*",
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "PostConditionState": "*",
+    "Description": "Complete the processing of payment document control numbers",
+    "DisplayOrder": 2,
+    "EndButtonLabel": "Save and continue",
+    "ShowSummary": "N",
+    "ID": "completeAwaitingPaymentDCNProcessing",
+    "SecurityClassification": "Public",
+    "Name": "Complete DCN processing"
+  }
+]

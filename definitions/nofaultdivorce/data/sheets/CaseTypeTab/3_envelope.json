@@ -1,0 +1,101 @@
+[
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "envelopeLabel",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 1,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 2,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 3,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "poBoxJurisdiction",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 4,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 5,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "openingDate",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 6,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 7,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 8,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  },
+  {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 9,
+    "TabLabel": "Envelope",
+    "TabID": "envelope"
+  }
+]

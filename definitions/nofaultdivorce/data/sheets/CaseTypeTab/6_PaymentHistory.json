@@ -1,0 +1,13 @@
+[
+  {
+    "TabDisplayOrder": 6,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "paymentHistory",
+    "UserRole": "",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 1,
+    "TabLabel": "Payment History",
+    "TabID": "payments"
+  }
+]

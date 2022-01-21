@@ -1,0 +1,65 @@
+[
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "DisplayOrder": 1,
+    "Label": "Delivery date"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "openingDate",
+    "DisplayOrder": 2,
+    "Label": "Opening date"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "DisplayOrder": 3,
+    "Label": "PO Box"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "poBoxJurisdiction",
+    "DisplayOrder": 4,
+    "Label": "PO Box jurisdiction"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "DisplayOrder": 5,
+    "Label": "New case reference"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "DisplayOrder": 6,
+    "Label": "Attach to case reference"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "DisplayOrder": 7,
+    "Label": "Journey classification"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "DisplayOrder": 8,
+    "Label": "Form type"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "DisplayOrder": 9,
+    "Label": "Contains payments"
+  }
+]

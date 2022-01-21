@@ -1,0 +1,27 @@
+[
+  {
+    "PageID": "createNewCase",
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "CaseEventID": "createNewCase",
+    "PageColumnNumber": 1,
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "COMPLEX",
+    "PageLabel": "Correspondence",
+    "ShowSummaryChangeOption": "Y",
+    "PageDisplayOrder": 1
+  },
+  {
+    "PageID": "createNewCase",
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "scanOCRData",
+    "CaseEventID": "createNewCase",
+    "PageColumnNumber": 1,
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "COMPLEX",
+    "ShowSummaryChangeOption": "Y",
+    "PageDisplayOrder": 1
+  }
+]
