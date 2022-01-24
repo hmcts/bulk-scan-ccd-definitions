@@ -4,14 +4,16 @@
     "FieldType": "Text",
     "LiveFrom": "01/01/2017",
     "SecurityClassification": "Public",
-    "ListElementCode": "key"
+    "ListElementCode": "key",
+    "ElementLabel": "Key"
   },
   {
     "ID": "KeyValue",
     "FieldType": "Text",
     "LiveFrom": "01/01/2017",
     "SecurityClassification": "Public",
-    "ListElementCode": "value"
+    "ListElementCode": "value",
+    "ElementLabel": "Value"
   },
   {
     "ID": "ScannedDocument",
