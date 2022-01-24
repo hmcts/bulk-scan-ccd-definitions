@@ -26,6 +26,18 @@
     "PageDisplayOrder": 1
   },
   {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseEventID": "attachToExistingCase",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "READONLY",
+    "PageID": "attachToExistingCase",
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1,
+    "FieldShowCondition": "showEnvelopeLegacyCaseReference=\"Yes\""
+  },
+  {
     "PageID": "attachToExistingCase",
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "NFD_ExceptionRecord",
