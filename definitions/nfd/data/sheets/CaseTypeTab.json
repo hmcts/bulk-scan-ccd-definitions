@@ -6,18 +6,9 @@
     "CaseFieldID": "ocrDataValidationWarnings",
     "Channel": "CaseWorker",
     "TabFieldDisplayOrder": 1,
-    "TabLabel": "warnings",
-    "TabID": "warnings"
-  },
-  {
-    "TabDisplayOrder": 2,
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "NFD_ExceptionRecord",
-    "CaseFieldID": "caseHistory",
-    "Channel": "CaseWorker",
-    "TabFieldDisplayOrder": 1,
-    "TabLabel": "History",
-    "TabID": "CaseHistory"
+    "TabLabel": "Warnings",
+    "TabID": "warnings",
+    "TabShowCondition": "displayWarnings=\"Yes\""
   },
   {
     "TabDisplayOrder": 1,
@@ -29,6 +20,16 @@
     "TabLabel": "warnings",
     "FieldShowCondition": "displayWarnings=\"ALWAYS_HIDE\"",
     "TabID": "warnings"
+  },
+  {
+    "TabDisplayOrder": 2,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "caseHistory",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 1,
+    "TabLabel": "History",
+    "TabID": "CaseHistory"
   },
   {
     "TabDisplayOrder": 3,
