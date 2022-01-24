@@ -1,0 +1,30 @@
+[
+  {
+    "LiveFrom": "01/01/2017",
+    "DisplayOrder": 1,
+    "ListElementCode": "cherished",
+    "ListElement": "Cherished",
+    "ID": "ScannedDocumentType"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "DisplayOrder": 2,
+    "ListElementCode": "coversheet",
+    "ListElement": "Coversheet",
+    "ID": "ScannedDocumentType"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "DisplayOrder": 3,
+    "ListElementCode": "form",
+    "ListElement": "Form",
+    "ID": "ScannedDocumentType"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "DisplayOrder": 4,
+    "ListElementCode": "other",
+    "ListElement": "Other",
+    "ID": "ScannedDocumentType"
+  }
+]

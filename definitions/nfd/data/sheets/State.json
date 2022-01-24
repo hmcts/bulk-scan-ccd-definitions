@@ -1,0 +1,42 @@
+[
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "Description": "A scanned record has been received",
+    "DisplayOrder": 1,
+    "ID": "ScannedRecordReceived",
+    "Name": "A scanned record has been received"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "Description": "The scanned record has been attached to existing case",
+    "DisplayOrder": 2,
+    "ID": "ScannedRecordAttachedToCase",
+    "Name": "The scanned record has been attached to existing case"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "Description": "A new case is created from scanned record",
+    "DisplayOrder": 3,
+    "ID": "ScannedRecordCaseCreated",
+    "Name": "A new case is created from scanned record"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "Description": "The scanned record has been rejected",
+    "DisplayOrder": 4,
+    "ID": "ScannedRecordRejected",
+    "Name": "The scanned record has been rejected"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "Description": "The scanned record has been handled by CW manually",
+    "DisplayOrder": 5,
+    "ID": "ScannedRecordManuallyHandled",
+    "Name": "The scanned record has been handled by CW manually"
+  }
+]

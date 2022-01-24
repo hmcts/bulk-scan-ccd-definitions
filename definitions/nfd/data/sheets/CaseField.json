@@ -1,0 +1,211 @@
+[
+  {
+    "ID": "envelopeLabel",
+    "FieldType": "Label",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "From scan envelope header",
+    "LiveFrom": "01/01/2017",
+    "Label": "# Envelope meta data",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "journeyClassification",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Was this a supplementary evidence / new case or exception",
+    "LiveFrom": "01/01/2017",
+    "Label": "Journey classification",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "poBox",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "PO box",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "poBoxJurisdiction",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Jurisdiction",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "deliveryDate",
+    "FieldType": "DateTime",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Delivery date",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "openingDate",
+    "FieldType": "DateTime",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Opening date",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "scannedDocuments",
+    "FieldTypeParameter": "ScannedDocument",
+    "FieldType": "Collection",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Scanned documents",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "scanOCRData",
+    "FieldTypeParameter": "KeyValue",
+    "FieldType": "Collection",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Form OCR data",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "attachToCaseReference",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "The number of the case to attach the envelop to",
+    "LiveFrom": "01/01/2017",
+    "Label": "Attach to case reference",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "caseReference",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Reference number of the new case created from exception record",
+    "LiveFrom": "01/01/2017",
+    "Label": "Case reference",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "ocrDataValidationWarnings",
+    "FieldTypeParameter": "TextArea",
+    "FieldType": "Collection",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "OCR data validation warnings",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "displayWarnings",
+    "FieldType": "YesOrNo",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Indicates if warnings tab should be displayed",
+    "LiveFrom": "01/01/2017",
+    "Label": "Display warnings",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "formType",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Form type",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "envelopeId",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Id of the envelope the exception record was created from",
+    "LiveFrom": "01/01/2017",
+    "Label": "Envelope Id",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "awaitingPaymentDCNProcessing",
+    "FieldType": "YesOrNo",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Indicates if the payment document control numbers are being processed",
+    "LiveFrom": "01/01/2017",
+    "Label": "Awaiting Payment DCN processing",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "containsPayments",
+    "FieldType": "YesOrNo",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Indicates if the exception record contains payments",
+    "LiveFrom": "01/01/2017",
+    "Label": "Contains payments",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "envelopeCaseReference",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Id of the envelope the exception record was created from",
+    "LiveFrom": "01/01/2017",
+    "Label": "Envelope Id",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "envelopeLegacyCaseReference",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "The legacy case reference number received in the envelope",
+    "LiveFrom": "01/01/2017",
+    "Label": "Envelope legacy case reference",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "showEnvelopeCaseReference",
+    "FieldType": "YesOrNo",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Indicates if the envelope case reference field should be displayed",
+    "LiveFrom": "01/01/2017",
+    "Label": "Display envelope case reference",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "showEnvelopeLegacyCaseReference",
+    "FieldType": "YesOrNo",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Indicates if the envelope case reference field should be displayed",
+    "LiveFrom": "01/01/2017",
+    "Label": "Display envelope legacy case reference",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "surname",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "Surname",
+    "LiveFrom": "01/01/2017",
+    "Label": "Surname",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "searchCaseReference",
+    "FieldType": "Text",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "HintText": "The case reference to attach the envelope to",
+    "LiveFrom": "01/01/2017",
+    "Label": "Case Reference",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "caseHistory",
+    "FieldType": "CaseHistoryViewer",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Case History",
+    "SecurityClassification": "Public"
+  },
+  {
+    "ID": "paymentHistory",
+    "FieldType": "CasePaymentHistoryViewer",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "LiveFrom": "01/01/2017",
+    "Label": "Payment history",
+    "SecurityClassification": "Public"
+  }
+]

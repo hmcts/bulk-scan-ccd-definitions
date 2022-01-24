@@ -1,0 +1,37 @@
+[
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "[CREATED_DATE]",
+    "DisplayOrder": 1,
+    "Label": "Exception created date"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "DisplayOrder": 2,
+    "Label": "Delivery date"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "DisplayOrder": 3,
+    "Label": "New case reference"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "DisplayOrder": 4,
+    "Label": "Attach to case reference"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "DisplayOrder": 5,
+    "Label": "Form type"
+  }
+]
