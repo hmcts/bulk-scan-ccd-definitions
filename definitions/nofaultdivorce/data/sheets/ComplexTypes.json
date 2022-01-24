@@ -1,5 +1,19 @@
 [
   {
+    "ID": "KeyValue",
+    "FieldType": "Text",
+    "LiveFrom": "01/01/2017",
+    "SecurityClassification": "Public",
+    "ListElementCode": "key"
+  },
+  {
+    "ID": "KeyValue",
+    "FieldType": "Text",
+    "LiveFrom": "01/01/2017",
+    "SecurityClassification": "Public",
+    "ListElementCode": "value"
+  },
+  {
     "ID": "ScannedDocument",
     "FieldType": "Label",
     "ElementLabel": "Scanned Records",
