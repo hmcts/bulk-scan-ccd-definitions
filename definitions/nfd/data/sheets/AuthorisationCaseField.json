@@ -399,35 +399,35 @@
     "CaseFieldID": "caseHistory"
   },
   {
-    "CRUD": "R",
+    "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "UserRole": "caseworker-divorce-systemupdate",
     "LiveFrom": "01/01/2017",
     "CaseFieldID": "ocrDataValidationWarnings"
   },
   {
-    "CRUD": "R",
+    "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "UserRole": "caseworker-divorce-systemupdate",
     "LiveFrom": "01/01/2017",
     "CaseFieldID": "displayWarnings"
   },
   {
-    "CRUD": "R",
+    "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "UserRole": "caseworker-divorce-systemupdate",
     "LiveFrom": "01/01/2017",
     "CaseFieldID": "caseReference"
   },
   {
-    "CRUD": "R",
+    "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "UserRole": "caseworker-divorce-systemupdate",
     "LiveFrom": "01/01/2017",
     "CaseFieldID": "attachToCaseReference"
   },
   {
-    "CRUD": "R",
+    "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "UserRole": "caseworker-divorce-systemupdate",
     "LiveFrom": "01/01/2017",
@@ -439,5 +439,40 @@
     "UserRole": "caseworker-divorce-systemupdate",
     "LiveFrom": "01/01/2017",
     "CaseFieldID": "paymentHistory"
+  },
+  {
+    "CRUD": "CRUD",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "LiveFrom": "01/01/2017",
+    "CaseFieldID": "awaitingPaymentDCNProcessing"
+  },
+  {
+    "CRUD": "CRUD",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "LiveFrom": "01/01/2017",
+    "CaseFieldID": "surname"
+  },
+  {
+    "CRUD": "CRUD",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "UserRole": "caseworker-divorce-bulkscan",
+    "LiveFrom": "01/01/2017",
+    "CaseFieldID": "surname"
+  },
+  {
+    "CRUD": "CRUD",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "LiveFrom": "01/01/2017",
+    "CaseFieldID": "surname"
+  },
+  {
+    "CRUD": "CRUD",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "UserRole": "caseworker-divorce-systemupdate",
+    "LiveFrom": "01/01/2017",
+    "CaseFieldID": "envelopeId"
   }
 ]
