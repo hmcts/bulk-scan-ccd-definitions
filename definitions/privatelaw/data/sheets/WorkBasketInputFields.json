@@ -1,6 +1,6 @@
 [
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "CaseFieldID": "containsPayments",
     "Label": "Contains Payments",

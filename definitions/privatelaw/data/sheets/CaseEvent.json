@@ -1,6 +1,6 @@
 [
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "createException",
     "Name": "Create an exception record",
@@ -10,7 +10,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "attachToExistingCase",
     "Name": "Attach record to existing case",
@@ -23,7 +23,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "rejectRecord",
     "Name": "Reject record",
@@ -34,7 +34,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "updateManually",
     "Name": "Manually handle record",
@@ -45,7 +45,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "completeAwaitingPaymentDCNProcessing",
     "Name": "Complete DCN processing",

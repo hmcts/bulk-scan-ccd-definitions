@@ -1,6 +1,6 @@
 [
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "envelopeLabel",
     "Label": "# Envelope meta data",
@@ -9,7 +9,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "journeyClassification",
     "Label": "Journey Classification",
@@ -18,7 +18,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "poBox",
     "Label": "PO Box",
@@ -26,7 +26,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "poBoxJurisdiction",
     "Label": "Jurisdiction",
@@ -34,7 +34,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "deliveryDate",
     "Label": "Delivery Date",
@@ -42,7 +42,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "openingDate",
     "Label": "Opening Date",
@@ -50,7 +50,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "scannedDocuments",
     "Label": "Scanned Documents",
@@ -59,7 +59,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "scanOCRData",
     "Label": "Form OCR Data",
@@ -68,7 +68,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
@@ -77,7 +77,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "caseHistory",
     "Label": "Case History",
@@ -85,7 +85,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "ocrDataValidationWarnings",
     "Label": "OCR data validation warnings",
@@ -94,7 +94,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "displayWarnings",
     "Label": "Display warnings",
@@ -103,7 +103,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "formType",
     "Label": "Form Type",
@@ -111,7 +111,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "envelopeId",
     "Label": "Envelope ID",
@@ -120,7 +120,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "awaitingPaymentDCNProcessing",
     "Label": "Awaiting Payment DCN processing",
@@ -129,7 +129,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "containsPayments",
     "Label": "Contains Payments",
@@ -138,7 +138,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "envelopeCaseReference",
     "Label": "Envelope Case Reference",
@@ -147,7 +147,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "envelopeLegacyCaseReference",
     "Label": "Envelope Legacy Case Reference",
@@ -156,7 +156,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "showEnvelopeCaseReference",
     "Label": "Display Envelope Case Reference",
@@ -165,7 +165,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "showEnvelopeLegacyCaseReference",
     "Label": "Display Envelope Legacy Case Reference",
@@ -174,7 +174,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "CaseTypeID": "PRLAPPS_ExceptionRecord",
     "ID": "surname",
     "Label": "Surname",

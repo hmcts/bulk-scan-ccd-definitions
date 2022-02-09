@@ -1,6 +1,6 @@
 [
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "KeyValue",
     "ListElementCode": "key",
     "FieldType": "Text",
@@ -8,7 +8,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "KeyValue",
     "ListElementCode": "value",
     "FieldType": "Text",
@@ -16,7 +16,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "# Record Meta data",
     "FieldType": "Label",
@@ -24,7 +24,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "type",
     "FieldType": "FixedList",
@@ -33,7 +33,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "subtype",
     "FieldType": "Text",
@@ -41,7 +41,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "url",
     "FieldType": "Document",
@@ -49,7 +49,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "controlNumber",
     "FieldType": "Text",
@@ -57,7 +57,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "fileName",
     "FieldType": "Text",
@@ -65,7 +65,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "scannedDate",
     "FieldType": "DateTime",
@@ -73,7 +73,7 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "17/02/2020",
+    "LiveFrom": "10/02/2021",
     "ID": "ScannedDocument",
     "ListElementCode": "deliveryDate",
     "FieldType": "DateTime",
