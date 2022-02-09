@@ -1,0 +1,9 @@
+[
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "Label": "Contains Payments",
+    "DisplayOrder": 1
+  }
+]

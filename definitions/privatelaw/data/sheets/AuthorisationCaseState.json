@@ -1,0 +1,72 @@
+[
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordCaseCreated",
+    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "UserRole": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "UserRole": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordCaseCreated",
+    "UserRole": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "UserRole": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "UserRole": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
+  }
+]

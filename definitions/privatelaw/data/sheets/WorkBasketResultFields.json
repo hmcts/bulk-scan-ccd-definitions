@@ -1,0 +1,44 @@
+[
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseFieldID": "[CASE_REFERENCE]",
+    "Label": "Exception ID",
+    "DisplayOrder": 1
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseFieldID": "[CREATED_DATE]",
+    "Label": "Exception Created Date",
+    "DisplayOrder": 2
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "Label": "Delivery Date",
+    "DisplayOrder": 3
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "Label": "Attach to Case Reference",
+    "DisplayOrder": 4
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "Label": "PO Box",
+    "DisplayOrder": 5
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "Label": "Journey Classification",
+    "DisplayOrder": 6
+  }
+]

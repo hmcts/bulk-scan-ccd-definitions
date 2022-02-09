@@ -1,0 +1,14 @@
+[
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/02/2020",
+    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "UserRole": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
+  }
+]

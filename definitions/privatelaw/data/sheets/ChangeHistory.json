@@ -1,0 +1,23 @@
+[
+  {
+    "Version Number": "0.01",
+    "Description of Changes": "Created FPLA exception record definition",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "17/02/2020",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.02",
+    "Description of Changes": "Add searchCaseReference field to attachToExistingCase event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "29/06/2020",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "1.00",
+    "Description of Changes": "Populate CaseEventToComplexFields tab",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "28/08/2020",
+    "Created By": "Donatas Martinkus"
+  }
+]
