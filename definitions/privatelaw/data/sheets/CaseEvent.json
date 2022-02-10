@@ -1,7 +1,7 @@
 [
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "createException",
     "Name": "Create an exception record",
     "Description": "Create an exception record",
@@ -10,8 +10,8 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "attachToExistingCase",
     "Name": "Attach record to existing case",
     "Description": "Attach record to existing case",
@@ -23,8 +23,8 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "rejectRecord",
     "Name": "Reject record",
     "Description": "Reject record",
@@ -34,8 +34,8 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "updateManually",
     "Name": "Manually handle record",
     "Description": "Manually handle record",
@@ -45,8 +45,8 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "completeAwaitingPaymentDCNProcessing",
     "Name": "Complete DCN processing",
     "Description": "Complete the processing of payment document control numbers",

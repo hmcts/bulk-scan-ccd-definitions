@@ -1,7 +1,7 @@
 [
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "envelopeLabel",
     "Label": "# Envelope meta data",
     "HintText": "From Scan Envelope header",
@@ -9,8 +9,8 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "journeyClassification",
     "Label": "Journey Classification",
     "HintText": "Was this a supplementary evidence / new case or exception",
@@ -18,40 +18,40 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "poBox",
     "Label": "PO Box",
     "FieldType": "Text",
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "poBoxJurisdiction",
     "Label": "Jurisdiction",
     "FieldType": "Text",
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "deliveryDate",
     "Label": "Delivery Date",
     "FieldType": "DateTime",
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "openingDate",
     "Label": "Opening Date",
     "FieldType": "DateTime",
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "scannedDocuments",
     "Label": "Scanned Documents",
     "FieldType": "Collection",
@@ -59,8 +59,8 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "scanOCRData",
     "Label": "Form OCR Data",
     "FieldType": "Collection",
@@ -68,8 +68,8 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
     "HintText": "The number of the case to attach the envelop to",
@@ -77,16 +77,16 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "caseHistory",
     "Label": "Case History",
     "FieldType": "CaseHistoryViewer",
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "ocrDataValidationWarnings",
     "Label": "OCR data validation warnings",
     "FieldType": "Collection",
@@ -94,8 +94,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "displayWarnings",
     "Label": "Display warnings",
     "HintText": "Indicates if Warnings tab should be displayed",
@@ -103,16 +103,16 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "formType",
     "Label": "Form Type",
     "FieldType": "Text",
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "envelopeId",
     "Label": "Envelope ID",
     "HintText": "ID of the envelope the exception record was created from",
@@ -120,8 +120,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "awaitingPaymentDCNProcessing",
     "Label": "Awaiting Payment DCN processing",
     "HintText": "Indicates if the payment document control numbers are being processed",
@@ -129,8 +129,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "containsPayments",
     "Label": "Contains Payments",
     "HintText": "Indicates if the Exception record contains payments",
@@ -138,8 +138,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "envelopeCaseReference",
     "Label": "Envelope Case Reference",
     "HintText": "The case reference number received in the envelope",
@@ -147,8 +147,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "envelopeLegacyCaseReference",
     "Label": "Envelope Legacy Case Reference",
     "HintText": "The legacy case reference number received in the envelope",
@@ -156,8 +156,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "showEnvelopeCaseReference",
     "Label": "Display Envelope Case Reference",
     "HintText": "Indicates if the envelope case reference field should be displayed",
@@ -165,8 +165,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "showEnvelopeLegacyCaseReference",
     "Label": "Display Envelope Legacy Case Reference",
     "HintText": "Indicates if the envelope legacy case reference field should be displayed",
@@ -174,8 +174,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "surname",
     "Label": "Surname",
     "HintText": "Surname",
@@ -183,8 +183,8 @@
     "SecurityClassification": "PUBLIC"
   },
   {
-    "LiveFrom": "29/06/2020",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "searchCaseReference",
     "Label": "Case Reference",
     "HintText": "The number of the case to attach the envelop to",

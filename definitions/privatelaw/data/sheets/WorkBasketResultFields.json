@@ -1,42 +1,42 @@
 [
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "[CASE_REFERENCE]",
     "Label": "Exception ID",
     "DisplayOrder": 1
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "[CREATED_DATE]",
     "Label": "Exception Created Date",
     "DisplayOrder": 2
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "deliveryDate",
     "Label": "Delivery Date",
     "DisplayOrder": 3
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
     "Label": "Attach to Case Reference",
     "DisplayOrder": 4
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "poBox",
     "Label": "PO Box",
     "DisplayOrder": 5
   },
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "journeyClassification",
     "Label": "Journey Classification",
     "DisplayOrder": 6

@@ -1,7 +1,7 @@
 [
   {
-    "LiveFrom": "10/02/2021",
-    "CaseTypeID": "PRLAPPS_ExceptionRecord",
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "containsPayments",
     "Label": "Contains Payments",
     "DisplayOrder": 1
