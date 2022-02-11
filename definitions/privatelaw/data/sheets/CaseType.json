@@ -1,0 +1,11 @@
+[
+  {
+    "LiveFrom": "10/02/2022",
+    "ID": "PRIVATELAW_ExceptionRecord",
+    "Name": "Exception Record",
+    "Description": "Bulkscanning Exception Record",
+    "JurisdictionID": "PRIVATELAW",
+    "SecurityClassification": "Public"
+  }
+]
+

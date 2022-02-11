@@ -1,0 +1,26 @@
+[
+  {
+    "LiveFrom": "10/02/2022",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "cherished",
+    "ListElement": "Cherished"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "other",
+    "ListElement": "Other"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "form",
+    "ListElement": "Form"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "coversheet",
+    "ListElement": "Coversheet"
+  }
+]
