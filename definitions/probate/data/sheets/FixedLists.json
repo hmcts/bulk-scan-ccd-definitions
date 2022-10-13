@@ -52,11 +52,5 @@
     "ID": "ScannedDocumentType",
     "ListElementCode": "pps_legal_statement",
     "ListElement": "PP's Legal Statement"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "ID": "ScannedDocumentType",
-    "ListElementCode": "death_certificate",
-    "ListElement": "Death Certificate"
   }
 ]

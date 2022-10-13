@@ -285,5 +285,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "19/07/2021",
     "Created By": "Andrey Pereverzin"
+  },
+  {
+    "Version Number": "1.2",
+    "Description of Changes": "Add new document type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "12/10/2022",
+    "Created By": "Aliveni Choppa"
   }
 ]
