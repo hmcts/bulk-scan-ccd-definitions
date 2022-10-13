@@ -22,5 +22,41 @@
     "ID": "ScannedDocumentType",
     "ListElementCode": "form",
     "ListElement": "Form"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "will",
+    "ListElement": "Will"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "supporting_documents",
+    "ListElement": "Supporting Documents"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "forensic_sheets",
+    "ListElement": "Forensic Sheets"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "iht",
+    "ListElement": "IHT"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "pps_legal_statement",
+    "ListElement": "PP's Legal Statement"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "death_certificate",
+    "ListElement": "Death Certificate"
   }
 ]
