@@ -142,9 +142,9 @@
     "ID": "envelopeCaseReference",
     "FieldType": "Text",
     "CaseTypeID": "NFD_ExceptionRecord",
-    "HintText": "Id of the envelope the exception record was created from",
+    "HintText": "Case reference received in the envelope",
     "LiveFrom": "01/01/2017",
-    "Label": "Envelope Id",
+    "Label": "Envelope case reference",
     "SecurityClassification": "Public"
   },
   {

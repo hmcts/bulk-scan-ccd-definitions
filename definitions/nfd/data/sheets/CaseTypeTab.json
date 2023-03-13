@@ -122,6 +122,17 @@
     "TabID": "envelope"
   },
   {
+    "TabDisplayOrder": 3,
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NFD_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "Channel": "CaseWorker",
+    "TabFieldDisplayOrder": 10,
+    "TabLabel": "Envelope",
+    "TabID": "envelope",
+    "FieldShowCondition": "envelopeCaseReference!=\"\""
+  },
+  {
     "TabDisplayOrder": 4,
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "NFD_ExceptionRecord",
