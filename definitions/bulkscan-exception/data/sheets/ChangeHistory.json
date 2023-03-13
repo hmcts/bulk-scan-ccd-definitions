@@ -287,7 +287,6 @@
     "Created By": "Andrey Pereverzin"
   },
   {
-
     "Version Number": "1.1.01",
     "Description of Changes": "Remove special characters from FieldShowCondition",
     "Uses CCD Template": "N/A",
