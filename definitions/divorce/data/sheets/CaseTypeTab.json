@@ -19,7 +19,7 @@
     "TabDisplayOrder": 1,
     "CaseFieldID": "displayWarnings",
     "TabFieldDisplayOrder": 2,
-    "FieldShowCondition": "displayWarnings=\"{NeverShowThisField}\""
+    "FieldShowCondition": "displayWarnings=\"DO_NOT_SHOW\""
   },
   {
     "LiveFrom": "01/01/2017",

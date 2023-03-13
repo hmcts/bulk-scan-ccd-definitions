@@ -287,10 +287,18 @@
     "Created By": "Andrey Pereverzin"
   },
   {
-    "Version Number": "1.2",
+
+    "Version Number": "1.1.01",
+    "Description of Changes": "Remove special characters from FieldShowCondition",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "03/03/2023",
+    "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "1.1.02",
     "Description of Changes": "Add new document type",
     "Uses CCD Template": "N/A",
-    "LiveFrom": "12/10/2022",
+    "LiveFrom": "13/03/2023",
     "Created By": "Aliveni Choppa"
   }
 ]
