@@ -61,5 +61,33 @@
     "CaseEventID": "updateManually",
     "UserRole": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "createException",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "attachToExistingCase",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "rejectRecord",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "updateManually",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
   }
 ]

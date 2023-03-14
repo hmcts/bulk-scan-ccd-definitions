@@ -292,5 +292,145 @@
     "CaseFieldID": "surname",
     "UserRole": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "envelopeLabel",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "poBoxJurisdiction",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "openingDate",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "scanOCRData",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "caseHistory",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "UserRole": "caseworker-privatelaw-courtadmin",
+    "CRUD": "CRUD"
   }
 ]
