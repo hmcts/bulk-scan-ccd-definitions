@@ -152,5 +152,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "28/08/2020",
     "Created By": "Donatas Martinkus"
+  },
+  {
+    "Version Number": "1.0.01",
+    "Description of Changes": "Remove special characters from FieldShowCondition",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "03/03/2023",
+    "Created By": "Aliveni Choppa"
   }
 ]

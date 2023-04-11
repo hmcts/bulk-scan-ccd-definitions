@@ -176,7 +176,7 @@
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1,
-    "FieldShowCondition": "envelopeCaseReference=\"{NeverShowThisFieldOnUI}\""
+    "FieldShowCondition": "envelopeCaseReference=\"DO_NOT_SHOW\""
   },
   {
     "LiveFrom": "17/02/2020",
@@ -188,7 +188,7 @@
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageColumnNumber": 1,
-    "FieldShowCondition": "envelopeLegacyCaseReference=\"{NeverShowThisFieldOnUI}\""
+    "FieldShowCondition": "envelopeLegacyCaseReference=\"DO_NOT_SHOW\""
   },
   {
     "LiveFrom": "17/02/2020",
