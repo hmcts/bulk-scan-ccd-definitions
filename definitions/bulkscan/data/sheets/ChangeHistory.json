@@ -166,5 +166,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "01/12/2020",
     "Created By": "Mustafa Dayican"
+  },
+  {
+    "Version Number": "1.01",
+    "Description of Changes": "Add new document type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "12/10/2022",
+    "Created By": "Aliveni Choppa"
   }
 ]

@@ -22,5 +22,11 @@
     "ID": "ScannedDocumentType",
     "ListElementCode": "form",
     "ListElement": "Form"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "supporting_documents",
+    "ListElement": "Supporting Documents"
   }
 ]

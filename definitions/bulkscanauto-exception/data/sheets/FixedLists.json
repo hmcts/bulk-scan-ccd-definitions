@@ -25,6 +25,12 @@
   },
   {
     "LiveFrom": "06/07/2020",
+    "ID": "ScannedDocumentType",
+    "ListElementCode": "supporting_documents",
+    "ListElement": "Supporting Documents"
+  },
+  {
+    "LiveFrom": "06/07/2020",
     "ID": "ReferenceType",
     "ListElementCode": "ccdCaseReference",
     "ListElement": "CCD Case Reference"

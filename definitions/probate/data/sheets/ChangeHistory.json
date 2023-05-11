@@ -278,5 +278,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "03/03/2023",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "2.0.4",
+    "Description of Changes": "Add new document type",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "13/03/2023",
+    "Created By": "Aliveni Choppa"
   }
 ]
