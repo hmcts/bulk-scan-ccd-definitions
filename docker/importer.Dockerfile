@@ -1,8 +1,8 @@
 # ---- Base image - order important ----
-FROM hmcts/ccd-definition-processor:latest as base
+FROM hmctspublic.azurecr.io/ccd/definition-processor:latest as base
 
 # ----        Runtime image         ----
-FROM hmcts/ccd-definition-importer:latest as runtime
+FROM hmctspublic.azurecr.io/ccd/definition-importer:latest as runtime
 RUN apk add --no-cache curl jq zip unzip git
 COPY --from=base . .
 
@@ -17,5 +17,7 @@ ENV ENV_VAR ${ENV_VAR}
 
 COPY ./data /data
 
-
-CMD source /env/$ENV_VAR"-env-variables.sh" && cp /env/ccd-template.xlsx  /opt/ccd-definition-processor/data/ccd-template.xlsx  && cd /opt/ccd-definition-processor && yarn json2xlsx -D /data/sheets -o /data/${FILE_NAME}.xlsx
+CMD source /env/$ENV_VAR"-env-variables.sh" && \
+    cp /env/ccd-template.xlsx  /opt/ccd-definition-processor/data/ccd-template.xlsx  && \
+    cd /opt/ccd-definition-processor && \
+    yarn json2xlsx -D /data/sheets -o /data/${FILE_NAME}.xlsx -e 'ChangeHistory.json'
