@@ -7,7 +7,8 @@
     "Description": "Create an exception record",
     "DisplayOrder": 1,
     "PostConditionState": "ScannedRecordReceived",
-    "SecurityClassification": "Public"
+    "SecurityClassification": "Public",
+    "Publish" : "True"
   },
   {
     "LiveFrom": "10/02/2022",
@@ -20,7 +21,8 @@
     "PostConditionState": "ScannedRecordAttachedToCase",
     "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/attach_case",
     "RetriesTimeoutURLAboutToSubmitEvent": 10,
-    "SecurityClassification": "Public"
+    "SecurityClassification": "Public",
+    "Publish" : "True"
   },
   {
     "LiveFrom": "10/02/2022",
@@ -31,7 +33,8 @@
     "DisplayOrder": 3,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordRejected",
-    "SecurityClassification": "Public"
+    "SecurityClassification": "Public",
+    "Publish" : "True"
   },
   {
     "LiveFrom": "10/02/2022",
@@ -42,19 +45,7 @@
     "DisplayOrder": 4,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordManuallyHandled",
-    "SecurityClassification": "Public"
-  },
-  {
-    "LiveFrom": "10/02/2022",
-    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
-    "ID": "completeAwaitingPaymentDCNProcessing",
-    "Name": "Complete DCN processing",
-    "Description": "Complete the processing of payment document control numbers",
-    "DisplayOrder": 5,
-    "PreConditionState(s)": "*",
-    "PostConditionState": "*",
     "SecurityClassification": "Public",
-    "ShowEventNotes": "N",
-    "CanSaveDraft": "N"
+    "Publish" : "True"
   }
 ]

@@ -30,13 +30,6 @@
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
-    "CaseEventID": "completeAwaitingPaymentDCNProcessing",
-    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "10/02/2022",
-    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "createException",
     "UserRole": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
