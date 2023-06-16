@@ -36,7 +36,7 @@
     "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/create-new-case",
     "RetriesTimeoutURLAboutToSubmitEvent": 30,
     "SecurityClassification": "Public",
-    "ShowEventNotes": "N",
+    "ShowEventNotes": "Y",
     "CanSaveDraft": "N"
   },
   {
