@@ -10,5 +10,11 @@
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "UserRole": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "UserRole": "caseworker-privatelaw-systemupdate",
+    "CRUD": "CRUD"
   }
 ]
