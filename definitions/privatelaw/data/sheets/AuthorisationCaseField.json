@@ -256,35 +256,35 @@
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "containsPayments",
     "UserRole": "caseworker-privatelaw-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "envelopeCaseReference",
     "UserRole": "caseworker-privatelaw-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "envelopeLegacyCaseReference",
     "UserRole": "caseworker-privatelaw-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "showEnvelopeCaseReference",
     "UserRole": "caseworker-privatelaw-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseFieldID": "showEnvelopeLegacyCaseReference",
     "UserRole": "caseworker-privatelaw-bulkscan",
-    "CRUD": "CRUD"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "10/02/2022",
