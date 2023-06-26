@@ -3,28 +3,28 @@
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "UserRole": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "UserRole": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "UserRole": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-privatelaw-bulkscansystemupdate",
+    "UserRole": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
