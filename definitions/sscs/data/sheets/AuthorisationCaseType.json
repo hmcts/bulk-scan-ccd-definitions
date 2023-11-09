@@ -2,12 +2,6 @@
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
-    "UserRole": "caseworker-sscs",
-    "CRUD": "CRUD"
-  },
-  {
-    "LiveFrom": "01/01/2018",
-    "CaseTypeID": "SSCS_ExceptionRecord",
     "UserRole": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
@@ -15,6 +9,60 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "UserRole": "caseworker-sscs-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-systemupdate",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-judge",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-panelmember",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-superuser",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-registrar",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-anonymouscitizen",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-callagent",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-teamleader",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "01/01/2018",
+    "CaseTypeID": "SSCS_ExceptionRecord",
+    "UserRole": "caseworker-sscs-hmrcresponsewriter",
     "CRUD": "CRUD"
   }
 ]
