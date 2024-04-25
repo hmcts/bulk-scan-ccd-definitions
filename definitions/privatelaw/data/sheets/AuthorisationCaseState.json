@@ -68,5 +68,40 @@
     "CaseStateID": "ScannedRecordManuallyHandled",
     "UserRole": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "UserRole": "caseworker-wa-task-configuration",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "UserRole": "caseworker-wa-task-configuration",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseStateID": "ScannedRecordCaseCreated",
+    "UserRole": "caseworker-wa-task-configuration",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "UserRole": "caseworker-wa-task-configuration",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "UserRole": "caseworker-wa-task-configuration",
+    "CRUD": "R"
   }
 ]

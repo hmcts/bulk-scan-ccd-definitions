@@ -41,7 +41,8 @@
     "DisplayContext": "OPTIONAL",
     "PageID": 1,
     "PageLabel": "Correspondence",
-    "PageDisplayOrder": 1
+    "PageDisplayOrder": 1,
+    "Publish" : "True"
   },
   {
     "LiveFrom": "10/02/2022",

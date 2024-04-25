@@ -54,5 +54,19 @@
     "CaseEventID": "updateManually",
     "UserRole": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "createException",
+    "UserRole": "caseworker-wa-task-configuration",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "10/02/2022",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "attachToExistingCase",
+    "UserRole": "caseworker-wa-task-configuration",
+    "CRUD": "R"
   }
 ]
