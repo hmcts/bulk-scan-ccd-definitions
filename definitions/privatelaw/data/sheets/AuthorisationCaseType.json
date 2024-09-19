@@ -2,19 +2,19 @@
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
-    "UserRole": "caseworker-privatelaw-systemupdate",
+    "AccessProfile": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
-    "UserRole": "caseworker-privatelaw-bulkscan",
+    "AccessProfile": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
-    "UserRole": "caseworker-wa-task-configuration",
+    "AccessProfile": "caseworker-wa-task-configuration",
     "CRUD": "R"
   }
 ]

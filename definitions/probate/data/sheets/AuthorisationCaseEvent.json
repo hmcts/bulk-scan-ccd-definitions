@@ -3,84 +3,84 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-probate-systemupdate",
+    "AccessProfile": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-probate-systemupdate",
+    "AccessProfile": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-probate-systemupdate",
+    "AccessProfile": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-probate-systemupdate",
+    "AccessProfile": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "completeAwaitingPaymentDCNProcessing",
-    "UserRole": "caseworker-probate-systemupdate",
+    "AccessProfile": "caseworker-probate-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-probate-bulkscan",
+    "AccessProfile": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-probate-bulkscan",
+    "AccessProfile": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-probate-bulkscan",
+    "AccessProfile": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-probate-bulkscan",
+    "AccessProfile": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "30/09/2019",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "createNewCase",
-    "UserRole": "caseworker-probate-bulkscan",
+    "AccessProfile": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "31/03/2020",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "reclassifyRecord",
-    "UserRole": "caseworker-probate-bulkscan",
+    "AccessProfile": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "31/03/2020",
     "CaseTypeID": "PROBATE_ExceptionRecord",
     "CaseEventID": "extendCaveatCase",
-    "UserRole": "caseworker-probate-bulkscan",
+    "AccessProfile": "caseworker-probate-bulkscan",
     "CRUD": "CRUD"
   }
 ]

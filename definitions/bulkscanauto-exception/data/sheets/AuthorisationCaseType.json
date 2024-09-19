@@ -2,7 +2,7 @@
   {
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   }
 ]

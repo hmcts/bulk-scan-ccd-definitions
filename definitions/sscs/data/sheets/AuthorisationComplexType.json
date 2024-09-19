@@ -4,7 +4,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "type",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
@@ -12,7 +12,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "subtype",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
@@ -20,7 +20,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "url",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
@@ -28,7 +28,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "controlNumber",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
@@ -36,7 +36,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "fileName",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
@@ -44,7 +44,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "scannedDate",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
@@ -52,7 +52,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "deliveryDate",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
@@ -60,7 +60,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "type",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
@@ -68,7 +68,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "subtype",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
@@ -76,7 +76,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "url",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
@@ -84,7 +84,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "controlNumber",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
@@ -92,7 +92,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "fileName",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
@@ -100,7 +100,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "scannedDate",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
@@ -108,7 +108,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "deliveryDate",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
@@ -116,7 +116,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "type",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
@@ -124,7 +124,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "subtype",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
@@ -132,7 +132,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "url",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
@@ -140,7 +140,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "controlNumber",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
@@ -148,7 +148,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "fileName",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
@@ -156,7 +156,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "scannedDate",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
@@ -164,7 +164,7 @@
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
     "ListElementCode": "deliveryDate",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   }
 ]

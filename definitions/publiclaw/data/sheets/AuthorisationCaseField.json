@@ -3,294 +3,294 @@
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "journeyClassification",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "poBox",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "poBoxJurisdiction",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "deliveryDate",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "openingDate",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "scanOCRData",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "29/06/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "searchCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "caseHistory",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "ocrDataValidationWarnings",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "displayWarnings",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "formType",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "envelopeId",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "containsPayments",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "envelopeCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "envelopeLegacyCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "showEnvelopeCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "showEnvelopeLegacyCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "awaitingPaymentDCNProcessing",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "surname",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "envelopeLabel",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "journeyClassification",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "poBox",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "poBoxJurisdiction",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "deliveryDate",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "openingDate",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "scannedDocuments",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "scanOCRData",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "attachToCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "29/06/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "searchCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "caseHistory",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "ocrDataValidationWarnings",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "displayWarnings",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "formType",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "containsPayments",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "R"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "envelopeCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "R"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "envelopeLegacyCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "R"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "showEnvelopeCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "R"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "showEnvelopeLegacyCaseReference",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "R"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseFieldID": "surname",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   }
 ]

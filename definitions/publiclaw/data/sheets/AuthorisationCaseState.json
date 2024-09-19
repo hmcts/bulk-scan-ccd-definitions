@@ -3,70 +3,70 @@
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordReceived",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordAttachedToCase",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordCaseCreated",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordRejected",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordManuallyHandled",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordReceived",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordAttachedToCase",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordCaseCreated",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordRejected",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
     "CaseStateID": "ScannedRecordManuallyHandled",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   }
 ]
