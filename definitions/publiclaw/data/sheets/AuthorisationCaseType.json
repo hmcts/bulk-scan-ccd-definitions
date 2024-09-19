@@ -2,13 +2,13 @@
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
-    "UserRole": "caseworker-publiclaw-bulkscansystemupdate",
+    "AccessProfile": "caseworker-publiclaw-bulkscansystemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "17/02/2020",
     "CaseTypeID": "PUBLICLAW_ExceptionRecord",
-    "UserRole": "caseworker-publiclaw-bulkscan",
+    "AccessProfile": "caseworker-publiclaw-bulkscan",
     "CRUD": "CRUD"
   }
 ]

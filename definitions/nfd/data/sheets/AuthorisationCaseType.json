@@ -1,19 +1,19 @@
 [
   {
     "CRUD": "CRU",
-    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "AccessProfile": "caseworker-divorce-courtadmin_beta",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017"
   },
   {
     "CRUD": "CRU",
-    "UserRole": "caseworker-divorce-bulkscan",
+    "AccessProfile": "caseworker-divorce-bulkscan",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017"
   },
   {
     "CRUD": "CRU",
-    "UserRole": "caseworker-divorce-systemupdate",
+    "AccessProfile": "caseworker-divorce-systemupdate",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017"
   }

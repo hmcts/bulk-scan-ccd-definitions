@@ -3,105 +3,105 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "createNewCase",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "02/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-sscs",
+    "AccessProfile": "caseworker-sscs",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "createNewCase",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "02/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-sscs-clerk",
+    "AccessProfile": "caseworker-sscs-clerk",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "createNewCase",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "02/01/2018",
     "CaseTypeID": "SSCS_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-sscs-bulkscan",
+    "AccessProfile": "caseworker-sscs-bulkscan",
     "CRUD": "CRUD"
   }
 ]

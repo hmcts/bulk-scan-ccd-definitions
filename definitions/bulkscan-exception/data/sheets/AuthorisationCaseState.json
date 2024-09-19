@@ -3,42 +3,42 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseStateID": "ScannedRecordReceived",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseStateID": "ScannedRecordAttachedToCase",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseStateID": "ScannedRecordCaseCreated",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseStateID": "ScannedRecordRejected",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseStateID": "ScannedRecordManuallyHandled",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "30/03/2020",
     "CaseTypeID": "BULKSCAN_ExceptionRecord",
     "CaseStateID": "ScannedRecordJourneyReclassified",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   }
 ]

@@ -3,56 +3,56 @@
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "createNewCase",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "completeAwaitingPaymentDCNProcessing",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "06/07/2020",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "reclassifyRecord",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "06/07/20200",
     "CaseTypeID": "BULKSCANAUTO_ExceptionRecord",
     "CaseEventID": "extendBulkScanCase",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   }
 ]

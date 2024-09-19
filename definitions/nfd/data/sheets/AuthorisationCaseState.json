@@ -3,105 +3,105 @@
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "AccessProfile": "caseworker-divorce-courtadmin_beta",
     "CaseStateID": "ScannedRecordReceived"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-systemupdate",
+    "AccessProfile": "caseworker-divorce-systemupdate",
     "CaseStateID": "ScannedRecordReceived"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-bulkscan",
+    "AccessProfile": "caseworker-divorce-bulkscan",
     "CaseStateID": "ScannedRecordReceived"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "AccessProfile": "caseworker-divorce-courtadmin_beta",
     "CaseStateID": "ScannedRecordManuallyHandled"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-systemupdate",
+    "AccessProfile": "caseworker-divorce-systemupdate",
     "CaseStateID": "ScannedRecordManuallyHandled"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-bulkscan",
+    "AccessProfile": "caseworker-divorce-bulkscan",
     "CaseStateID": "ScannedRecordManuallyHandled"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "AccessProfile": "caseworker-divorce-courtadmin_beta",
     "CaseStateID": "ScannedRecordRejected"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-systemupdate",
+    "AccessProfile": "caseworker-divorce-systemupdate",
     "CaseStateID": "ScannedRecordRejected"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-bulkscan",
+    "AccessProfile": "caseworker-divorce-bulkscan",
     "CaseStateID": "ScannedRecordRejected"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "AccessProfile": "caseworker-divorce-courtadmin_beta",
     "CaseStateID": "ScannedRecordAttachedToCase"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-systemupdate",
+    "AccessProfile": "caseworker-divorce-systemupdate",
     "CaseStateID": "ScannedRecordAttachedToCase"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-bulkscan",
+    "AccessProfile": "caseworker-divorce-bulkscan",
     "CaseStateID": "ScannedRecordAttachedToCase"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-courtadmin_beta",
+    "AccessProfile": "caseworker-divorce-courtadmin_beta",
     "CaseStateID": "ScannedRecordCaseCreated"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-systemupdate",
+    "AccessProfile": "caseworker-divorce-systemupdate",
     "CaseStateID": "ScannedRecordCaseCreated"
   },
   {
     "CRUD": "CRUD",
     "CaseTypeID": "NFD_ExceptionRecord",
     "LiveFrom": "01/01/2017",
-    "UserRole": "caseworker-divorce-bulkscan",
+    "AccessProfile": "caseworker-divorce-bulkscan",
     "CaseStateID": "ScannedRecordCaseCreated"
   }
 ]

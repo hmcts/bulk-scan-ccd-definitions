@@ -3,70 +3,70 @@
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-privatelaw-systemupdate",
+    "AccessProfile": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-privatelaw-systemupdate",
+    "AccessProfile": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-privatelaw-systemupdate",
+    "AccessProfile": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-privatelaw-systemupdate",
+    "AccessProfile": "caseworker-privatelaw-systemupdate",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-privatelaw-bulkscan",
+    "AccessProfile": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-privatelaw-bulkscan",
+    "AccessProfile": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "rejectRecord",
-    "UserRole": "caseworker-privatelaw-bulkscan",
+    "AccessProfile": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "updateManually",
-    "UserRole": "caseworker-privatelaw-bulkscan",
+    "AccessProfile": "caseworker-privatelaw-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "createException",
-    "UserRole": "caseworker-wa-task-configuration",
+    "AccessProfile": "caseworker-wa-task-configuration",
     "CRUD": "R"
   },
   {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "CaseEventID": "attachToExistingCase",
-    "UserRole": "caseworker-wa-task-configuration",
+    "AccessProfile": "caseworker-wa-task-configuration",
     "CRUD": "R"
   }
 ]

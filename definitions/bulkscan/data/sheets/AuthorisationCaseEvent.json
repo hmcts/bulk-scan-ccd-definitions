@@ -3,28 +3,28 @@
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "CaseEventID": "createCase",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "CaseEventID": "attachScannedDocs",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "CaseEventID": "handleEvidence",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "Bulk_Scanned",
     "CaseEventID": "attachScannedDocsWithOcr",
-    "UserRole": "caseworker-bulkscan",
+    "AccessProfile": "caseworker-bulkscan",
     "CRUD": "CRUD"
   }
 ]
