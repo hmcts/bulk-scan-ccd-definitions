@@ -256,5 +256,27 @@
     "PageID": 1,
     "PageLabel": "Correspondence",
     "PageDisplayOrder": 1
+  },
+  {
+    "LiveFrom": "30/10/2024",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scannedDocuments",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "COMPLEX",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
+  },
+  {
+    "LiveFrom": "30/10/2024",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "CaseFieldID": "scanOCRData",
+    "PageFieldDisplayOrder": 2,
+    "DisplayContext": "COMPLEX",
+    "PageID": 1,
+    "PageLabel": "Correspondence",
+    "PageColumnNumber": 1
   }
 ]

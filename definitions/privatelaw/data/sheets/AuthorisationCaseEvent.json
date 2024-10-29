@@ -68,5 +68,12 @@
     "CaseEventID": "attachToExistingCase",
     "AccessProfile": "caseworker-wa-task-configuration",
     "CRUD": "R"
+  },
+  {
+    "LiveFrom": "30/09/2019",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "AccessProfile": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
   }
 ]
