@@ -34,5 +34,11 @@
     "ID": "poBoxes",
     "ListElementCode": "13150",
     "ListElement": "Scotland"
+  },
+  {
+    "LiveFrom": "22/01/2025",
+    "ID": "poBoxes",
+    "ListElementCode": "13618",
+    "ListElement": "IBCA England & Wales"
   }
 ]
