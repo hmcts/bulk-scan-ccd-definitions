@@ -45,7 +45,7 @@
     "ID": "rejectRecord",
     "Name": "Reject record",
     "Description": "Reject record",
-    "DisplayOrder": 3,
+    "DisplayOrder": 4,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordRejected",
     "SecurityClassification": "Public",
@@ -57,10 +57,23 @@
     "ID": "updateManually",
     "Name": "Manually handle record",
     "Description": "Manually handle record",
-    "DisplayOrder": 4,
+    "DisplayOrder": 5,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordManuallyHandled",
     "SecurityClassification": "Public",
     "Publish" : "True"
+  },
+  {
+    "LiveFrom": "17/03/2025",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "ID": "completeAwaitingPaymentDCNProcessing",
+    "Name": "Complete DCN processing",
+    "Description": "Complete the processing of payment document control numbers",
+    "DisplayOrder": 6,
+    "PreConditionState(s)": "*",
+    "PostConditionState": "*",
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "CanSaveDraft": "N"
   }
 ]

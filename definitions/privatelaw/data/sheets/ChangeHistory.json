@@ -12,5 +12,12 @@
     "Uses CCD Template": "N/A",
     "LiveFrom": "03/03/2023",
     "Created By": "Aliveni Choppa"
+  },
+  {
+    "Version Number": "0.03",
+    "Description of Changes": "Add completeAwaitingPaymentDCNProcessing event",
+    "Uses CCD Template": "N/A",
+    "LiveFrom": "17/03/2025",
+    "Created By": "Sairam Manchella"
   }
 ]
