@@ -68,5 +68,19 @@
     "CaseEventID": "attachToExistingCase",
     "AccessProfile": "caseworker-wa-task-configuration",
     "CRUD": "R"
+  },
+  {
+    "LiveFrom": "30/09/2019",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "createNewCase",
+    "AccessProfile": "caseworker-privatelaw-bulkscan",
+    "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "17/03/2025",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "CaseEventID": "completeAwaitingPaymentDCNProcessing",
+    "AccessProfile": "caseworker-privatelaw-systemupdate",
+    "CRUD": "CRUD"
   }
 ]

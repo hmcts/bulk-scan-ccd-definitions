@@ -25,12 +25,27 @@
     "Publish" : "True"
   },
   {
+    "LiveFrom": "29/10/2024",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "ID": "createNewCase",
+    "Name": "Create new case from exception",
+    "Description": "Create a new case from exception",
+    "DisplayOrder": 3,
+    "PreConditionState(s)": "ScannedRecordReceived",
+    "PostConditionState": "ScannedRecordCaseCreated",
+    "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/create-new-case",
+    "RetriesTimeoutURLAboutToSubmitEvent": 30,
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "CanSaveDraft": "N"
+  },
+  {
     "LiveFrom": "10/02/2022",
     "CaseTypeID": "PRIVATELAW_ExceptionRecord",
     "ID": "rejectRecord",
     "Name": "Reject record",
     "Description": "Reject record",
-    "DisplayOrder": 3,
+    "DisplayOrder": 4,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordRejected",
     "SecurityClassification": "Public",
@@ -42,10 +57,23 @@
     "ID": "updateManually",
     "Name": "Manually handle record",
     "Description": "Manually handle record",
-    "DisplayOrder": 4,
+    "DisplayOrder": 5,
     "PreConditionState(s)": "ScannedRecordReceived",
     "PostConditionState": "ScannedRecordManuallyHandled",
     "SecurityClassification": "Public",
     "Publish" : "True"
+  },
+  {
+    "LiveFrom": "17/03/2025",
+    "CaseTypeID": "PRIVATELAW_ExceptionRecord",
+    "ID": "completeAwaitingPaymentDCNProcessing",
+    "Name": "Complete DCN processing",
+    "Description": "Complete the processing of payment document control numbers",
+    "DisplayOrder": 6,
+    "PreConditionState(s)": "*",
+    "PostConditionState": "*",
+    "SecurityClassification": "Public",
+    "ShowEventNotes": "N",
+    "CanSaveDraft": "N"
   }
 ]
