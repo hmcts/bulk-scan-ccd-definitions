@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-if [ "$1" != "aat" ] && [ "$1" != "demo" ]  && [ "$1" != "perftest" ] && [ "$1" != "prod" ]; then
+if [ "$1" != "aat" ] && [ "$1" != "demo" ] && [ "$1" != "ithc" ] && [ "$1" != "perftest" ] && [ "$1" != "prod" ]; then
     echo "wrong environment"
     exit 1
 fi

@@ -24,7 +24,7 @@ The JSON files are in the directory data/sheets. There is a JSON file for each C
 ```
 ../../bin/json2xlsx.sh {ENV}
 
-ENV= can be aat, demo or prod
+ENV= can be aat, demo, ithc, perftest or prod
 
 
 ```
