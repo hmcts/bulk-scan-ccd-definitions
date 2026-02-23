@@ -16,5 +16,11 @@
     "CaseTypeID": "FINREM_ExceptionRecord",
     "AccessProfile": "caseworker-divorce-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "UserRole": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
   }
 ]

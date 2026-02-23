@@ -103,5 +103,40 @@
     "CaseStateID": "ScannedRecordManuallyHandled",
     "AccessProfile": "caseworker-divorce-bulkscan",
     "CRUD": "CRUD"
+  },
+    {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseStateID": "ScannedRecordReceived",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseStateID": "ScannedRecordAttachedToCase",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseStateID": "ScannedRecordCaseCreated",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseStateID": "ScannedRecordRejected",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseStateID": "ScannedRecordManuallyHandled",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
   }
 ]
