@@ -166,5 +166,61 @@
     "ListElementCode": "deliveryDate",
     "AccessProfile": "caseworker-divorce-bulkscan",
     "CRUD": "CRUD"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "type",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "subtype",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "url",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "controlNumber",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "fileName",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "scannedDate",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "ListElementCode": "deliveryDate",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
   }
 ]

@@ -474,5 +474,159 @@
     "CaseFieldID": "caseReference",
     "AccessProfile": "caseworker-divorce-financialremedy-courtadmin",
     "CRUD": "CRUD"
+  },
+    {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "envelopeLabel",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "journeyClassification",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "poBox",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "poBoxJurisdiction",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "deliveryDate",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "openingDate",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scannedDocuments",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "scanOCRData",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "attachToCaseReference",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "searchCaseReference",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "ocrDataValidationWarnings",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "displayWarnings",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "formType",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "containsPayments",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "envelopeCaseReference",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "envelopeLegacyCaseReference",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeCaseReference",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "showEnvelopeLegacyCaseReference",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "caseHistory",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "surname",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "paymentHistory",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
+  },
+  {
+    "LiveFrom": "23/02/2026",
+    "CaseTypeID": "FINREM_ExceptionRecord",
+    "CaseFieldID": "caseReference",
+    "AccessProfile": "caseworker-divorce-financialremedy-judiciary",
+    "CRUD": "R"
   }
 ]
