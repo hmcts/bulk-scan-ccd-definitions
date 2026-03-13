@@ -6,8 +6,7 @@
     "Name": "Create an exception record",
     "Description": "Create an exception record",
     "DisplayOrder": 1,
-    "PreConditionState(s)": "ScannedRecordRejected",
-    "PostConditionState": "ScannedRecordReceived",
+    "PreConditionState(s)": "",
     "SecurityClassification": "Public"
   },
   {
@@ -47,7 +46,7 @@
     "Name": "Create new case from exception",
     "Description": "Create a new case from exception",
     "DisplayOrder": 3,
-    "PreConditionState(s)": "ScannedRecordReceived",
+    "PreConditionState(s)": "ScannedRecordReceived,ScannedRecordRejected",
     "PostConditionState": "ScannedRecordCaseCreated",
     "CallBackURLAboutToSubmitEvent": "${CCD_DEF_BULK_SCAN_ORCHESTRATOR_URL}/callback/create-new-case",
     "RetriesTimeoutURLAboutToSubmitEvent": 30,
